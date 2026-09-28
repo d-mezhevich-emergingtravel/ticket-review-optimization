@@ -64,7 +64,7 @@ where
     and b.cancelled_date_time < b.free_cancellation_before
     and tph.first_payment_dt < b.cancelled_date_time
     and b.cancellation_reason in ('user', 'partner')
-    and b.cancelled_date_time :: date between :stard_dt and :end_dt
+    and b.cancelled_date_time :: date between :start_dt and :end_dt
 order by
     losses desc
 limit

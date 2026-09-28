@@ -845,6 +845,8 @@ markers_with_check as (
  
                     -- ============ Письмо на сверку (проверяется до отключения ORA-проверок) ============
                     when m.need_reconciliation_mail = true
+                        -- письмо на сверку направляется в том контуре, где бронирование куплено у отеля
+                        -- (связано с деконсолидацией). Для ru-контура здесь должно быть 'ru', а не 'global'
                         and m.type_country = 'global'
                         and m.has_reconciliation_mail = false
                         then '2.3 Extranet, Письмо на сверку'
@@ -911,6 +913,7 @@ select
     ct.order_id,
     ps.payout,
     ps.refund,
+    ps.payout - ps.refund as losses,
     case
         when ct.brand = 'whitelabel' then 'ostrovok.ru'
         else ct.brand
@@ -961,5 +964,5 @@ left join ticket_disputes as td
     on td.ticket_id = ct.ticket_id
 left join ticket_region as tr
     on tr.ticket_id = ct.ticket_id
-order by ct.ticket_id
+order by losses desc, ct.ticket_id
 limit 999999
