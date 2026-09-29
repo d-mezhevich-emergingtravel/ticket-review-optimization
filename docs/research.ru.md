@@ -8,10 +8,12 @@
 
 | Раздел | Источник данных |
 |---|---|
-| 1, 5, 6 | [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql) |
+| 1, 5 | [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql) |
 | 2, 3, 4 | [`02_rvi_metrics.sql`](../research/sql/02_rvi_metrics.sql) |
-| 7 | [`07_mail_dispute_ora.sql`](../research/sql/07_mail_dispute_ora.sql) |
+| 6, 7 | [`07_mail_dispute_ora.sql`](../research/sql/07_mail_dispute_ora.sql) |
 | 8 | таблица собрана вручную |
+
+Запросы выдают сырые данные по тикетам. Разбивка на бакеты, показатели ER, AI и RVI и остальные расчёты разделов 2–7 сделаны не в SQL, а в Power Query внутри Excel-файлов с данными исследования. Ссылка на файл дана в каждом разделе. Для разделов 2–4 это общая [таблица с данными исследования](https://drive.google.com/file/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/view?usp=sharing).
 
 ## 📋 Содержание
 
@@ -31,15 +33,24 @@
 
 Период исследования: апрель 2025 — апрель 2026.
 
-Запрос: [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql). Его запускали двумя частями по периоду, результаты объединены в один набор.
+Запрос: [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql). Его запускали двумя частями:
+
+| Часть | `:dt_start` | `:dt_end` |
+|---|---|---|
+| 1 | 2025-03-31 | 2025-11-02 |
+| 2 | 2025-11-03 | 2026-05-03 |
+
+Результаты обеих частей склеены в один CSV-файл. Это базовый датасет исследования: его же загружают на вход запросам разделов 2 и 7.
 
 Расчеты были проведены как общий вал внесенных изменений не в зависимости от знака числа. `payments_gross_delta` вычислялся как `ABS(paid_delta + received_delta)`.
 
-Запрос для проверки: [`01_payments_vs_losses_check.sql`](../research/sql/01_payments_vs_losses_check.sql), на вход через CSV загружается результат `01_payments_vs_losses.sql`. [Результат проверки](https://docs.google.com/spreadsheets/d/1SoDT8pC12KsF9Cz2XNJb5tSqNJaqLzsA/edit?gid=240623139#gid=240623139)
+Запрос для проверки: [`01_payments_vs_losses_check.sql`](../research/sql/01_payments_vs_losses_check.sql), на вход ему загружается тот же CSV. Запрос выдаёт набор данных для сравнения payments и losses, дальше он разобран вручную в Excel.
 
 ---
 
 ### 📊 Результаты проверок
+
+[Результат проверки](https://drive.google.com/file/d/1SoDT8pC12KsF9Cz2XNJb5tSqNJaqLzsA/view?usp=sharing): датасет из запроса проверки и его ручной разбор.
 
 **Проверка на всем промежутке изменений**
 
@@ -75,7 +86,9 @@ Payments больше на 9k USD чем losses. Проблема та же, ч�
 
 ## 2. Разработка индекса/показателя для отображения ценности внесенных изменений
 
-Запрос: [`02_rvi_metrics.sql`](../research/sql/02_rvi_metrics.sql). На вход через CSV загружается результат запроса раздела 1, вот эти [входные данные](https://drive.google.com/file/d/1oWKZUSU45pP981e6WfXHqHq_d-DbDCEM/view?usp=drive_link) для запроса.
+Запрос: [`02_rvi_metrics.sql`](../research/sql/02_rvi_metrics.sql). На вход через CSV загружается результат запроса раздела 1, вот эти [входные данные](https://drive.google.com/file/d/1oWKZUSU45pP981e6WfXHqHq_d-DbDCEM/view?usp=sharing) для запроса.
+
+Запрос выдаёт сырой набор данных по тикетам. Показатели ниже и разбивка на бакеты считаются по этому набору в Power Query, в [таблице с данными исследования](https://drive.google.com/file/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/view?usp=sharing).
 
 В результате были выведены несколько показателей для дальнейшего анализа и исследования:
 
@@ -146,7 +159,7 @@ RVI = ER × AI
 
 ## 3. Разбитие потерь на бакеты и общее исследование
 
-[Данные для исследования](https://docs.google.com/spreadsheets/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/edit?gid=250012859#gid=250012859), источник — [`02_rvi_metrics.sql`](../research/sql/02_rvi_metrics.sql).
+[Данные для исследования](https://drive.google.com/file/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/view?usp=sharing). Сырые данные взяты из [`02_rvi_metrics.sql`](../research/sql/02_rvi_metrics.sql), бакеты и показатели посчитаны в Power Query внутри этого файла.
 
 Слайсинг общего сета с бакетами с применением новых рассчитанных показателей подтверждает теорию: большинство крупных изменений вносится в дорогих тикетах и в тикетах с отрицательными потерями.
 
@@ -174,7 +187,7 @@ RVI = ER × AI
 
 ## 4. Более глубокое исследование нулевых тикетов, тикетов с отрицательными потерями, тикетов с положительными потерями от 0 до 1 000 $, тикетов с положительными потерями от 1 500 $ и выявление границ проверки тикетов
 
-> Используем все те же [данные для исследования](https://docs.google.com/spreadsheets/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/edit?gid=250012859#gid=250012859), что и в п. 3.
+> Используем все те же [данные для исследования](https://drive.google.com/file/d/1XjrQ3dvaJbFKBBj1fB1OoT9hPWzTfuIR/view?usp=sharing), что и в п. 3.
 
 После более глубокого и детального исследования индекса RVI, распределенного по бакетам, а также анализа других показателей — таких как количество тикетов и ошибочных кейсов в бакете, показатель error rate и другие — можно утверждать, что с экономической точки зрения мы можем ограничить проверку тикетов следующими рамками.
 
@@ -225,7 +238,7 @@ RVI = ER × AI
 
 Цель исследования — изучить распределение текущих потерь в таких тикетах и определить их удельный вес относительно всех потерь внутри отчетного месяца. Таким образом мы сможем наглядно увидеть, насколько существенно отсутствие контроля этих кейсов способно исказить результаты аналитических отчетов и исследований причин потерь.
 
-[Данные для исследования](https://docs.google.com/spreadsheets/d/1a0AUiWp7OBbV6hNbD4ydKoL9NFNrtJZt/edit?usp=sharing&ouid=116210249397657010435&rtpof=true&sd=true), источник — [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql).
+[Данные для исследования](https://drive.google.com/file/d/1a0AUiWp7OBbV6hNbD4ydKoL9NFNrtJZt/view?usp=sharing). Сырые данные — результат запроса [раздела 1](#1-проверить-разницу-между-исправлением-в-блоке-payments-и-полем-crmtickets_ticketlosses_sum-в-течение-года), [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql): его запускают двумя частями по периоду, как описано в разделе 1, и склеенный результат выгружают в Excel или CSV. Расчёты сделаны в Power Query внутри этого файла.
 
 ---
 
@@ -260,7 +273,7 @@ RVI = ER × AI
 
 Поскольку средняя сумма компенсации отличается в зависимости от бренда (в частности, для бренда B2C Ru она ниже, чем для остальных), необходимо проверить целесообразность изменения границ проверки для каждого бренда в отдельности. Для этого текущий датасет будет сегментирован по бакетам аналогично предыдущим исследованиям, но с дополнительной разбивкой по каждому конкретному бренду.
 
-[Данные для исследования](https://docs.google.com/spreadsheets/d/1Sax6LFSEYvBESWhDM2n80ExiWAQSjKsG/edit?usp=sharing&ouid=116210249397657010435&rtpof=true&sd=true), источник — [`01_payments_vs_losses.sql`](../research/sql/01_payments_vs_losses.sql).
+[Данные для исследования](https://drive.google.com/file/d/1Sax6LFSEYvBESWhDM2n80ExiWAQSjKsG/view?usp=sharing). Сырые данные взяты из запроса [раздела 7](#7-исследование-изменений-письмо-на-сверку-проставление-диспута-ora), [`07_mail_dispute_ora.sql`](../research/sql/07_mail_dispute_ora.sql): основа у разделов 6 и 7 общая. Расчёты сделаны в Power Query внутри этого файла.
 
 ---
 
@@ -331,7 +344,7 @@ RVI = ER × AI
 
 Соответственно, именно эти три показателя отражают реальную экономию средств компании, когда мы не оплачиваем избыточные требования поставщиков. Таким образом, после проведения исследования по установке предполагаемых границ для проверки тикетов на основе показателя gross, нам необходимо отдельно проанализировать, насколько сильно данные ограничения повлияют на реально сохраняемые деньги компании по этим трем ключевым направлениям.
 
-Запрос: [`07_mail_dispute_ora.sql`](../research/sql/07_mail_dispute_ora.sql), на вход через CSV загружается результат запроса раздела 1. [Данные](https://docs.google.com/spreadsheets/d/11PdgjZn3E27k8Yvf0xDaQl_4jQgWdS8W/edit?usp=sharing&ouid=116210249397657010435&rtpof=true&sd=true)
+Запрос: [`07_mail_dispute_ora.sql`](../research/sql/07_mail_dispute_ora.sql), на вход через CSV загружается результат запроса раздела 1. [Данные](https://drive.google.com/file/d/11PdgjZn3E27k8Yvf0xDaQl_4jQgWdS8W/view?usp=sharing): запрос выдаёт сырые данные, расчёты сделаны в Power Query внутри этого файла.
 
 ---
 
@@ -369,7 +382,7 @@ RVI = ER × AI
 
 ## 8. Сводная таблица экономических данных для принятия решения
 
-[Данные для исследования](https://docs.google.com/spreadsheets/d/1QRddlVktvaPg2TUKLBHUlxtsNaOpxqsY/edit?usp=sharing&ouid=116210249397657010435&rtpof=true&sd=true). Таблица собрана вручную по результатам разделов 3–7.
+[Данные для исследования](https://drive.google.com/file/d/1QRddlVktvaPg2TUKLBHUlxtsNaOpxqsY/view?usp=sharing). Таблица собрана вручную по результатам разделов 3–7.
 
 > Данные основаны на статистике за 13 месяцев (56 недель). Средняя ставка специалиста: 422,13 RUB/ч (2 490 BYN/мес).
 

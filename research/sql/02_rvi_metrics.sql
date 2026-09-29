@@ -202,7 +202,12 @@ select
         coalesce(td_1w.paid_sum_delta_rub_total / nullif(cur.usd_in_rub, 0), 0)
         + coalesce(td_1w.received_sum_delta_rub_total / nullif(cur.usd_in_rub, 0), 0)
         + coalesce(dr_1w.received_dispute_rub / nullif(cur.usd_in_rub, 0), 0)
-    ) :: numeric(30, 2) as gross
+    ) :: numeric(30, 2) as gross,
+    (
+        coalesce(td_1w.paid_sum_delta_rub_total / nullif(cur.usd_in_rub, 0), 0)
+        + coalesce(td_1w.received_sum_delta_rub_total / nullif(cur.usd_in_rub, 0), 0)
+        + coalesce(dr_1w.received_dispute_rub / nullif(cur.usd_in_rub, 0), 0)
+    ) :: numeric(30, 2) as net
 from
     input_data as inp
     left join ticket_deltas_1w as td_1w
