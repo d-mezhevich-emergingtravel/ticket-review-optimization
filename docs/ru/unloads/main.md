@@ -6,8 +6,8 @@
 
 Выгрузка работает с 1 октября 2026 года. Она заменила три старые выгрузки: основную, закрытые и нули (см. [как было раньше](../workflow.md#-как-было-раньше)).
 
-- Запрос: [`sql/main_prod.sql`](../../../sql/main_prod.sql)
-- Сохранённый запрос в SQL Editor: https://sqleditor.srv.team/?executed=1&tab=results&query_id=9295816
+- Запрос INT: [`sql/main_prod_int.sql`](../../../sql/main_prod_int.sql)
+- Сохранённый запрос INT в SQL Editor: https://sqleditor.srv.team/?executed=1&tab=results&query_id=4366597
 - Владелец запроса: d.mezhevich. С вопросами по алертам, ложным срабатываниям и пропущенным ошибкам специалист обращается к нему.
 
 ---

@@ -6,8 +6,8 @@ The main extract selects closed tickets with money movement and flags those wher
 
 The extract has been in operation since October 1, 2026. It replaced three old extracts: main, closed and zeros (see [how it worked before](../workflow.md#-how-it-worked-before)).
 
-- Query: [`sql/main_prod.sql`](../../../sql/main_prod.sql)
-- Saved query in SQL Editor: https://sqleditor.srv.team/?executed=1&tab=results&query_id=9295816
+- INT query: [`sql/main_prod_int.sql`](../../../sql/main_prod_int.sql)
+- Saved INT query in SQL Editor: https://sqleditor.srv.team/?executed=1&tab=results&query_id=4366597
 - Query owner: d.mezhevich. For questions about alerts, false positives and missed errors, the specialist contacts them.
 
 ---
