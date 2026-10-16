@@ -6,7 +6,7 @@ The research answers two questions: does it make sense to reduce manual ticket r
 
 - **Period:** April 2025 — April 2026 (13 months).
 - **Tickets:** CRM, Hotel product, Incident and Complaint categories.
-- **Queries:** stored in [`research/sql/`](../../research/sql/), the number in the file name matches the section number. The project results queries (`results_*.sql`) are stored there too, without a number. The basis is the section 1 query: its result is exported to CSV and loaded as input to the section 2 and 7 queries.
+- **Queries:** stored in [`research/sql/`](../../research/sql/), the number in the file name matches the section number. The project results queries (`results_*.sql`) are stored there too, without a number. The basis is the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query: its result is exported to CSV and loaded as input to the section [2](#2-developing-an-index-to-show-the-value-of-changes-made) and [7](#7-analysis-of-reconciliation-emails-disputes-and-ora) queries.
 
 The queries return raw ticket data. The bucket breakdown, the ER, AI and RVI metrics and the other calculations of sections 2–7 were done not in SQL but in Power Query inside the Excel files with the research data. Each section links to its file. For sections 2–4 this is the shared [research data spreadsheet](../../research/data/02_rvi_metrics.xlsx).
 
@@ -33,7 +33,7 @@ Query: [`01_payments_vs_losses.sql`](../../research/sql/01_payments_vs_losses.sq
 | 1 | 2025-03-31 | 2025-11-02 |
 | 2 | 2025-11-03 | 2026-05-03 |
 
-The results of both parts were merged into one CSV file. This is the base research dataset: it is also loaded as input to the section 2 and 7 queries.
+The results of both parts were merged into one CSV file. This is the base research dataset: it is also loaded as input to the section [2](#2-developing-an-index-to-show-the-value-of-changes-made) and [7](#7-analysis-of-reconciliation-emails-disputes-and-ora) queries.
 
 The calculations were made as the total volume of changes regardless of sign. `payments_gross_delta` was calculated as `ABS(paid_delta + received_delta)`.
 
@@ -79,7 +79,7 @@ Since the history for losses is incomplete, the further research uses payments. 
 
 ## 2. Developing an index to show the value of changes made
 
-Query: [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql). The section 1 query result is loaded as input via CSV; here is the [input data](../../research/data/01_base_dataset.csv) for the query.
+Query: [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql). The [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result is loaded as input via CSV; here is the [input data](../../research/data/01_base_dataset.csv) for the query.
 
 The query returns a raw ticket dataset. The metrics below and the bucket breakdown are calculated from this dataset in Power Query, in the [research data spreadsheet](../../research/data/02_rvi_metrics.xlsx).
 
@@ -180,7 +180,7 @@ For a detailed study of the loss thresholds and of which tickets need review, fo
 
 ## 4. Detailed bucket breakdown and choice of review thresholds
 
-> We use the same [research data](../../research/data/02_rvi_metrics.xlsx) as in section 3. The raw data comes from [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
+> We use the same [research data](../../research/data/02_rvi_metrics.xlsx) as in [section 3](#3-splitting-losses-into-buckets-and-general-analysis). The raw data comes from [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
 
 After a deeper and more detailed study of the RVI index by bucket, and an analysis of other metrics such as the number of tickets and erroneous cases in a bucket, the error rate and others, we can state that from an economic point of view ticket review can be limited to the following ranges.
 
@@ -336,7 +336,7 @@ Real money saved during ticket review means three specific actions:
 
 These three metrics reflect the company's real savings when we do not pay excessive supplier claims. So, after studying the proposed review thresholds based on gross, we need to analyze separately how much these limits will affect the money the company actually saves in these three key areas.
 
-Query: [`07_mail_dispute_ora.sql`](../../research/sql/07_mail_dispute_ora.sql), with the section 1 query result loaded as input via CSV. [Data](../../research/data/07_mail_dispute_ora.xlsx): the query returns raw data, the calculations were done in Power Query inside this file.
+Query: [`07_mail_dispute_ora.sql`](../../research/sql/07_mail_dispute_ora.sql), with the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result loaded as input via CSV. [Data](../../research/data/07_mail_dispute_ora.xlsx): the query returns raw data, the calculations were done in Power Query inside this file.
 
 ---
 

@@ -34,4 +34,4 @@ The best place to start is the [project overview](docs/en/README.md): idea, obje
 | [`docs/ru/`](docs/ru/), [`docs/en/`](docs/en/) | documentation in Russian and English, identical file tree |
 | [`sql/`](sql/) | extract queries, old extracts are in [`sql/legacy/`](sql/legacy/) |
 | [`research/sql/`](research/sql/) | research and project results queries |
-| `research/data/` | research and results datasets (Excel, CSV) |
+| [`research/data/`](research/data/) | research and results datasets (Excel, CSV) |

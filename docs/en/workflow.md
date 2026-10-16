@@ -33,7 +33,7 @@ The procedure is the same for all extracts.
 
 The `Log` and `Com` fields show which tickets were reviewed and can be used to analyze the review results.
 
-For questions about main extract alerts, false positives and missed errors, the specialist contacts the query owner, d.mezhevich.
+For questions about [main extract](unloads/main.md) alerts, false positives and missed errors, the specialist contacts the query owner, d.mezhevich.
 
 ---
 

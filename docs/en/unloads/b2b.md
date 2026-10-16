@@ -26,7 +26,7 @@ For each booking the extract shows the CRM order link, creation date, check-in a
 
 ## 🗓 Running
 
-Once a week for the previous week, as before the new workflow.
+Once a week for the previous week, as [before the new workflow](../workflow.md#-how-it-worked-before).
 
 | Parameter | Value |
 |---|---|
