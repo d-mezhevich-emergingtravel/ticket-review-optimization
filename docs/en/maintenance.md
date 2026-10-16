@@ -12,7 +12,7 @@ Query owner: d.mezhevich.
 
 | File | Purpose |
 |---|---|
-| [`sql/main_prod.sql`](../../sql/main_prod.sql) | The working version. The specialist runs it, and it is saved in SQL Editor ([query_id 9295816](https://sqleditor.srv.team/?executed=1&tab=results&query_id=9295816)) |
+| [`sql/main_prod_int.sql`](../../sql/main_prod_int.sql) | The working INT version. The specialist runs it, and it is saved in SQL Editor ([query_id 4366597](https://sqleditor.srv.team/?executed=1&tab=results&query_id=4366597)) |
 | [`sql/main_dev.sql`](../../sql/main_dev.sql) | A debug version with the same logic. The "no review needed" branches return a `Not check \| ...` verdict, and tickets that are not closed are marked `Тикет не закрыт` ("ticket not closed"). They show which branch fired |
 
 Every logic change goes into both files. After editing the repository, the saved query in SQL Editor must be updated too.
