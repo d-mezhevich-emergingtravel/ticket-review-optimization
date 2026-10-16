@@ -909,6 +909,7 @@ markers_with_check as (
     cross join thresholds as th
 )
 select
+    tt.resolve_dt::date as resolve_date,
     ct.ticket_id,
     ct.order_id,
     ps.payout,
