@@ -53,9 +53,7 @@ pnpm-debug.log*
 
 # Claude Code: skills, settings, local instructions
 .claude/
-CLAUDE.md
 CLAUDE.local.md
-**/CLAUDE.md
 **/CLAUDE.local.md
 skills/
 .mcp.json
