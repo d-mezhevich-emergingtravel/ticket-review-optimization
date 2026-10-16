@@ -70,7 +70,7 @@ Rows in bold italics start a block of metrics and show the direct change. The "â
 
 ## 2. Main extract: test mode
 
-**Data.** The main extract is part of the combined dataset from section 1: the first and main review category, the one the process started with. A separate comparison shows the result for the most important category. The periods and mode are the same as in section 1. The 2025 data was processed by the [analytical query](../../research/sql/results_2025.sql), the 2026 data by the [ru](../../research/sql/results_2026_ru.sql) and [int](../../research/sql/results_2026_int.sql) queries, with the results then combined. The comparison is in the [Excel file](../../research/data/results_02_main_weeks_33-37.xlsx) (calculations in Power Query).
+**Data.** The main extract is part of the combined dataset from [section 1](#1-combined-dataset-test-mode): the first and main review category, the one the process started with. A separate comparison shows the result for the most important category. The periods and mode are the same as in section 1. The 2025 data was processed by the [analytical query](../../research/sql/results_2025.sql), the 2026 data by the [ru](../../research/sql/results_2026_ru.sql) and [int](../../research/sql/results_2026_int.sql) queries, with the results then combined. The comparison is in the [Excel file](../../research/data/results_02_main_weeks_33-37.xlsx) (calculations in Power Query).
 
 | Metric                         | Before        | After         | Difference    | %             | Explanation                                              |
 | ------------------------------ | ------------: | ------------: | ------------: | ------------: | -------------------------------------------------------- |

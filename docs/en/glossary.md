@@ -16,7 +16,7 @@ Terms and abbreviations used in the documentation and SQL queries.
 | `losses` | Ticket losses, `payout − refund`, in USD. The review thresholds are based on them |
 | `losses_sum` | The `crm.tickets_ticket.losses_sum` field with ticket losses. Not used in the research: its change history is incomplete |
 | Adjust losses | Adjusted ticket losses (`adj_losses_sum_usd` in the base research dataset). Reports on loss sources and causes rely on them |
-| Credit line | Payment method of a ticket payment (`payment_method` = Credit line). The ORA rules in the main extract check whether there is an additional payment (Money paid) or a refund (Money received) by this method |
+| Credit line | Payment method of a ticket payment (`payment_method` = Credit line). The ORA rules in the [main extract](unloads/main.md) check whether there is an additional payment (Money paid) or a refund (Money received) by this method |
 | Terminated | A ticket status used instead of deletion. Such a ticket is not counted in the system and must not contain compensations |
 | Business decision | A payout flag: the compensation was given by a business decision, not because of someone's error |
 | Modification | The team that gives a partner a one-sided compensation at the request of the business |

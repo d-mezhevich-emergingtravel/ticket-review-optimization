@@ -34,4 +34,4 @@
 | [`docs/ru/`](docs/ru/), [`docs/en/`](docs/en/) | документация на русском и английском, одинаковое дерево файлов |
 | [`sql/`](sql/) | запросы выгрузок, в [`sql/legacy/`](sql/legacy/) — старые выгрузки |
 | [`research/sql/`](research/sql/) | запросы исследования и итогов проекта |
-| `research/data/` | датасеты исследования и итогов (Excel, CSV) |
+| [`research/data/`](research/data/) | датасеты исследования и итогов (Excel, CSV) |
