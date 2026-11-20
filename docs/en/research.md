@@ -6,9 +6,9 @@ The research answers two questions: does it make sense to reduce manual ticket r
 
 - **Period:** April 2025 — April 2026 (13 months).
 - **Tickets:** CRM, Hotel product, Incident and Complaint categories.
-- **Queries:** stored in [`research/sql/`](../../research/sql/), the number in the file name matches the section number. The project results queries (`results_*.sql`) are stored there too, without a number. The basis is the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query: its result is exported to CSV and loaded as input to the section [2](#2-developing-an-index-to-show-the-value-of-changes-made) and [7](#7-analysis-of-reconciliation-emails-disputes-and-ora) queries.
+- **Queries:** stored in [`archive/research/sql/`](../../archive/research/sql/), the number in the file name matches the section number. The project results queries and data are stored separately, in [`archive/results/`](../../archive/results/). The basis is the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query: its result is exported to CSV and loaded as input to the section [2](#2-developing-an-index-to-show-the-value-of-changes-made) and [7](#7-analysis-of-reconciliation-emails-disputes-and-ora) queries.
 
-The queries return raw ticket data. The bucket breakdown, the ER, AI and RVI metrics and the other calculations of sections 2–7 were done not in SQL but in Power Query inside the Excel files with the research data. Each section links to its file. For sections 2–4 this is the shared [research data spreadsheet](../../research/data/02_rvi_metrics.xlsx).
+The queries return raw ticket data. The bucket breakdown, the ER, AI and RVI metrics and the other calculations of sections 2–7 were done not in SQL but in Power Query inside the Excel files with the research data. Each section links to its file. For sections 2–4 this is the shared [research data spreadsheet](../../archive/research/data/02_rvi_metrics.xlsx).
 
 ## 📋 Contents
 
@@ -26,7 +26,7 @@ The queries return raw ticket data. The bucket breakdown, the ER, AI and RVI met
 
 ## 1. Difference between corrections in the payments block and the `crm.tickets_ticket.losses_sum` field over a year
 
-Query: [`01_payments_vs_losses.sql`](../../research/sql/01_payments_vs_losses.sql). It was run in two parts:
+Query: [`01_payments_vs_losses.sql`](../../archive/research/sql/01_payments_vs_losses.sql). It was run in two parts:
 
 | Part | `:dt_start` | `:dt_end` |
 |---|---|---|
@@ -37,13 +37,13 @@ The results of both parts were merged into one CSV file. This is the base resear
 
 The calculations were made as the total volume of changes regardless of sign. `payments_gross_delta` was calculated as `ABS(paid_delta + received_delta)`.
 
-Check query: [`01_payments_vs_losses_check.sql`](../../research/sql/01_payments_vs_losses_check.sql), with the same CSV as input. The query returns a dataset for comparing payments and losses, which was then analyzed manually in Excel.
+Check query: [`01_payments_vs_losses_check.sql`](../../archive/research/sql/01_payments_vs_losses_check.sql), with the same CSV as input. The query returns a dataset for comparing payments and losses, which was then analyzed manually in Excel.
 
 ---
 
 ### 📊 Check results
 
-[Check result](../../research/data/01_payments_vs_losses_check.xlsx): the dataset from the check query and its manual analysis.
+[Check result](../../archive/research/data/01_payments_vs_losses_check.xlsx): the dataset from the check query and its manual analysis.
 
 **Check over the entire change period**
 
@@ -79,9 +79,9 @@ Since the history for losses is incomplete, the further research uses payments. 
 
 ## 2. Developing an index to show the value of changes made
 
-Query: [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql). The [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result is loaded as input via CSV; here is the [input data](../../research/data/01_base_dataset.csv) for the query.
+Query: [`02_rvi_metrics.sql`](../../archive/research/sql/02_rvi_metrics.sql). The [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result is loaded as input via CSV; here is the [input data](../../archive/research/data/01_base_dataset.csv) for the query.
 
-The query returns a raw ticket dataset. The metrics below and the bucket breakdown are calculated from this dataset in Power Query, in the [research data spreadsheet](../../research/data/02_rvi_metrics.xlsx).
+The query returns a raw ticket dataset. The metrics below and the bucket breakdown are calculated from this dataset in Power Query, in the [research data spreadsheet](../../archive/research/data/02_rvi_metrics.xlsx).
 
 As a result, several metrics were derived for further analysis:
 
@@ -152,7 +152,7 @@ To validate the RVI index, an alternative calculation was also made: instead of 
 
 ## 3. Splitting losses into buckets and general analysis
 
-[Research data](../../research/data/02_rvi_metrics.xlsx). The raw data comes from [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
+[Research data](../../archive/research/data/02_rvi_metrics.xlsx). The raw data comes from [`02_rvi_metrics.sql`](../../archive/research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
 
 Splitting the overall dataset into buckets with the new metrics confirms the theory: most large changes are made in expensive tickets and in tickets with negative losses.
 
@@ -180,7 +180,7 @@ For a detailed study of the loss thresholds and of which tickets need review, fo
 
 ## 4. Detailed bucket breakdown and choice of review thresholds
 
-> We use the same [research data](../../research/data/02_rvi_metrics.xlsx) as in [section 3](#3-splitting-losses-into-buckets-and-general-analysis). The raw data comes from [`02_rvi_metrics.sql`](../../research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
+> We use the same [research data](../../archive/research/data/02_rvi_metrics.xlsx) as in [section 3](#3-splitting-losses-into-buckets-and-general-analysis). The raw data comes from [`02_rvi_metrics.sql`](../../archive/research/sql/02_rvi_metrics.sql), the buckets and metrics are calculated in Power Query inside this file.
 
 After a deeper and more detailed study of the RVI index by bucket, and an analysis of other metrics such as the number of tickets and erroneous cases in a bucket, the error rate and others, we can state that from an economic point of view ticket review can be limited to the following ranges.
 
@@ -232,7 +232,7 @@ This problem therefore needs to be considered separately. Currently, in the exis
 
 The goal of the study is to examine the distribution of current losses in such tickets and determine their share of all losses within the reporting month. This shows clearly how much the lack of control over these cases can distort the results of analytical reports and loss cause studies.
 
-[Research data](../../research/data/05_logging_impact.xlsx). The raw data is the [base dataset](../../research/data/01_base_dataset.csv) from [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year), the result of the [`01_payments_vs_losses.sql`](../../research/sql/01_payments_vs_losses.sql) query. The calculations were done in Power Query inside this file.
+[Research data](../../archive/research/data/05_logging_impact.xlsx). The raw data is the [base dataset](../../archive/research/data/01_base_dataset.csv) from [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year), the result of the [`01_payments_vs_losses.sql`](../../archive/research/sql/01_payments_vs_losses.sql) query. The calculations were done in Power Query inside this file.
 
 ---
 
@@ -262,7 +262,7 @@ Put simply, we do not look into the sources and causes of losses for cases with 
 
 Since the average compensation amount differs by brand (in particular, it is lower for the B2C Ru brand than for the others), we need to check whether it makes sense to set separate review thresholds for each brand. To do this, the current dataset is segmented into buckets as in the previous studies, with an additional breakdown by brand.
 
-[Research data](../../research/data/06_brand_thresholds.xlsx). The raw data comes from the [section 7](#7-analysis-of-reconciliation-emails-disputes-and-ora) query, [`07_mail_dispute_ora.sql`](../../research/sql/07_mail_dispute_ora.sql): sections 6 and 7 share the same base. The calculations were done in Power Query inside this file.
+[Research data](../../archive/research/data/06_brand_thresholds.xlsx). The raw data comes from the [section 7](#7-analysis-of-reconciliation-emails-disputes-and-ora) query, [`07_mail_dispute_ora.sql`](../../archive/research/sql/07_mail_dispute_ora.sql): sections 6 and 7 share the same base. The calculations were done in Power Query inside this file.
 
 ---
 
@@ -336,7 +336,7 @@ Real money saved during ticket review means three specific actions:
 
 These three metrics reflect the company's real savings when we do not pay excessive supplier claims. So, after studying the proposed review thresholds based on gross, we need to analyze separately how much these limits will affect the money the company actually saves in these three key areas.
 
-Query: [`07_mail_dispute_ora.sql`](../../research/sql/07_mail_dispute_ora.sql), with the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result loaded as input via CSV. [Data](../../research/data/07_mail_dispute_ora.xlsx): the query returns raw data, the calculations were done in Power Query inside this file.
+Query: [`07_mail_dispute_ora.sql`](../../archive/research/sql/07_mail_dispute_ora.sql), with the [section 1](#1-difference-between-corrections-in-the-payments-block-and-the-crmtickets_ticketlosses_sum-field-over-a-year) query result loaded as input via CSV. [Data](../../archive/research/data/07_mail_dispute_ora.xlsx): the query returns raw data, the calculations were done in Power Query inside this file.
 
 ---
 

@@ -56,4 +56,4 @@ More details are in the [workflow](workflow.md), and the numbers are in the [pro
 | [Glossary](glossary.md) | terms and abbreviations |
 | [Query maintenance](maintenance.md) | for those who edit the main extract SQL |
 
-The SQL queries are stored in the repository: extracts are in [`sql/`](../../sql/), research and results queries are in [`research/sql/`](../../research/sql/), datasets are in [`research/data/`](../../research/data/).
+The SQL queries are stored in the repository: extracts are in [`sql/`](../../sql/), research queries and datasets are in [`archive/research/`](../../archive/research/), the materials for calculating the results are in [`archive/results/`](../../archive/results/).

@@ -8,7 +8,12 @@ This document sums up the transition to the new ticket review workflow built on 
 
 ## 📝 Overall conclusion
 
-`<To be written after the product workflow comparison, section 3.>`
+- **Half as many tickets are reviewed.** Compared with the old workflow in the same weeks of 2025, the employee reviewed 3,157 tickets instead of 5,962 in test mode (47% fewer) and 2,718 instead of 5,442 in the product workflow (50% fewer).
+- **No fewer errors are found.** Although the review shrank, test mode found almost as many errors as the old workflow (556 versus 545), and the product workflow found 60% more (863 versus 541). The review now focuses on tickets that actually contain errors.
+- **The errors found are larger.** The sum of corrections per extract ticket (RVI) almost doubled compared with the old workflow: by 94% in test mode and by 92% in the product workflow. The growth holds even after removing the ten largest tickets in each period, so it does not come from a few isolated cases.
+- **The product workflow confirmed the test mode results.** In one respect it went further: it finds more errors than the old workflow, and more of them are large. There were 97 errors of $500 or more instead of 40.
+
+> The section tables also include metrics for emails and disputes. They are left out of the overall conclusion because these processes changed after the 2026 deconsolidation, so comparing them directly with 2025 is not valid. These figures are given for reference.
 
 ---
 
@@ -18,18 +23,19 @@ This document sums up the transition to the new ticket review workflow built on 
 - The data source is the extract files the employee used for the review. Their tickets are processed by analytical SQL queries. For each ticket, the queries collect the employee's actions during the extract week and the following three weeks: payment changes, reconciliation emails and dispute flags.
 - The data was normalized before the comparison: strong outliers were removed.
 - The datasets of the two periods are compared in Excel, with calculations in Power Query.
+- The raw extracts, scripts, queries, period datasets and comparison workbooks are stored in [`archive/results/`](../../archive/results/) together with a description of how to rebuild them (in Russian).
 
 | Section                                                          | What is compared                         |
 | ---------------------------------------------------------------- | ---------------------------------------- |
 | [1. Combined dataset: test mode](#1-combined-dataset-test-mode)  | all review categories, weeks 33–37       |
 | [2. Main extract: test mode](#2-main-extract-test-mode)          | main review category only, weeks 33–37   |
-| [3. Product workflow](#3-product-workflow)                       | all review categories, weeks 41–45       |
+| [3. Product workflow](#3-product-workflow)                       | all review categories, weeks 42–46       |
 
 ---
 
 ## 1. Combined dataset: test mode
 
-**Data.** The combined dataset joins three review categories: main, closed and zeros. "Before" is the old workflow, weeks 33–37 of 2025 (2025-08-11 to 2025-09-14). "After" is the test mode, the same weeks of 2026 (2026-08-10 to 2026-09-13): part of the new workflow, the loss thresholds and alerts for targeted review, was added to the old workflow. The 2025 data was processed by the [analytical query](../../research/sql/results_2025.sql), the 2026 data by the [ru](../../research/sql/results_2026_ru.sql) and [int](../../research/sql/results_2026_int.sql) queries, with the results then combined. The comparison is in the [Excel file](../../research/data/results_01_all_categories_weeks_33-37.xlsx) (calculations in Power Query).
+**Data.** The combined dataset joins three review categories: main, closed and zeros. "Before" is the old workflow, weeks 33–37 of 2025 (2025-08-11 to 2025-09-14). "After" is the test mode, the same weeks of 2026 (2026-08-10 to 2026-09-13): part of the new workflow, the loss thresholds and alerts for targeted review, was added to the old workflow. The 2025 data was processed by the [analytical query](../../archive/results/2025_w33-37/queries/rvi_3w.sql), the 2026 data by the [ru](../../archive/results/2026_w33-37/queries/ru/rvi_3w.sql) and [int](../../archive/results/2026_w33-37/queries/global/rvi_3w.sql) queries, with the results then combined. The comparison is in the [Excel file](../../archive/results/power_query/compare_w33-37_2025_vs_2026.xlsx) (calculations in Power Query).
 
 | Metric                         | Before        | After         | Difference    | %             | Explanation                                              |
 | ------------------------------ | ------------: | ------------: | ------------: | ------------: | -------------------------------------------------------- |
@@ -70,7 +76,7 @@ Rows in bold italics start a block of metrics and show the direct change. The "�
 
 ## 2. Main extract: test mode
 
-**Data.** The main extract is part of the combined dataset from [section 1](#1-combined-dataset-test-mode): the first and main review category, the one the process started with. A separate comparison shows the result for the most important category. The periods and mode are the same as in section 1. The 2025 data was processed by the [analytical query](../../research/sql/results_2025.sql), the 2026 data by the [ru](../../research/sql/results_2026_ru.sql) and [int](../../research/sql/results_2026_int.sql) queries, with the results then combined. The comparison is in the [Excel file](../../research/data/results_02_main_weeks_33-37.xlsx) (calculations in Power Query).
+**Data.** The main extract is part of the combined dataset from [section 1](#1-combined-dataset-test-mode): the first and main review category, the one the process started with. A separate comparison shows the result for the most important category. The periods and mode are the same as in section 1. The 2025 data was processed by the [analytical query](../../archive/results/2025_w33-37/queries/rvi_3w.sql), the 2026 data by the [ru](../../archive/results/2026_w33-37/queries/ru/rvi_3w.sql) and [int](../../archive/results/2026_w33-37/queries/global/rvi_3w.sql) queries, with the results then combined. The comparison is in the [Excel file](../../archive/results/power_query/compare_w33-37_2025_vs_2026_main.xlsx) (calculations in Power Query).
 
 | Metric                         | Before        | After         | Difference    | %             | Explanation                                              |
 | ------------------------------ | ------------: | ------------: | ------------: | ------------: | -------------------------------------------------------- |
@@ -109,37 +115,37 @@ Rows in bold italics start a block of metrics and show the direct change. The "�
 
 ## 3. Product workflow
 
-**Data.** "Before" is the combined dataset of the old workflow, weeks 41–45 of 2025 (2025-10-06 to 2025-11-09). "After" is the product workflow, weeks 41–45 of 2026 (2026-10-05 to 2026-11-08). In the product workflow all review categories are combined into one extract with one query: tickets within the threshold (losses ≥ $500 and ≤ −$50) and tickets with an alert are reviewed. That is why the main category is not shown separately in this comparison. The 2025 data was processed by the [analytical query](../../research/sql/results_2025.sql), the 2026 data by the [ru](../../research/sql/results_2026_ru.sql) and [int](../../research/sql/results_2026_int.sql) queries, with the results then combined. The comparison is in the [Excel file](../../research/data/results_03_product_weeks_41-45.xlsx) (calculations in Power Query).
+**Data.** "Before" is the combined dataset of the old workflow, weeks 42–46 of 2025 (2025-10-13 to 2025-11-13). "After" is the product workflow, weeks 42–46 of 2026 (2026-10-12 to 2026-11-12). In both periods week 46 covers Monday to Thursday only, because in 2026 the employee had reviewed it only up to November 12. In the product workflow all review categories are combined into one extract with one query: tickets within the threshold (losses ≥ $500 and ≤ −$50) and tickets with an alert are reviewed. That is why the main category is not shown separately in this comparison. The 2025 data was processed by the [analytical query](../../archive/results/2025_w42-46/queries/rvi_3w.sql), the 2026 data by the [ru](../../archive/results/2026_w42-46/queries/ru/rvi_3w.sql) and [int](../../archive/results/2026_w42-46/queries/global/rvi_3w.sql) queries, with the results then combined. The comparison is in the [Excel file](../../archive/results/power_query/compare_w42-46_2025_vs_2026.xlsx) (calculations in Power Query).
 
-| Metric                         | Before      | After       | Difference   | %             | Explanation                                              |
-| ------------------------------ | ----------: | ----------: | -----------: | ------------: | -------------------------------------------------------- |
-| ***Tickets in pool***          | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***All tickets that got into the extract for review***   |
-| ***Tickets reviewed***         | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Reviewed tickets***                                   |
-| — excluding pool effect        |             |             |       `<±N>` |       `<±X>%` | Change with the pool size change removed                 |
-| Coverage                       |      `<X>%` |      `<X>%` |              |               | Share of reviewed tickets in the pool                    |
-| ***Tickets with an error***    | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Tickets where amounts changed after the review***     |
-| — excluding pool effect        |             |             |       `<±N>` |       `<±X>%` | Change with the pool size change removed                 |
-| Error rate                     |      `<X>%` |      `<X>%` |              |               | Share of tickets with an error in the pool               |
-| ***gross, total***             | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Absolute sum of changes, USD***                       |
-| gross, average                 |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Average absolute change per ticket with an error         |
-| ***net, total***               | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Sum of changes with sign, USD***                      |
-| net, average                   |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Average signed change per ticket with an error           |
-| ***RVI***                      | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Expected gross per pool ticket, USD***                |
-| ***Tickets with an email***    | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Tickets with a reconciliation email sent***           |
-| — excluding pool effect        |             |             |       `<±N>` |       `<±X>%` | Change with the pool size change removed                 |
-| Email share                    |      `<X>%` |      `<X>%` |              |               | Share of tickets with an email in the pool               |
-| mail_sum, total                |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Selling price of tickets with an email, USD              |
-| mail_sum, average              |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Average selling price per ticket with an email           |
-| ***Tickets with a dispute***   | ***`<N>`*** | ***`<N>`*** | ***`<±N>`*** | ***`<±X>%`*** | ***Tickets with a dispute flag on a payment***           |
-| — excluding pool effect        |             |             |       `<±N>` |       `<±X>%` | Change with the pool size change removed                 |
-| Dispute share                  |      `<X>%` |      `<X>%` |              |               | Share of tickets with a dispute in the pool              |
-| dispute_sum, total             |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Sum of payments with a dispute flag, USD                 |
-| dispute_sum, average           |       `<N>` |       `<N>` |       `<±N>` |       `<±X>%` | Average dispute amount per ticket with a dispute         |
+| Metric                         | Before        | After         | Difference     | %             | Explanation                                              |
+| ------------------------------ | ------------: | ------------: | -------------: | ------------: | -------------------------------------------------------- |
+| ***Tickets in pool***          |   ***8,841*** |  ***10,016*** |   ***+1,175*** |  ***+13.3%*** | ***All tickets that got into the extract for review***   |
+| ***Tickets reviewed***         |   ***5,442*** |   ***2,718*** |   ***−2,724*** |  ***−50.1%*** | ***Reviewed tickets***                                   |
+| — excluding pool effect        |               |               |         −3,447 |        −55.9% | Change with the pool size change removed                 |
+| Coverage                       |         61.6% |         27.1% |                |               | Share of reviewed tickets in the pool                    |
+| ***Tickets with an error***    |     ***541*** |     ***863*** |     ***+322*** |  ***+59.5%*** | ***Tickets where amounts changed after the review***     |
+| — excluding pool effect        |               |               |           +250 |        +40.8% | Change with the pool size change removed                 |
+| Error rate                     |          6.1% |          8.6% |                |               | Share of tickets with an error in the pool               |
+| ***gross, total***             | ***111,949*** | ***243,859*** | ***+131,910*** | ***+117.8%*** | ***Absolute sum of changes, USD***                       |
+| gross, average                 |        206.93 |        282.57 |         +75.64 |        +36.6% | Average absolute change per ticket with an error         |
+| ***net, total***               | ***−62,472*** | ***−87,220*** |  ***−24,748*** |  ***+39.6%*** | ***Sum of changes with sign, USD***                      |
+| net, average                   |       −115.47 |       −101.07 |         +14.41 |        −12.5% | Average signed change per ticket with an error           |
+| ***RVI***                      |   ***12.66*** |   ***24.35*** |   ***+11.68*** |  ***+92.3%*** | ***Expected gross per pool ticket, USD***                |
+| ***Tickets with an email***    |      ***63*** |     ***110*** |      ***+47*** |  ***+74.6%*** | ***Tickets with a reconciliation email sent***           |
+| — excluding pool effect        |               |               |            +39 |        +54.1% | Change with the pool size change removed                 |
+| Email share                    |          0.7% |          1.1% |                |               | Share of tickets with an email in the pool               |
+| mail_sum, total                |        17,009 |        23,703 |         +6,693 |        +39.4% | Selling price of tickets with an email, USD              |
+| mail_sum, average              |        269.99 |        215.48 |         −54.51 |        −20.2% | Average selling price per ticket with an email           |
+| ***Tickets with a dispute***   |     ***180*** |     ***274*** |      ***+94*** |  ***+52.2%*** | ***Tickets with a dispute flag on a payment***           |
+| — excluding pool effect        |               |               |            +70 |        +34.4% | Change with the pool size change removed                 |
+| Dispute share                  |          2.0% |          2.7% |                |               | Share of tickets with a dispute in the pool              |
+| dispute_sum, total             |        68,945 |       121,132 |        +52,187 |        +75.7% | Sum of payments with a dispute flag, USD                 |
+| dispute_sum, average           |        383.03 |        442.09 |         +59.06 |        +15.4% | Average dispute amount per ticket with a dispute         |
 
 **Results:**
 
-- `<Tickets reviewed: how many fewer.>`
-- `<Tickets with an error and error rate.>`
-- `<Gross, RVI and average gross per error.>`
-- `<Net.>`
-- `<Emails and disputes: counts and amounts.>`
+- 50% fewer tickets reviewed: 2,718 instead of 5,442, even though the pool grew by 13%.
+- 60% more errors found: 863 versus 541, error rate 8.6% versus 6.1%.
+- Gross grew 2.2 times and RVI almost doubled: 24.35 versus 12.66. The average gross per error is $283 versus $207.
+- Net −$87.2k versus −$62.5k: after the review, losses were reduced by $24.7k more.
+- 75% more emails and 52% more disputes. The email amount grew by 39% and the dispute amount by 76%.

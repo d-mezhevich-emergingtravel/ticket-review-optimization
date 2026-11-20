@@ -1,0 +1,5068 @@
+ticket_id;state_date;log;com;db_type
+17516734;2026-08-25;1;;global
+19224239;2026-08-20;1;;global
+19338845;2026-08-13;1;;global
+19403045;2026-08-14;1;;global
+19445895;2026-08-21;1;;global
+19487362;2026-08-26;1;;global
+19512226;2026-08-20;1;;global
+19516114;2026-08-20;1;;global
+19535111;2026-09-03;;;global
+19542301;2026-08-21;1;;global
+19546882;2026-08-14;1;;global
+19552591;2026-08-20;1;;global
+19572462;2026-08-14;1;;global
+19599382;2026-08-11;1;;global
+19658432;2026-08-20;1;;global
+19671209;2026-08-20;1;;global
+19691472;2026-08-21;proc;need to change price by Order reconciliation amendment tool;global
+19715899;2026-08-20;1;;global
+19727578;2026-08-21;Галя;;global
+19736975;2026-09-07;;1;global
+19745776;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+19770851;2026-08-26;1;;global
+19805008;2026-08-27;1;;global
+19863985;2026-09-03;;;ru
+19944648;2026-09-04;1;;global
+19996745;2026-09-01;1;;global
+20000037;2026-09-07;;;global
+20027427;2026-09-07;;;global
+20090178;2026-09-07;;;global
+20117525;2026-09-07;;1;global
+20141511;2026-09-07;;;global
+20148808;2026-09-07;;;global
+20169918;2026-09-07;;1;global
+20884217;2026-08-20;1;страй кейс, пошел к Ksenia Demchenko;ru
+20886697;2026-08-20;1;страй кейс, пошел к Ksenia Demchenko;ru
+22047422;2026-08-14;1;;global
+22114288;2026-08-30;log;cause has been changed to TPP hotel description;global
+22470288;2026-08-30;1;;ru
+22769732;2026-09-07;;1;global
+22785732;2026-08-12;1;;global
+22873034;2026-09-02;;;global
+22884452;2026-08-14;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool;global
+22929442;2026-08-19;1;;global
+23110398;2026-09-07;;1;ru
+23116625;2026-09-07;;;ru
+23117255;2026-08-27;1;;ru
+23322128;2026-08-19;;;global
+23349483;2026-09-01;1;;global
+23377867;2026-08-22;1;;ru
+23448006;2026-08-29;1;;global
+23599231;2026-08-10;proc;need dispute (owner has been informed);global
+23629717;2026-08-10;1;;global
+23649157;2026-08-24;1;;global
+23830673;2026-08-20;;;global
+23872391;2026-08-19;1;р2и ино отказал - без диспута;ru
+23885252;2026-08-13;;;ru
+23942217;2026-08-14;;;ru
+23985303;2026-08-16;1;;global
+24032270;2026-09-03;;;global
+24041524;2026-08-22;1;;global
+24048675;2026-08-19;;;ru
+24091336;2026-09-06;1;;global
+24094576;2026-08-25;1;;global
+24096240;2026-08-14;1;;global
+24119452;2026-08-20;1;;global
+24127415;2026-09-03;;;ru
+24157197;2026-09-07;;;ru
+24161356;2026-08-10;;;global
+24194210;2026-09-05;1;;global
+24202504;2026-09-02;1;;global
+24242563;2026-08-18;1;;global
+24242568;2026-09-02;;;global
+24242569;2026-09-02;;;global
+24258429;2026-08-23;;;ru
+24258430;2026-08-23;;;ru
+24276111;2026-08-22;Оунер;;global
+24278406;2026-08-15;;;ru
+24309425;2026-08-21;;;ru
+24321830;2026-08-13;1;;global
+24324714;2026-09-07;;1;global
+24328508;2026-08-19;log;cause has been changed to TPP contract problem;global
+24336386;2026-08-23;1;;global
+24341981;2026-08-20;log;cause has been changed to TPP contract problem;global
+24346814;2026-08-28;log, proc;subtype has been changed to Payment discrepancy, need to change price by Order reconciliation amendment tool;global
+24359374;2026-09-06;1;;global
+24369606;2026-08-21;;;ru
+24384755;2026-08-23;;;ru
+24385704;2026-09-07;;;global
+24393730;2026-08-28;1;;global
+24402269;2026-08-12;;;global
+24412038;2026-08-19;log;cause has been changed to Hotel-TPP process problem;global
+24446612;2026-09-07;;;ru
+24461329;2026-08-15;1;;global
+24464788;2026-08-14;proc;need to change price by Order reconciliation amendment tool;global
+24480326;2026-09-05;;;global
+24483515;2026-08-19;1;;global
+24495243;2026-08-16;1;;global
+24500528;2026-08-16;1;;global
+24510775;2026-08-18;;;ru
+24520280;2026-08-13;log;subtype has been changed to Payment discrepancy;global
+24558109;2026-08-10;1;;global
+24561727;2026-09-07;;1;global
+24579653;2026-08-28;;;global
+24583312;2026-08-14;1;;global
+24595169;2026-08-21;1;;global
+24605029;2026-09-04;;;global
+24609702;2026-08-21;1;;global
+24633399;2026-08-30;1;;global
+24656204;2026-09-02;proc;dispute wasn't activated;global
+24657422;2026-08-15;1;;global
+24668210;2026-08-14;Дима;;global
+24676411;2026-08-25;1;;global
+24682527;2026-08-18;1;;global
+24706368;2026-09-01;1;;global
+24706400;2026-09-01;1;;global
+24708172;2026-08-11;;;global
+24726477;2026-09-05;proc;need dispute (owner has been informed);global
+24727044;2026-08-11;1;;global
+24736442;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+24744060;2026-08-26;1;;global
+24745460;2026-08-10;;;ru
+24750003;2026-08-28;1;;global
+24774952;2026-08-14;1;;global
+24777944;2026-09-02;log;subtype has been changed to Payment discrepancy;ru
+24819669;2026-08-12;log, proc;cause has been changed to Hotel-TPP process problem, need to change price by Order reconciliation amendment tool correctly;global
+24822382;2026-08-14;1;;global
+24826013;2026-08-20;;;ru
+24852106;2026-09-05;;;ru
+24854849;2026-08-16;;;ru
+24855272;2026-08-20;;;ru
+24873528;2026-08-14;СМ;;global
+24873616;2026-08-14;1;;global
+24878003;2026-08-30;;;ru
+24887960;2026-09-07;;;global
+24909603;2026-08-19;;;ru
+24918284;2026-08-23;;;ru
+24919662;2026-09-07;;;global
+24922366;2026-08-18;1;;global
+24926305;2026-08-25;1;;global
+24926750;2026-08-16;1;;global
+24926751;2026-08-16;1;;global
+24927147;2026-08-17;1;;global
+24929728;2026-08-16;;;global
+24934978;2026-08-17;;;global
+24948570;2026-08-19;Extranet, Есть только Money paid (not client), проверить тикет;;global
+24948591;2026-08-21;Extranet, Есть только Money paid (not client), проверить тикет;;global
+24949834;2026-08-23;1;;global
+24958090;2026-08-12;;;global
+24958098;2026-08-12;;;global
+24961276;2026-08-29;1;;global
+24961514;2026-08-11;;;ru
+24964867;2026-09-03;1;;global
+24976412;2026-08-14;1;;global
+24983462;2026-08-16;1;;global
+24987684;2026-08-30;1;;global
+24991101;2026-08-28;;;ru
+24991624;2026-09-06;;;global
+24998316;2026-08-15;1;;global
+25001157;2026-08-14;1;;global
+25003806;2026-08-15;;;global
+25005485;2026-08-24;;;ru
+25010474;2026-09-02;;;global
+25017600;2026-08-20;;;global
+25033312;2026-08-10;;;global
+25038258;2026-08-15;proc;dispute wasn't activated;global
+25055795;2026-08-24;log;subtype has been changed to Unconfirmed booking;global
+25059836;2026-08-12;;;global
+25062621;2026-08-21;;;global
+25066972;2026-09-07;;;global
+25069774;2026-08-30;1;;global
+25070332;2026-08-17;1;;global
+25071207;2026-08-21;comp, proc;compensation was split between BD and OPS, need dispute (owner has been informed);global
+25071559;2026-08-30;1;;global
+25074751;2026-09-03;1;;global
+25075153;2026-08-13;1;;global
+25078120;2026-08-17;;;global
+25082722;2026-09-07;source has been changed to Content;log;global
+25083718;2026-08-10;1;;global
+25085051;2026-08-21;1;кривой лог Бра;global
+25095375;2026-08-14;1;;global
+25101810;2026-08-17;1;;global
+25102428;2026-08-12;1;;global
+25103358;2026-09-07;;1;global
+25103468;2026-09-05;;;global
+25107283;2026-08-10;proc;dispute wasn't activated;global
+25107528;2026-08-28;proc;need to change price by Order reconciliation amendment tool;global
+25117649;2026-08-14;1;;global
+25119881;2026-08-11;log;subtype has been changed to Category discrepancy;global
+25122741;2026-08-20;1;;global
+25123036;2026-09-07;;1;global
+25126034;2026-08-20;;;global
+25128875;2026-08-14;proc;dispute wasn't activated;global
+25128984;2026-08-15;1;;ru
+25130359;2026-08-12;1;;ru
+25133943;2026-08-18;1;;global
+25134075;2026-09-04;1;;global
+25137820;2026-08-20;1;;global
+25141523;2026-08-24;;;global
+25147699;2026-09-07;;1;global
+25148135;2026-08-16;Оунер;;global
+25149731;2026-08-17;1;;global
+25150069;2026-08-14;1;;global
+25150144;2026-09-07;;1;global
+25152891;2026-08-18;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;global
+25157464;2026-08-17;;;global
+25158101;2026-08-18;;;global
+25158676;2026-08-13;;;global
+25162202;2026-08-29;;;ru
+25162376;2026-08-11;;;global
+25162386;2026-09-05;;;ru
+25164966;2026-08-29;proc;need to change price by Order reconciliation amendment tool;global
+25165229;2026-08-21;;;global
+25173978;2026-08-10;comp;compensation amount has been changed;ru
+25176948;2026-09-06;;;global
+25179165;2026-08-27;1;;global
+25188333;2026-08-14;1;;global
+25191081;2026-08-18;1;;global
+25191874;2026-08-14;1;;global
+25194977;2026-09-04;1;;global
+25196864;2026-08-13;1;;global
+25197496;2026-08-14;1;;global
+25197505;2026-08-20;1;;global
+25197644;2026-09-06;;;global
+25197799;2026-08-31;proc;need to change price by Order reconciliation amendment tool;global
+25197833;2026-08-11;1;;global
+25197904;2026-09-07;;;global
+25197917;2026-08-21;1;;global
+25198565;2026-08-30;1;;global
+25198566;2026-08-20;1;;global
+25198639;2026-09-04;;;global
+25198678;2026-09-02;;;global
+25198698;2026-08-25;comp;compensation amount was changed from AB to AS;ru
+25198762;2026-08-29;1;;global
+25198928;2026-09-07;;;global
+25199606;2026-09-07;;;ru
+25199719;2026-08-15;1;;global
+25199913;2026-08-15;1;;global
+25199924;2026-09-07;;;ru
+25208716;2026-09-03;log, comp, proc;subtype has been changed to Payment discrepancy, missed compensation has been added, email to Reconciliation has been added;global
+25208741;2026-09-03;log, comp, proc;subtype has been changed to Payment discrepancy, missed compensation has been added, email to Reconciliation has been added;global
+25208771;2026-09-03;log, comp, proc;subtype has been changed to Payment discrepancy, missed compensation has been added, email to Reconciliation has been added;global
+25210332;2026-08-27;;;ru
+25210355;2026-08-26;1;;global
+25210469;2026-08-30;1;;ru
+25213303;2026-08-13;log;subtype has been changed to Category discrepancy;global
+25216053;2026-08-18;;;global
+25218829;2026-09-02;;;global
+25221524;2026-08-11;1;;global
+25222922;2026-08-13;1;;global
+25225069;2026-08-27;;;ru
+25226257;2026-09-07;;;global
+25227645;2026-08-18;proc;dispute wasn't activated;global
+25232064;2026-08-19;;Тикет комплейнт - не может быть диспута в принципе;global
+25234265;2026-08-13;;;ru
+25234977;2026-08-12;1;;global
+25238078;2026-09-04;;;global
+25239874;2026-08-20;1;;global
+25239875;2026-08-27;1;;global
+25239958;2026-09-07;;;global
+25240925;2026-08-23;;;global
+25242099;2026-08-18;;;global
+25246724;2026-08-22;1;;global
+25247379;2026-08-11;log, proc;source has been changed to Hotel service, dispute wasn't activated;global
+25248770;2026-08-14;1;;global
+25249923;2026-08-25;log;source has been changed to Content;ru
+25250067;2026-08-23;1;;ru
+25254210;2026-08-21;1;;global
+25258323;2026-09-07;;1;global
+25263705;2026-08-14;1;;global
+25263968;2026-08-10;Оунер;;global
+25265900;2026-08-10;1;;global
+25266579;2026-09-04;log;source has been changed to Content;global
+25267685;2026-08-12;;;ru
+25267874;2026-08-21;;;global
+25270136;2026-08-14;;;global
+25273913;2026-08-19;1;перелогировать так как только 1 БД;global
+25275652;2026-08-24;1;;global
+25276095;2026-09-03;1;;ru
+25277770;2026-08-31;1;;ru
+25278792;2026-08-21;;;ru
+25279316;2026-09-03;1;;global
+25279457;2026-08-18;;;ru
+25286281;2026-08-28;1;;global
+25288725;2026-08-28;1;;global
+25289421;2026-08-18;Extranet, Есть Money received, но нету ORA;;global
+25291223;2026-08-19;proc;dispute wasn't activated;global
+25294728;2026-08-11;1;;global
+25296283;2026-08-12;1;;ru
+25302163;2026-08-30;1;;global
+25305455;2026-09-01;1;;global
+25306913;2026-08-20;;;global
+25307559;2026-08-19;1;;global
+25310332;2026-08-21;;;global
+25312211;2026-08-14;1;;global
+25314010;2026-08-16;1;;ru
+25315273;2026-08-12;comp;compensation amount was changed from AB to AS;global
+25315716;2026-08-16;;;ru
+25316452;2026-08-26;;;ru
+25316503;2026-08-11;1;;global
+25317493;2026-08-14;1;;global
+25318165;2026-08-11;;;global
+25319528;2026-09-04;;;global
+25323661;2026-09-02;;;global
+25324660;2026-08-26;;;global
+25326036;2026-08-12;;;global
+25327506;2026-08-28;;;global
+25327967;2026-08-30;1;;global
+25328162;2026-08-19;;;global
+25330285;2026-08-28;1;;global
+25330784;2026-09-06;;;global
+25331141;2026-09-07;;1;global
+25331226;2026-08-17;;;ru
+25332257;2026-09-03;;;global
+25342917;2026-08-23;1;;global
+25343445;2026-08-13;log;cause has been changed to Incorrect booking data;global
+25343505;2026-08-13;log;cause has been changed to Incorrect booking data;global
+25343556;2026-08-13;log;cause has been changed to Incorrect booking data;global
+25344377;2026-08-29;1;;global
+25349686;2026-08-28;;;global
+25350856;2026-08-16;;;global
+25352008;2026-09-06;;;global
+25353060;2026-08-16;1;;global
+25353190;2026-08-23;1;;global
+25361872;2026-08-29;1;;global
+25363995;2026-08-18;1;;global
+25365183;2026-08-25;1;;global
+25369875;2026-08-14;;;global
+25381256;2026-08-18;1;;global
+25382731;2026-08-19;proc;dispute wasn't activated;global
+25386468;2026-09-01;;;global
+25388451;2026-08-27;;;global
+25389403;2026-08-15;;;global
+25392772;2026-08-10;log, proc;subtype has been changed to Category discrepancy, need dispute (owner has been informed);global
+25393457;2026-08-13;1;;global
+25393870;2026-09-07;;1;global
+25396379;2026-09-07;;1;global
+25396873;2026-08-12;1;;global
+25398511;2026-08-15;1;;global
+25399130;2026-08-18;1;;ru
+25400046;2026-09-07;;1;global
+25400049;2026-09-07;;1;global
+25403712;2026-08-19;1;;global
+25403747;2026-09-04;;;ru
+25403949;2026-08-20;1;;global
+25404392;2026-08-11;;;ru
+25405367;2026-08-16;log;subtype has been changed to Category discrepancy;ru
+25406643;2026-09-01;1;;global
+25409872;2026-08-12;;;ru
+25409917;2026-08-26;1;;global
+25412890;2026-08-12;1;;global
+25413134;2026-08-12;;;ru
+25413181;2026-08-19;;;ru
+25414910;2026-08-23;Extranet, Письмо на сверку;;ru
+25415062;2026-08-31;log, proc;source has been changed to TPP, need dispute (owner has been informed);global
+25415076;2026-08-22;;;global
+25421432;2026-08-16;comp;missed compensation has been added;ru
+25422839;2026-08-16;;;ru
+25424876;2026-08-11;1;;global
+25426357;2026-08-21;1;;global
+25426433;2026-08-14;1;;global
+25427997;2026-08-14;;;global
+25428687;2026-08-13;1;;global
+25428972;2026-08-13;1;;global
+25430771;2026-08-11;1;;global
+25431619;2026-08-26;;;global
+25432757;2026-09-07;;1;global
+25432862;2026-08-16;;;ru
+25437955;2026-08-11;1;;global
+25438652;2026-08-14;1;;global
+25439265;2026-08-28;1;;global
+25439422;2026-08-31;comp;compensation amount was changed from AB to AS;global
+25442448;2026-09-07;;;ru
+25444942;2026-08-30;;;ru
+25445124;2026-08-23;1;;ru
+25445170;2026-08-12;1;;global
+25445773;2026-09-01;;;global
+25446699;2026-09-07;subtype has been changed to Unconfirmed booking;log;global
+25447266;2026-08-11;1;;global
+25447858;2026-08-14;1;;global
+25448781;2026-08-14;1;;global
+25450440;2026-08-21;;;ru
+25452470;2026-09-02;proc;need to change price by Order reconciliation amendment tool;global
+25453025;2026-08-21;1;;global
+25453125;2026-08-27;;;ru
+25453157;2026-08-19;1;;global
+25453231;2026-08-20;1;;global
+25453810;2026-08-27;comp;compensation amount has been changed;global
+25453922;2026-08-15;1;;global
+25454736;2026-08-26;1;;global
+25455994;2026-08-11;1;;global
+25458772;2026-08-10;1;;global
+25459722;2026-08-16;;;global
+25460522;2026-08-18;;;global
+25461180;2026-08-22;1;;global
+25461740;2026-08-10;1;;global
+25464415;2026-08-10;;;ru
+25466324;2026-09-07;;1;global
+25469370;2026-08-13;log, proc;subtype has been changed to Payment discrepancy, need dispute (owner has been informed);global
+25471718;2026-08-14;1;;global
+25472216;2026-08-13;1;;global
+25472462;2026-08-28;;;global
+25473964;2026-09-07;;1;global
+25475968;2026-08-27;log;subtype has been changed to Room/Hotel service discrepancy;global
+25478042;2026-09-07;;1;global
+25479936;2026-08-18;1;;global
+25481482;2026-08-28;1;;global
+25483822;2026-08-18;comp;source has been changed to Content;global
+25484530;2026-09-01;1;;global
+25485946;2026-09-07;;1;global
+25486006;2026-08-23;1;;global
+25486922;2026-09-01;;;global
+25487114;2026-08-21;;;global
+25488866;2026-08-15;comp;compensation amount has been changed;global
+25490561;2026-09-06;;;ru
+25492156;2026-08-18;;;global
+25492695;2026-08-10;;;ru
+25494690;2026-08-29;1;;global
+25495535;2026-08-12;comp;currency of compensation has been changed;ru
+25495610;2026-08-21;1;;global
+25498138;2026-08-24;;;global
+25499114;2026-08-16;1;;global
+25502774;2026-08-22;1;;global
+25503389;2026-08-13;1;;ru
+25503704;2026-08-13;1;;global
+25505929;2026-09-05;1;;ru
+25506593;2026-08-25;;;ru
+25508032;2026-08-11;1;;global
+25508822;2026-08-29;1;;global
+25511690;2026-08-22;;;global
+25512084;2026-09-02;;;global
+25512931;2026-08-27;;;ru
+25514638;2026-09-07;need to change price by Order reconciliation amendment tool correctly;comp;global
+25514807;2026-08-24;;;ru
+25514863;2026-09-07;;;ru
+25514938;2026-08-15;;;global
+25515044;2026-08-10;log;source has been changed to Content;global
+25515982;2026-08-15;1;;global
+25517614;2026-08-14;1;;global
+25519083;2026-09-07;;;ru
+25520360;2026-08-13;1;;global
+25521038;2026-08-16;1;;global
+25526394;2026-08-30;log, proc;cause has been changed to Hotel-TPP process problem, need to change price by Order reconciliation amendment tool;global
+25526437;2026-08-10;;;ru
+25529325;2026-08-14;;;ru
+25533100;2026-08-26;1;;global
+25533105;2026-08-25;;;ru
+25533425;2026-08-24;;;ru
+25534863;2026-08-21;;;ru
+25534874;2026-09-07;;;global
+25535154;2026-08-10;comp;compensation amount was changed from AB to AS;global
+25536216;2026-08-13;1;;global
+25536728;2026-08-26;1;;global
+25538469;2026-08-18;;;ru
+25538824;2026-08-13;proc;need dispute (owner has been informed);global
+25540098;2026-08-13;1;;global
+25540330;2026-09-07;;1;global
+25540794;2026-09-01;log, comp;source has been changed to Product, compensation type has been changed;global
+25541592;2026-08-21;1;;global
+25543982;2026-09-05;;;global
+25544014;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+25545448;2026-08-18;1;;global
+25547294;2026-08-11;1;;global
+25549167;2026-09-05;;;ru
+25550176;2026-08-11;1;;global
+25550607;2026-08-23;;;ru
+25550631;2026-08-17;Extranet, Письмо на сверку;;ru
+25550632;2026-08-15;proc;need to change price by Order reconciliation amendment tool;global
+25550689;2026-08-12;1;;ru
+25551418;2026-08-10;1;;global
+25551718;2026-08-14;1;;global
+25552869;2026-09-07;;;ru
+25554786;2026-08-11;1;;global
+25557626;2026-08-20;1;;global
+25558150;2026-08-10;1;;global
+25559085;2026-08-27;;;ru
+25561828;2026-08-21;1;;global
+25562476;2026-08-17;1;;global
+25562649;2026-08-24;log;source has been changed to Content;ru
+25565040;2026-08-12;1;;global
+25565061;2026-09-03;;;ru
+25565119;2026-09-03;comp;compensation amount has been changed;ru
+25565558;2026-08-31;;;global
+25568046;2026-08-12;1;;global
+25568078;2026-09-07;;;global
+25568644;2026-09-05;;;global
+25569286;2026-08-29;1;;global
+25570812;2026-08-11;;;global
+25571830;2026-08-13;1;;global
+25576504;2026-08-18;comp;compensation was split between BD and OPS;global
+25576653;2026-08-16;;;ru
+25576675;2026-08-30;;;ru
+25578374;2026-09-01;;;global
+25582166;2026-08-15;1;;global
+25584022;2026-08-30;1;;global
+25587386;2026-09-05;1;;global
+25588194;2026-08-20;;;global
+25589968;2026-08-15;1;;global
+25590414;2026-08-23;;;global
+25590446;2026-08-23;;;global
+25590462;2026-09-01;;;global
+25591394;2026-08-31;;;global
+25592390;2026-09-04;1;;global
+25593825;2026-08-18;;;ru
+25593854;2026-08-21;1;;global
+25594179;2026-08-10;;;ru
+25594196;2026-08-28;1;;global
+25596111;2026-08-18;1;;ru
+25608008;2026-08-18;log;subtype has been changed to Category discrepancy;global
+25612144;2026-08-28;1;;global
+25612744;2026-08-21;1;;global
+25614032;2026-08-25;1;;global
+25614576;2026-08-21;;;global
+25616428;2026-08-12;1;;global
+25621158;2026-08-13;;;global
+25622707;2026-08-10;;;ru
+25623546;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+25624529;2026-08-11;;;ru
+25630538;2026-08-11;1;;global
+25631266;2026-09-07;;1;global
+25632392;2026-08-24;1;;global
+25632491;2026-08-20;1;;ru
+25632664;2026-08-10;1;;global
+25632708;2026-08-10;proc;dispute wasn't activated;global
+25632802;2026-08-11;1;;global
+25634156;2026-08-12;1;;global
+25635054;2026-09-02;1;;global
+25636279;2026-08-19;1;;ru
+25636372;2026-08-12;1;;global
+25640789;2026-09-01;;;ru
+25642206;2026-08-16;1;;global
+25643346;2026-08-22;;;global
+25644516;2026-08-21;Extranet, Письмо на сверку;;global
+25644680;2026-08-13;;;global
+25645254;2026-09-05;;;global
+25645464;2026-08-17;;;global
+25645654;2026-08-14;1;;global
+25648100;2026-08-14;;;global
+25648284;2026-08-30;1;;global
+25648434;2026-08-25;;;global
+25648472;2026-08-11;1;;global
+25648948;2026-09-04;;;global
+25652604;2026-08-15;1;;global
+25653990;2026-08-16;1;;global
+25655364;2026-08-11;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool;global
+25655552;2026-09-07;missed compensation has been added;comp;global
+25655578;2026-08-20;1;;global
+25656886;2026-08-20;;;global
+25657450;2026-08-15;1;;global
+25658176;2026-08-27;1;;global
+25658960;2026-09-07;dispute wasn't activated;proc;global
+25660100;2026-08-18;;;global
+25661076;2026-08-25;log;cause has been changed to Booking not found;global
+25662492;2026-08-23;1;;global
+25663877;2026-08-25;;;ru
+25663880;2026-08-15;proc;need dispute (owner has been informed);global
+25663896;2026-08-15;proc;need dispute (owner has been informed);global
+25672427;2026-08-14;;;ru
+25677033;2026-08-15;1;;ru
+25686034;2026-09-03;1;;global
+25686152;2026-09-06;1;;global
+25686234;2026-08-29;1;;global
+25686906;2026-08-14;1;;global
+25688264;2026-09-05;;;global
+25688506;2026-08-25;1;;global
+25689488;2026-09-07;;1;global
+25690542;2026-08-12;;;global
+25693526;2026-08-20;1;;global
+25693544;2026-09-05;;;global
+25694150;2026-09-07;;;global
+25694194;2026-08-11;log, comp;source has been changed to Product, compensation was split between BD and OPS;global
+25694990;2026-08-18;1;;global
+25695170;2026-08-18;1;;global
+25695796;2026-09-07;;1;global
+25696490;2026-08-25;1;;global
+25696902;2026-08-23;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool;global
+25698172;2026-08-11;1;;global
+25698698;2026-08-11;proc;need to change price by Order reconciliation amendment tool;global
+25698792;2026-08-19;1;;global
+25698878;2026-08-17;;;global
+25699952;2026-08-16;1;;global
+25700880;2026-08-13;1;;global
+25701188;2026-08-19;1;;global
+25701484;2026-08-27;1;;global
+25709380;2026-08-12;;;global
+25711420;2026-08-23;1;;global
+25712045;2026-08-24;;;ru
+25712656;2026-08-14;;;global
+25716386;2026-08-31;;;global
+25717256;2026-08-22;;;global
+25719234;2026-08-14;1;;global
+25720078;2026-08-20;comp;compensation type has been changed;global
+25720314;2026-08-13;1;;global
+25720602;2026-08-27;proc;need to change price by Order reconciliation amendment tool correctly;global
+25721340;2026-08-15;1;;global
+25723202;2026-08-15;1;;global
+25724733;2026-08-16;;;ru
+25725154;2026-08-31;1;;global
+25725184;2026-08-11;1;;global
+25725236;2026-08-28;1;;global
+25725384;2026-08-16;1;;global
+25726338;2026-08-17;1;;global
+25728648;2026-08-31;1;;global
+25729622;2026-09-07;need dispute (owner has been informed);proc;global
+25730034;2026-08-19;;;global
+25731128;2026-09-07;;;global
+25736564;2026-09-02;;;global
+25737830;2026-08-24;1;;global
+25738134;2026-08-12;1;;global
+25738146;2026-08-12;1;;global
+25740674;2026-09-04;1;;global
+25740860;2026-09-02;1;;global
+25741176;2026-08-25;;;global
+25741618;2026-09-02;1;;global
+25744396;2026-08-15;1;;global
+25744528;2026-08-30;1;;global
+25746144;2026-08-12;;;global
+25746746;2026-08-12;;;global
+25749036;2026-09-01;log;source has been changed to Content;global
+25750048;2026-08-25;в диспутах;;global
+25751830;2026-08-26;1;;global
+25752050;2026-08-23;Extranet, отмена ФОК, но есть Money paid;;global
+25752853;2026-09-03;;;ru
+25754876;2026-09-07;;1;global
+25754978;2026-08-11;comp;compensation was split between BD and OPS;global
+25755387;2026-08-10;;;ru
+25756124;2026-08-21;;;global
+25758292;2026-08-15;proc;dispute wasn't activated;global
+25758842;2026-08-26;log;subtype has been changed to Overbooking;global
+25760943;2026-09-02;comp;missed compensation has been added;ru
+25761106;2026-08-17;1;;global
+25761648;2026-08-13;1;;global
+25761834;2026-09-03;;;global
+25763206;2026-08-27;comp;missed compensation has been added;global
+25763330;2026-08-11;1;;global
+25763792;2026-08-11;1;;global
+25763824;2026-09-01;;;global
+25765346;2026-08-11;comp;compensation amount has been changed;global
+25771764;2026-08-20;1;;global
+25774404;2026-08-20;proc;dispute wasn't activated;global
+25774700;2026-08-21;;;global
+25776114;2026-08-19;1;;global
+25776264;2026-08-11;log;subtype has been changed to Bedding discrepancy;global
+25777194;2026-08-18;1;;global
+25777595;2026-08-20;1;;ru
+25780124;2026-08-17;;;global
+25780564;2026-08-15;1;;global
+25780686;2026-08-16;1;;global
+25781130;2026-09-07;;1;global
+25785154;2026-08-12;1;;global
+25785846;2026-08-18;1;;global
+25786816;2026-08-16;;;global
+25788272;2026-08-20;comp;compensation was split;global
+25789628;2026-08-17;1;;global
+25789902;2026-08-31;1;;global
+25790112;2026-08-22;1;;global
+25791386;2026-08-25;1;;global
+25792022;2026-08-20;1;;global
+25793964;2026-08-13;1;;global
+25794236;2026-08-10;1;;global
+25794734;2026-08-10;1;;global
+25794824;2026-09-04;;;global
+25795348;2026-08-13;;;global
+25795442;2026-08-16;1;;global
+25795482;2026-08-10;;;global
+25795508;2026-08-25;;;global
+25795930;2026-08-10;;;global
+25798540;2026-08-13;;;global
+25799137;2026-08-12;;;ru
+25799636;2026-08-19;1;;global
+25800292;2026-08-13;;;global
+25800406;2026-08-13;;;global
+25800775;2026-08-20;;;ru
+25800918;2026-09-07;;1;global
+25802312;2026-08-12;1;;global
+25802610;2026-08-24;1;;global
+25802918;2026-08-11;comp;compensation was split between BD and OPS;global
+25803929;2026-08-12;1;;ru
+25804788;2026-08-12;1;;global
+25804846;2026-08-21;1;;global
+25806324;2026-08-30;1;;global
+25806336;2026-08-23;;;global
+25806566;2026-08-15;proc;dispute wasn't activated;global
+25806606;2026-08-14;1;;global
+25808101;2026-08-12;;;ru
+25810000;2026-08-12;log;subtype has been changed to Category discrepancy;global
+25810326;2026-08-15;1;;global
+25810496;2026-08-16;1;;global
+25814244;2026-08-20;comp;compensation amount was changed from AB to AS;global
+25815606;2026-08-21;1;;global
+25815712;2026-08-29;1;;global
+25817128;2026-08-20;;;global
+25817562;2026-08-21;1;;global
+25817928;2026-08-30;proc;need to change price by Order reconciliation amendment tool correctly;global
+25818856;2026-08-21;1;;global
+25819048;2026-09-04;1;;global
+25819376;2026-08-10;log;subtype has been changed to Room/Hotel service discrepancy;global
+25819748;2026-08-10;1;;global
+25819794;2026-09-03;;;global
+25819838;2026-09-03;;;global
+25820286;2026-09-01;log;source has been changed to TPP;global
+25821851;2026-08-31;;;ru
+25822910;2026-08-17;1;;global
+25823862;2026-08-16;1;;global
+25824058;2026-08-14;;;global
+25824140;2026-08-13;;;global
+25824158;2026-09-07;;1;global
+25825388;2026-08-13;;;global
+25826818;2026-08-30;1;;global
+25827795;2026-08-25;log;source has been changed to Content;ru
+25828386;2026-09-06;;;global
+25829122;2026-09-07;;;global
+25829752;2026-08-17;proc;need to change price by Order reconciliation amendment tool;global
+25831463;2026-08-24;1;;ru
+25832104;2026-08-11;1;;global
+25832926;2026-08-12;;;global
+25833994;2026-08-10;comp;compensation amount was changed from AB to AS;global
+25834062;2026-08-15;1;;global
+25837154;2026-08-11;;;global
+25838236;2026-08-20;1;;global
+25841188;2026-08-14;1;;global
+25841804;2026-08-12;1;;global
+25841808;2026-09-07;;;global
+25841922;2026-08-15;comp;compensation amount has been changed;global
+25842084;2026-08-13;1;;global
+25842888;2026-08-11;log;subtype has been changed to Payment discrepancy;global
+25842988;2026-09-07;subtype has been changed to Room/Hotel service discrepancy, need dispute (owner has been informed);log, proc;global
+25843822;2026-08-28;1;;global
+25844388;2026-08-13;;;global
+25845984;2026-08-13;1;;global
+25846292;2026-08-23;1;;global
+25846514;2026-08-14;1;;global
+25846960;2026-08-12;1;;global
+25847038;2026-09-07;;1;global
+25849006;2026-08-18;log;subtype has been changed to Unconfirmed booking;global
+25849142;2026-08-24;proc;need dispute (owner has been informed);global
+25849660;2026-08-18;1;;global
+25850162;2026-08-11;1;;global
+25850832;2026-08-12;1;;global
+25852200;2026-09-07;;1;global
+25853194;2026-08-11;1;;global
+25853474;2026-09-02;1;;global
+25854458;2026-08-27;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;global
+25854466;2026-09-07;;1;global
+25855290;2026-08-10;;;global
+25855376;2026-08-29;1;;global
+25855856;2026-08-12;;;global
+25856064;2026-09-07;;1;global
+25856232;2026-08-17;1;;global
+25856556;2026-08-10;1;;global
+25857792;2026-08-29;1;;global
+25858204;2026-08-11;;;global
+25858428;2026-08-18;comp, proc;compensation type has been changed, need to change price by Order reconciliation amendment tool;global
+25858926;2026-08-18;1;;global
+25860234;2026-08-27;1;;global
+25860708;2026-08-18;1;;global
+25861122;2026-08-14;1;;global
+25861408;2026-08-16;1;;global
+25863344;2026-08-11;1;;global
+25863452;2026-08-22;1;;global
+25863640;2026-08-13;;;global
+25863694;2026-08-13;;;global
+25863738;2026-08-14;log;source has been changed to Content;global
+25863740;2026-08-13;;;global
+25863778;2026-08-13;;;global
+25864776;2026-08-18;1;;global
+25865852;2026-08-23;1;;global
+25866279;2026-08-24;;;ru
+25866584;2026-08-19;log;cause has been changed to Occupancy;global
+25866862;2026-08-10;1;;global
+25867521;2026-09-01;1;;ru
+25869428;2026-08-11;1;;global
+25869636;2026-08-10;;;global
+25871370;2026-09-07;;;global
+25871978;2026-08-18;1;;global
+25872219;2026-08-11;;;ru
+25873158;2026-08-12;1;;global
+25873810;2026-08-15;log;subtype has been changed to Payment discrepancy;global
+25873946;2026-08-21;1;;global
+25875036;2026-08-23;1;;global
+25876318;2026-08-17;1;;global
+25876945;2026-08-11;;;ru
+25877156;2026-09-04;;;global
+25877332;2026-08-10;1;;global
+25877442;2026-08-16;1;;global
+25877490;2026-08-23;;;global
+25877712;2026-09-02;1;;global
+25879630;2026-08-12;;;global
+25882218;2026-08-19;1;;global
+25882588;2026-08-10;1;;global
+25883287;2026-08-20;1;;ru
+25883576;2026-08-12;1;;global
+25883778;2026-08-25;1;;global
+25884222;2026-08-12;log, proc;source has been changed to TPP, need dispute (owner has been informed);global
+25885295;2026-08-12;;;ru
+25885618;2026-08-22;Extranet, ORA для изменения AB в меньшую сторону, ошибка ORA или Payments;;global
+25886810;2026-08-15;1;;global
+25887324;2026-08-13;;;global
+25887403;2026-09-02;;;ru
+25887850;2026-08-10;;;global
+25889316;2026-08-14;comp;compensation amount has been changed;global
+25889534;2026-08-15;;;global
+25890172;2026-08-22;1;;global
+25891894;2026-08-19;1;;global
+25891978;2026-08-11;;;global
+25893708;2026-08-24;1;;global
+25895243;2026-08-26;1;;ru
+25895904;2026-08-19;;;global
+25896271;2026-09-02;;;ru
+25896638;2026-08-11;1;;global
+25896820;2026-08-17;1;;global
+25898784;2026-09-07;dispute wasn't activated;proc;global
+25899342;2026-08-16;1;;global
+25899356;2026-08-14;1;;global
+25900604;2026-08-10;;;global
+25900850;2026-09-07;;;global
+25902078;2026-08-10;comp, proc;compensation was split between BD and OPS, dispute wasn't activated;global
+25902114;2026-08-11;comp;compensation was split between BD and OPS;global
+25902154;2026-08-24;1;;global
+25902472;2026-08-13;;;global
+25902632;2026-08-11;1;;global
+25903208;2026-08-13;;;global
+25903634;2026-08-11;1;;global
+25903912;2026-08-26;;;global
+25904712;2026-08-26;1;;global
+25906062;2026-08-19;1;;global
+25906442;2026-08-14;1;;global
+25906982;2026-08-14;log;source has been changed to Content;global
+25907462;2026-08-21;proc;need dispute (owner has been informed);global
+25907992;2026-08-19;log;subtype has been changed to Payment discrepancy;global
+25908960;2026-08-29;;;global
+25909064;2026-08-30;1;;global
+25909190;2026-08-10;;;global
+25909358;2026-08-13;log, comp;subtype has been changed to Category discrepancy, compensation amount was changed from AB to AS;global
+25909888;2026-08-19;;;global
+25910596;2026-08-16;;;global
+25910630;2026-08-12;1;;global
+25910688;2026-09-01;1;;global
+25910748;2026-08-13;1;;global
+25911092;2026-08-21;1;;global
+25911380;2026-08-10;1;;global
+25911430;2026-08-27;proc;need dispute (owner has been informed);global
+25911714;2026-08-11;1;;global
+25911720;2026-08-19;1;;global
+25912884;2026-09-03;1;;global
+25913200;2026-09-01;;;global
+25915354;2026-08-16;1;;global
+25915864;2026-08-17;1;;global
+25919076;2026-09-07;;;global
+25919728;2026-08-13;log;subtype has been changed to Room/Hotel service discrepancy;global
+25920314;2026-08-24;1;;global
+25923020;2026-08-11;1;;global
+25924428;2026-08-10;log;cause has been changed to Hotel-TPP process problem;global
+25925288;2026-08-13;log;cause has been changed to Booking not found;global
+25925770;2026-08-12;1;;global
+25926008;2026-08-12;;;global
+25926494;2026-08-14;1;;global
+25927670;2026-08-10;log;cause has been changed to Hotel-TPP process problem;global
+25927868;2026-08-13;;;global
+25928558;2026-08-15;;;global
+25928700;2026-08-18;log;subtype has been changed to Room/Hotel service discrepancy;global
+25928826;2026-08-13;1;;global
+25929082;2026-08-12;1;;global
+25929428;2026-08-15;1;;global
+25929482;2026-08-15;;;global
+25929566;2026-08-10;1;;global
+25931140;2026-09-07;;;global
+25931894;2026-08-11;1;;global
+25932104;2026-08-12;log;subtype has been changed to Unconfirmed booking;global
+25932152;2026-08-11;1;;global
+25932696;2026-08-20;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+25932934;2026-08-11;1;;global
+25933086;2026-08-11;comp;missed compensation has been added;global
+25933274;2026-08-24;1;;global
+25933366;2026-08-16;1;;global
+25933468;2026-08-10;log;source has been changed to Content;global
+25935852;2026-08-10;1;;global
+25936032;2026-08-13;1;;global
+25936448;2026-08-13;1;;global
+25936496;2026-08-26;;;global
+25936498;2026-08-12;1;;global
+25936578;2026-09-07;;;global
+25936722;2026-08-16;1;;global
+25937082;2026-08-13;;;global
+25938300;2026-08-11;1;;global
+25938352;2026-08-12;1;;global
+25938393;2026-08-18;;;ru
+25939023;2026-08-16;;;ru
+25939262;2026-08-15;;;global
+25939670;2026-09-07;;1;global
+25939898;2026-08-11;1;;global
+25941466;2026-08-15;1;;global
+25943031;2026-08-20;1;;ru
+25943486;2026-08-15;log;source has been changed to Hotel service;global
+25943552;2026-08-10;1;;global
+25944212;2026-08-28;1;;global
+25944902;2026-08-19;1;;global
+25945348;2026-08-18;;;global
+25945622;2026-08-12;1;;global
+25945678;2026-08-14;1;;global
+25945807;2026-08-12;;;ru
+25947176;2026-08-14;;;global
+25947336;2026-08-17;1;;global
+25948568;2026-08-19;;;global
+25948968;2026-08-14;log;subtype has been changed to Bedding discrepancy;global
+25949378;2026-08-10;;;global
+25949716;2026-08-28;;;global
+25950040;2026-08-11;;;global
+25950807;2026-08-13;;;ru
+25951060;2026-08-12;1;;global
+25951200;2026-09-07;;;global
+25951355;2026-09-02;1;;ru
+25952416;2026-08-12;;;global
+25952646;2026-08-12;1;;global
+25952988;2026-08-19;1;;global
+25953156;2026-08-21;1;;global
+25953462;2026-09-07;;1;global
+25953514;2026-09-06;comp;compensation was split;global
+25953798;2026-08-11;1;;global
+25954113;2026-08-14;;;ru
+25954550;2026-08-24;;;global
+25954776;2026-08-22;1;;global
+25954826;2026-08-22;1;;global
+25954828;2026-09-07;email to Reconciliation has been added;proc;global
+25955012;2026-09-02;;;global
+25955088;2026-08-11;1;;global
+25955596;2026-08-26;log;subtype has been changed to Payment discrepancy;global
+25955744;2026-08-20;1;;global
+25957938;2026-08-15;1;;global
+25958170;2026-08-10;1;;global
+25958362;2026-08-23;1;;global
+25960256;2026-08-26;1;;global
+25961366;2026-08-15;log;cause has been changed to Hotel-TPP process problem;global
+25961720;2026-08-11;1;;global
+25962788;2026-08-12;1;;global
+25963562;2026-08-11;1;;global
+25964098;2026-08-12;1;;global
+25965006;2026-08-21;;;global
+25965058;2026-08-16;;;global
+25965122;2026-08-17;1;;global
+25965166;2026-08-16;1;;global
+25965558;2026-08-20;1;;global
+25966302;2026-08-16;1;;global
+25966754;2026-08-19;;;global
+25966756;2026-08-17;1;;global
+25967633;2026-08-15;;;ru
+25967664;2026-08-18;1;;global
+25968077;2026-08-20;;;ru
+25968534;2026-08-13;1;;global
+25968766;2026-08-12;1;;global
+25969160;2026-08-11;;;global
+25969476;2026-08-20;1;;global
+25969654;2026-08-10;1;;global
+25969870;2026-08-27;1;;global
+25970376;2026-08-10;1;;global
+25970590;2026-08-21;1;;global
+25970912;2026-08-12;1;;global
+25971263;2026-08-14;;;ru
+25971596;2026-08-10;;;global
+25971822;2026-08-26;1;;global
+25971976;2026-08-10;;;global
+25972498;2026-09-02;;;global
+25972510;2026-09-07;email to Reconciliation has been added;proc;global
+25972760;2026-08-12;;;global
+25972996;2026-08-10;comp;compensation amount was changed from AB to AS;global
+25973117;2026-09-04;;;ru
+25973167;2026-08-10;;;ru
+25973278;2026-09-07;;1;global
+25973310;2026-08-10;1;;global
+25973662;2026-08-15;1;;global
+25973780;2026-08-10;1;;global
+25973894;2026-08-11;1;;global
+25974288;2026-09-05;;;global
+25974679;2026-08-15;;;ru
+25975041;2026-08-14;;;ru
+25975492;2026-08-13;1;;global
+25975730;2026-08-12;1;;global
+25976050;2026-08-28;1;;global
+25976340;2026-08-10;1;;global
+25976512;2026-08-13;;;global
+25977282;2026-08-12;1;;global
+25977336;2026-08-17;1;;global
+25978028;2026-08-15;;;global
+25978728;2026-08-13;1;;global
+25979200;2026-08-11;;;global
+25979974;2026-08-11;1;;global
+25980596;2026-08-11;В диспутах;;global
+25980640;2026-08-14;1;;global
+25980676;2026-08-14;proc;need dispute (owner has been informed);global
+25981006;2026-08-14;1;;global
+25981168;2026-09-07;need to change price by Order reconciliation amendment tool;proc;global
+25981244;2026-08-10;;;global
+25981308;2026-08-13;1;;global
+25982060;2026-08-15;1;;global
+25982140;2026-08-11;;;global
+25982280;2026-09-06;;;global
+25982294;2026-08-26;;;global
+25982464;2026-08-15;1;;global
+25982998;2026-08-10;;;global
+25983140;2026-08-20;1;;global
+25983210;2026-09-07;source has been changed to Content;log;global
+25983334;2026-08-10;1;;global
+25983422;2026-08-30;;;global
+25983580;2026-08-21;;;global
+25984430;2026-08-10;;;global
+25984918;2026-08-31;;;global
+25986386;2026-08-29;1;;global
+25986572;2026-08-14;1;;global
+25987330;2026-08-28;1;;global
+25988148;2026-08-21;1;;global
+25988774;2026-08-13;1;;global
+25988798;2026-08-10;1;;global
+25988818;2026-08-16;1;;global
+25988924;2026-08-12;1;;global
+25988936;2026-08-13;;;global
+25989006;2026-08-13;1;;global
+25989910;2026-08-31;;;global
+25990232;2026-08-10;1;;global
+25990266;2026-08-12;1;;global
+25990296;2026-08-12;1;;global
+25990502;2026-08-11;;;global
+25990540;2026-08-10;1;;global
+25990850;2026-09-04;;;global
+25991238;2026-08-14;1;;global
+25991686;2026-08-21;1;;global
+25992214;2026-08-16;1;;global
+25992576;2026-08-10;1;;global
+25993606;2026-09-06;;;global
+25994470;2026-08-13;;;global
+25994946;2026-08-12;;;global
+25995844;2026-08-10;log;cause has been changed to Our mismatch;global
+25995848;2026-08-10;;;global
+25996936;2026-08-10;;;global
+25997060;2026-08-31;;;global
+25997648;2026-08-24;;;global
+25998052;2026-08-11;1;;global
+25999092;2026-09-02;1;;global
+25999140;2026-08-14;1;;global
+25999286;2026-08-13;1;;global
+25999410;2026-08-10;1;;global
+25999436;2026-08-11;;;global
+25999452;2026-08-10;log;subtype has been changed to Category discrepancy;global
+25999588;2026-09-07;;;global
+25999648;2026-08-10;proc;need dispute (owner has been informed);global
+25999716;2026-08-12;1;;global
+26000188;2026-08-11;1;;global
+26000645;2026-08-12;1;;ru
+26000858;2026-08-13;1;;global
+26000860;2026-08-10;;;global
+26000902;2026-08-14;1;;global
+26001030;2026-08-13;1;;global
+26001254;2026-08-19;1;;global
+26001388;2026-08-11;1;;global
+26001948;2026-08-10;;;global
+26002244;2026-08-17;proc;need dispute (owner has been informed);global
+26002538;2026-08-10;;;global
+26003578;2026-08-19;1;;global
+26003872;2026-08-18;1;;global
+26004237;2026-08-11;;;ru
+26004602;2026-08-12;1;;global
+26004778;2026-08-16;1;;global
+26004866;2026-08-10;1;;global
+26005534;2026-08-11;1;;global
+26005839;2026-08-20;;;ru
+26006004;2026-09-05;;;global
+26006036;2026-08-10;1;;global
+26006208;2026-08-13;1;;global
+26006586;2026-09-01;;;global
+26007022;2026-08-22;1;;global
+26007646;2026-08-13;1;;global
+26007844;2026-08-26;comp;compensation was split between BD and OPS;global
+26007936;2026-08-27;1;;global
+26008118;2026-08-26;1;;global
+26008202;2026-08-11;1;;global
+26008836;2026-08-15;1;;global
+26008930;2026-09-07;;1;global
+26008948;2026-08-10;1;;global
+26009074;2026-08-14;1;;global
+26009150;2026-09-07;;1;global
+26009798;2026-08-13;1;;global
+26009816;2026-08-15;;;global
+26009908;2026-08-15;1;;global
+26010406;2026-08-11;1;;global
+26010496;2026-08-16;1;;global
+26011232;2026-09-02;1;;global
+26011306;2026-09-07;;1;global
+26011872;2026-08-19;1;;global
+26011980;2026-08-13;1;;global
+26012200;2026-08-10;1;;global
+26012290;2026-08-11;log;source has been changed to Content;global
+26012614;2026-08-11;1;;global
+26012656;2026-08-12;1;;global
+26012992;2026-08-17;Extranet, ORA для изменения AB в меньшую сторону, ошибка ORA или Payments;;global
+26013072;2026-08-17;1;;global
+26013358;2026-08-13;1;;global
+26013994;2026-08-10;1;;global
+26014318;2026-08-13;;;global
+26014732;2026-08-11;1;;global
+26015300;2026-09-01;1;;global
+26015310;2026-08-28;1;;global
+26015364;2026-08-14;1;;global
+26015470;2026-08-23;1;;global
+26016008;2026-08-21;;;global
+26016360;2026-08-10;;;global
+26016468;2026-08-12;log;subtype has been changed to Category discrepancy;global
+26016688;2026-08-21;1;;global
+26016872;2026-08-10;;;global
+26017106;2026-08-26;1;;global
+26018184;2026-08-19;;;global
+26018240;2026-08-21;log;source has been changed to Hotel service;global
+26018910;2026-08-13;;;global
+26019074;2026-08-11;1;;global
+26019324;2026-08-11;1;;global
+26019712;2026-08-12;1;;global
+26020050;2026-08-12;;;global
+26020362;2026-08-14;proc;need dispute (owner has been informed);global
+26020502;2026-08-11;1;;global
+26020654;2026-08-13;1;;global
+26020760;2026-08-12;1;;global
+26021378;2026-08-13;;;global
+26021706;2026-09-07;;1;global
+26021920;2026-08-30;1;;global
+26022688;2026-08-11;;;global
+26022706;2026-08-14;log;subtype has been changed to Hotel unavailable;global
+26022790;2026-08-15;;;global
+26023204;2026-08-21;1;;global
+26023206;2026-09-01;1;;global
+26023380;2026-08-13;1;;global
+26023636;2026-09-06;;;global
+26023674;2026-08-18;;;global
+26023936;2026-08-11;1;;global
+26024072;2026-08-15;1;;global
+26024219;2026-08-11;;;ru
+26024414;2026-08-11;;;global
+26024668;2026-08-21;1;;global
+26024714;2026-08-11;1;;global
+26024732;2026-08-11;1;;global
+26024814;2026-08-16;1;;global
+26024868;2026-08-23;1;;global
+26025586;2026-08-14;;;global
+26025622;2026-08-11;;;global
+26025808;2026-08-24;;;global
+26025996;2026-08-11;1;;global
+26026052;2026-08-12;;;global
+26026580;2026-08-12;1;;global
+26026776;2026-08-26;1;;global
+26026834;2026-08-11;;;global
+26027134;2026-08-15;comp;compensation was split between BD and OPS;global
+26027394;2026-08-12;comp;compensation amount was changed from AB to AS;global
+26027446;2026-08-17;;;global
+26027806;2026-08-11;1;;global
+26028198;2026-08-16;1;;global
+26028424;2026-08-14;1;;global
+26028816;2026-08-11;1;;global
+26029334;2026-08-16;в диспутах;;global
+26029684;2026-08-16;;;global
+26029716;2026-08-16;;;global
+26030884;2026-08-11;1;;global
+26030944;2026-08-21;;;global
+26031048;2026-08-17;;;global
+26031484;2026-08-15;comp;compensation amount has been changed;global
+26031784;2026-08-14;;;global
+26031864;2026-08-11;1;;global
+26032622;2026-08-13;1;;global
+26032634;2026-08-31;;;global
+26033040;2026-08-14;1;;global
+26033072;2026-08-13;1;;global
+26033116;2026-08-15;1;;global
+26033122;2026-08-19;;;global
+26033300;2026-08-26;1;;global
+26033660;2026-09-07;;;global
+26033694;2026-08-16;1;;global
+26033722;2026-08-17;1;;global
+26034102;2026-08-14;1;;global
+26034818;2026-08-11;1;;global
+26035005;2026-08-14;1;;ru
+26035064;2026-08-11;;;global
+26035238;2026-08-12;1;;global
+26035448;2026-08-25;;;global
+26035610;2026-08-13;1;;global
+26035634;2026-08-27;proc;need dispute (owner has been informed);global
+26035812;2026-08-27;1;;global
+26036564;2026-08-12;1;;global
+26037184;2026-08-22;comp;compensation amount has been changed;global
+26037724;2026-08-19;log;subtype has been changed to Room/Hotel service discrepancy;global
+26037900;2026-08-11;1;;global
+26038168;2026-09-01;1;;global
+26038498;2026-08-13;proc;dispute wasn't activated;global
+26038546;2026-09-07;;;global
+26039054;2026-08-25;1;;global
+26039096;2026-08-18;1;;global
+26039434;2026-08-14;1;;global
+26039676;2026-08-15;1;;global
+26039838;2026-08-11;;;global
+26039894;2026-09-02;;;global
+26039910;2026-08-14;;;global
+26040648;2026-09-07;dispute wasn't activated;proc;global
+26040712;2026-08-13;1;;global
+26041130;2026-08-18;1;;global
+26041382;2026-08-21;1;;global
+26041598;2026-09-01;;;global
+26041752;2026-08-20;;;global
+26041824;2026-08-28;1;;global
+26042076;2026-08-16;;;global
+26042220;2026-08-12;1;;global
+26042238;2026-08-12;1;;global
+26042790;2026-08-13;1;;global
+26042934;2026-08-12;log;subtype has been changed to Room/Hotel service discrepancy;global
+26042970;2026-08-19;1;;global
+26042988;2026-08-13;1;;global
+26042996;2026-08-13;;;global
+26043444;2026-08-13;1;;global
+26043630;2026-08-12;;;global
+26044022;2026-08-15;;;global
+26044074;2026-08-12;;;global
+26044260;2026-08-12;1;;global
+26044440;2026-08-16;1;;global
+26044920;2026-08-12;;;global
+26044998;2026-08-11;1;;global
+26045614;2026-08-12;;;global
+26045880;2026-08-12;1;;global
+26045936;2026-08-11;log;cause has been changed to Booking not found;global
+26046232;2026-08-19;1;;global
+26046422;2026-08-14;1;;global
+26047084;2026-08-23;Оунер;;global
+26047408;2026-08-21;;;global
+26047438;2026-08-12;;;global
+26047460;2026-08-23;1;;global
+26047476;2026-08-12;1;;global
+26047710;2026-08-13;1;;global
+26047716;2026-08-23;;;global
+26047870;2026-08-15;1;;global
+26048246;2026-08-13;1;;global
+26048748;2026-08-16;1;;global
+26048794;2026-08-12;1;;global
+26049118;2026-08-12;1;;global
+26049242;2026-08-15;1;;global
+26049614;2026-08-14;1;;global
+26050138;2026-08-21;1;;global
+26050200;2026-08-11;1;;global
+26050280;2026-08-16;1;;global
+26050512;2026-08-12;;;global
+26050800;2026-08-16;;;global
+26050822;2026-08-23;;;global
+26050942;2026-08-14;1;;global
+26050982;2026-08-27;1;;global
+26052142;2026-08-15;1;;global
+26052408;2026-08-14;1;;global
+26052692;2026-08-12;;;global
+26052884;2026-08-14;1;;global
+26052904;2026-08-16;1;;global
+26053456;2026-08-12;;;global
+26054412;2026-08-13;;;global
+26054444;2026-09-07;;1;global
+26054918;2026-08-15;1;;global
+26054936;2026-08-12;1;;global
+26055230;2026-08-21;;;global
+26055294;2026-08-12;1;;global
+26055820;2026-08-19;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26056052;2026-08-18;;;global
+26056216;2026-08-12;;;global
+26056292;2026-08-12;;;global
+26056612;2026-08-20;;;global
+26057288;2026-08-15;1;;global
+26057482;2026-08-22;1;;global
+26057922;2026-09-07;;;global
+26058216;2026-08-18;comp;compensation amount has been changed;global
+26058236;2026-09-07;;;global
+26058452;2026-08-14;1;;global
+26058838;2026-08-20;1;;global
+26059246;2026-08-12;;;global
+26059582;2026-08-12;1;;global
+26060110;2026-08-12;;;global
+26060264;2026-08-13;1;;global
+26060576;2026-08-28;;;global
+26060626;2026-08-28;1;;global
+26060680;2026-08-19;1;;global
+26060834;2026-08-31;;;global
+26060838;2026-08-16;1;;global
+26061070;2026-08-14;;;global
+26061288;2026-08-29;log, proc;source has been changed to Content, need to change price by Order reconciliation amendment tool correctly;global
+26061390;2026-08-16;1;;global
+26061464;2026-08-27;1;;global
+26062236;2026-08-14;1;;global
+26062655;2026-08-29;;;ru
+26062922;2026-08-30;1;;global
+26063618;2026-08-12;1;;global
+26063828;2026-08-12;;;global
+26065246;2026-08-27;1;;global
+26065440;2026-08-18;1;;global
+26065850;2026-08-23;;;global
+26066332;2026-08-12;1;;global
+26066388;2026-08-12;1;;global
+26066728;2026-08-12;1;;global
+26067550;2026-08-15;1;;global
+26067684;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26067860;2026-08-14;1;;global
+26068574;2026-08-16;1;;global
+26068628;2026-08-14;1;;global
+26068730;2026-08-23;1;;global
+26069066;2026-08-31;1;;global
+26069074;2026-08-31;1;;global
+26069746;2026-08-13;;;global
+26069766;2026-08-14;;;global
+26069970;2026-08-16;1;;global
+26070204;2026-08-15;;;global
+26070300;2026-08-12;1;;global
+26070370;2026-09-06;;;global
+26070700;2026-08-17;1;;global
+26071268;2026-09-07;email to Reconciliation has been added;proc;global
+26071336;2026-08-15;;;global
+26071426;2026-08-12;;;global
+26071482;2026-08-12;1;;global
+26071650;2026-08-19;1;;global
+26071718;2026-08-18;1;;global
+26071728;2026-08-14;;;global
+26072174;2026-08-15;1;;global
+26072212;2026-08-12;1;;global
+26072300;2026-08-17;proc;dispute wasn't activated;global
+26072348;2026-08-22;;;global
+26073152;2026-08-14;1;;global
+26073260;2026-08-15;proc;need dispute (owner has been informed);global
+26073856;2026-08-13;1;;global
+26073960;2026-08-25;;;global
+26074220;2026-08-16;;;global
+26074274;2026-09-05;;;global
+26074478;2026-08-17;proc;need to change price by Order reconciliation amendment tool;global
+26074652;2026-08-23;1;;global
+26074742;2026-09-07;subtype has been changed to Overbooking;log;global
+26075112;2026-08-13;1;;global
+26076512;2026-08-25;1;;global
+26076816;2026-08-18;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26077142;2026-08-26;1;;global
+26077414;2026-08-16;1;;global
+26077770;2026-08-13;1;;global
+26078016;2026-09-03;1;;global
+26078612;2026-08-13;1;;global
+26078896;2026-09-03;;;global
+26078948;2026-09-02;;;global
+26079042;2026-09-05;;;global
+26079190;2026-08-14;;;global
+26079256;2026-08-31;;;global
+26079300;2026-08-16;1;;global
+26079666;2026-08-13;1;;global
+26080052;2026-08-13;1;;global
+26080926;2026-08-13;1;;global
+26081460;2026-08-18;;;global
+26081792;2026-08-21;1;;global
+26081822;2026-08-14;;;global
+26081890;2026-08-17;1;;global
+26082086;2026-08-14;;;global
+26082164;2026-08-18;;;global
+26082258;2026-08-15;;;global
+26082380;2026-09-01;1;;global
+26082852;2026-08-14;1;;global
+26083476;2026-08-13;;;global
+26083497;2026-08-11;;;ru
+26083534;2026-08-22;;;global
+26083646;2026-08-13;1;;global
+26084214;2026-08-13;1;;global
+26084684;2026-08-21;1;;global
+26084796;2026-08-17;;;global
+26085104;2026-08-13;;;global
+26085590;2026-08-14;1;;global
+26085892;2026-08-16;1;;global
+26086068;2026-08-15;1;;global
+26086370;2026-08-16;;;global
+26086396;2026-08-13;1;;global
+26086650;2026-08-13;;;global
+26087684;2026-08-22;1;;global
+26088024;2026-08-14;1;;global
+26088060;2026-08-14;1;;global
+26088318;2026-08-30;;;global
+26088382;2026-08-19;1;;global
+26088724;2026-08-16;1;;global
+26088730;2026-08-13;;;global
+26089050;2026-08-21;1;;global
+26089184;2026-08-16;;;global
+26089272;2026-08-19;1;;global
+26090200;2026-08-13;;;global
+26090306;2026-08-14;1;;global
+26090450;2026-08-21;log;cause has been changed to TPP hotel description;global
+26090528;2026-09-06;;;global
+26090676;2026-08-14;1;;global
+26091006;2026-08-29;;;global
+26091312;2026-08-13;;;global
+26092643;2026-08-12;;;ru
+26092832;2026-08-17;1;;global
+26092874;2026-08-14;1;;global
+26093332;2026-08-18;1;;global
+26093361;2026-08-10;;;ru
+26093704;2026-08-14;;;global
+26094216;2026-08-15;1;;global
+26094842;2026-08-20;1;;global
+26095060;2026-08-15;;;global
+26095366;2026-08-16;;;global
+26095380;2026-08-18;1;;global
+26095818;2026-08-15;1;;global
+26095962;2026-08-18;log;subtype has been changed to Room/Hotel service discrepancy;global
+26096060;2026-08-14;;;global
+26096360;2026-08-15;1;;global
+26096370;2026-08-20;;;global
+26096562;2026-08-16;;;global
+26096806;2026-08-20;log;cause has been changed to Room size;global
+26096896;2026-08-24;1;;global
+26097378;2026-09-07;;;global
+26097684;2026-08-14;;;global
+26098070;2026-08-14;;;global
+26098192;2026-09-02;;;global
+26098618;2026-08-27;1;;global
+26098650;2026-08-20;1;;global
+26099922;2026-08-27;comp;extra compensation has been deleted;global
+26100844;2026-08-16;в диспутах;;global
+26101614;2026-08-14;1;;global
+26101656;2026-08-13;;;global
+26101804;2026-09-07;;1;global
+26101824;2026-08-27;1;;global
+26101840;2026-09-06;1;;global
+26101878;2026-08-18;1;;global
+26102090;2026-09-07;need dispute (owner has been informed);proc;global
+26102148;2026-08-21;1;;global
+26102214;2026-08-23;proc;need dispute (owner has been informed);global
+26104230;2026-08-15;;;global
+26104238;2026-08-19;;;global
+26104402;2026-08-16;1;;global
+26104612;2026-08-15;1;;global
+26104808;2026-08-18;;;global
+26104980;2026-08-13;log;subtype has been changed to Room/Hotel service discrepancy;global
+26106346;2026-08-14;1;;global
+26107006;2026-08-25;;;global
+26107192;2026-08-13;;;global
+26108170;2026-08-16;1;;global
+26108330;2026-08-16;1;;global
+26108900;2026-08-19;proc;need dispute (owner has been informed);global
+26109049;2026-08-24;;;ru
+26109702;2026-08-17;1;;global
+26109935;2026-08-13;;;ru
+26110004;2026-08-13;1;;global
+26110048;2026-08-13;1;;global
+26110294;2026-08-18;log;source has been changed to Product;global
+26110332;2026-08-18;;;global
+26110642;2026-08-25;1;;global
+26110918;2026-08-14;;;global
+26111142;2026-08-14;1;;global
+26111282;2026-08-14;1;;global
+26111934;2026-08-14;1;;global
+26112158;2026-08-21;1;;global
+26112720;2026-08-15;;;global
+26113244;2026-08-14;comp;compensation amount was changed from AB to AS;global
+26113380;2026-08-20;;;global
+26113396;2026-08-14;1;;global
+26114296;2026-08-19;1;;global
+26114532;2026-08-17;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;global
+26114758;2026-08-16;;;global
+26114940;2026-08-14;;;global
+26115108;2026-08-15;proc;dispute wasn't activated;global
+26115376;2026-08-19;1;;global
+26115416;2026-08-15;1;;global
+26115890;2026-08-14;;;global
+26116150;2026-08-15;log;source has been changed to Guest;global
+26116396;2026-08-14;1;;global
+26116441;2026-08-13;;;ru
+26116508;2026-08-21;1;;global
+26117822;2026-09-02;;;global
+26117982;2026-09-03;1;;global
+26118462;2026-08-14;1;;global
+26118514;2026-08-20;log, proc;subtype has been changed to Payment discrepancy, dispute wasn't activated;global
+26118696;2026-08-15;1;;global
+26118832;2026-09-07;;;global
+26118912;2026-08-14;1;;global
+26119524;2026-08-24;1;;global
+26119866;2026-08-15;1;;global
+26119980;2026-08-29;;;global
+26120048;2026-08-15;1;;global
+26120242;2026-08-16;log;source has been changed to Content;global
+26120356;2026-08-16;Там пиздец, оунер;;global
+26120432;2026-08-15;log;source has been changed to Product;global
+26120434;2026-08-14;1;;global
+26120514;2026-08-16;;;global
+26121196;2026-08-15;;;global
+26122088;2026-08-28;1;;global
+26122225;2026-08-10;;;ru
+26122538;2026-08-14;;;global
+26123180;2026-08-14;1;;global
+26123194;2026-08-19;;;global
+26123574;2026-08-14;;;global
+26123748;2026-08-14;1;;global
+26123874;2026-08-26;;;global
+26124348;2026-08-14;1;;global
+26124362;2026-08-30;1;;global
+26125410;2026-08-15;1;;global
+26125852;2026-08-19;1;;global
+26126378;2026-08-15;1;;global
+26126490;2026-08-15;1;;global
+26126680;2026-09-03;1;;global
+26127202;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26127206;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26127300;2026-08-14;1;;global
+26128410;2026-08-18;1;;global
+26128422;2026-08-25;log;subtype has been changed to Room/Hotel service discrepancy;global
+26128432;2026-08-14;1;;global
+26128992;2026-08-14;;;global
+26129116;2026-08-18;;;global
+26129132;2026-08-19;1;;global
+26129284;2026-08-14;1;;global
+26129286;2026-09-04;log;subtype has been changed to Overbooking;global
+26129694;2026-08-15;1;;global
+26130052;2026-08-14;;;global
+26130454;2026-08-15;1;;global
+26130902;2026-08-18;log;cause has been changed to TPP mismatch;global
+26130918;2026-08-17;1;;global
+26131798;2026-08-20;1;;global
+26131848;2026-08-14;1;;global
+26131922;2026-08-15;;;global
+26132242;2026-08-28;;;global
+26132486;2026-08-29;1;;global
+26132506;2026-08-15;;;global
+26133334;2026-08-18;1;;global
+26133570;2026-09-04;;;global
+26133634;2026-08-20;;;global
+26133726;2026-08-27;1;;global
+26134218;2026-08-21;1;;global
+26134234;2026-08-21;1;;global
+26134362;2026-09-03;;;global
+26134528;2026-08-26;proc;need to change price by Order reconciliation amendment tool correctly;global
+26134604;2026-08-14;;;global
+26135484;2026-08-20;1;;global
+26135694;2026-08-17;1;;global
+26135918;2026-08-20;1;;global
+26136014;2026-08-21;;;global
+26136080;2026-08-15;1;;global
+26136602;2026-09-01;;;global
+26136650;2026-08-22;1;;global
+26136906;2026-08-16;;;global
+26136962;2026-08-16;1;;global
+26137390;2026-08-19;;;global
+26137610;2026-08-20;;;global
+26138268;2026-08-16;1;;global
+26138604;2026-08-21;1;;global
+26138740;2026-08-20;1;;global
+26139236;2026-08-20;1;;global
+26139854;2026-08-18;;;global
+26140240;2026-08-27;1;;global
+26141046;2026-08-20;;;global
+26141582;2026-08-16;log;subtype has been changed to Unconfirmed booking;global
+26141720;2026-08-16;proc;need dispute (owner has been informed);global
+26141824;2026-08-30;;;global
+26142458;2026-08-15;1;;global
+26143772;2026-08-16;;;global
+26143958;2026-08-16;;;global
+26145302;2026-08-27;comp;extra compensation has been deleted;global
+26145460;2026-08-15;;;global
+26146002;2026-08-19;1;;global
+26146004;2026-08-19;1;;global
+26146176;2026-08-27;1;;global
+26146194;2026-08-16;;;global
+26146212;2026-08-17;;;global
+26146286;2026-08-20;;;global
+26146342;2026-08-23;;;global
+26146352;2026-08-23;;;global
+26146366;2026-08-23;1;;global
+26146380;2026-08-20;1;;global
+26146414;2026-08-19;;;global
+26146420;2026-08-18;;;global
+26146436;2026-08-19;1;;global
+26146468;2026-08-19;;;global
+26146516;2026-08-19;1;;global
+26146586;2026-08-23;;;global
+26147052;2026-08-15;1;;global
+26147226;2026-08-19;;;global
+26147354;2026-09-07;need dispute (owner has been informed);proc;global
+26147751;2026-08-11;1;;ru
+26147850;2026-08-18;;;global
+26148006;2026-08-19;1;;global
+26148608;2026-08-17;1;;global
+26148642;2026-08-15;1;;global
+26148776;2026-09-07;;1;global
+26149194;2026-08-16;1;;global
+26149486;2026-08-15;;;global
+26149532;2026-09-01;1;;global
+26149614;2026-08-27;1;;global
+26149692;2026-08-15;1;;global
+26149860;2026-08-16;1;;global
+26149964;2026-09-05;;;global
+26149974;2026-08-16;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;global
+26150026;2026-08-25;log;subtype has been changed to Bedding discrepancy;global
+26150070;2026-08-16;1;;global
+26150198;2026-08-16;1;;global
+26150202;2026-08-19;comp;missed compensation has been added;global
+26150290;2026-08-16;proc;need dispute (owner has been informed);global
+26150700;2026-08-23;1;;global
+26150850;2026-08-19;1;;global
+26151139;2026-08-24;;;ru
+26151704;2026-08-20;proc;need to change price by Order reconciliation amendment tool;global
+26152166;2026-08-17;;;global
+26152170;2026-08-28;1;;global
+26152292;2026-08-16;1;;global
+26152448;2026-08-16;1;;global
+26152806;2026-08-28;1;;global
+26152922;2026-09-04;;;global
+26152956;2026-08-30;;;global
+26152958;2026-08-15;comp;missed compensation has been added;global
+26153348;2026-08-18;1;;global
+26153433;2026-08-11;;;ru
+26153560;2026-08-16;log;subtype has been changed to Payment discrepancy;global
+26153628;2026-08-16;1;;global
+26154986;2026-08-20;1;;global
+26155112;2026-08-20;1;;global
+26155287;2026-08-23;;;ru
+26155328;2026-08-21;1;;global
+26155744;2026-08-19;1;;global
+26155936;2026-08-16;1;;global
+26155950;2026-08-16;;;global
+26156022;2026-08-16;1;;global
+26156386;2026-09-07;;;global
+26156744;2026-08-16;comp;currency of compensation has been changed;global
+26156830;2026-08-16;1;;global
+26157046;2026-08-20;1;;global
+26157240;2026-08-23;;;global
+26157438;2026-09-02;;;global
+26157710;2026-08-16;;;global
+26157748;2026-08-15;1;;global
+26157916;2026-08-21;;;global
+26158048;2026-08-18;;;global
+26158570;2026-08-18;1;;global
+26158894;2026-08-21;comp;missed compensation has been added;global
+26159060;2026-08-17;1;;global
+26159132;2026-08-27;1;;global
+26159170;2026-08-16;1;;global
+26159774;2026-08-16;1;;global
+26159852;2026-08-16;1;;global
+26159896;2026-08-18;;;global
+26159930;2026-08-16;1;;global
+26160154;2026-08-16;1;;global
+26160498;2026-08-16;;;global
+26160584;2026-08-16;1;;global
+26160830;2026-08-19;;;global
+26161312;2026-08-16;1;;global
+26161342;2026-08-16;1;;global
+26161796;2026-08-16;;;global
+26161800;2026-08-31;;;global
+26161964;2026-09-07;need dispute (owner has been informed);proc;global
+26162104;2026-08-16;;;global
+26162246;2026-08-19;;;global
+26162526;2026-08-21;1;;global
+26163859;2026-08-25;1;;ru
+26163892;2026-08-19;1;;global
+26165620;2026-08-16;;;global
+26165994;2026-08-18;1;;global
+26166040;2026-08-20;1;;global
+26166184;2026-08-25;1;;global
+26167188;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26167226;2026-08-16;;;global
+26167502;2026-08-25;;;global
+26167748;2026-08-16;1;;global
+26167964;2026-09-07;;;global
+26168136;2026-08-28;1;;global
+26168140;2026-08-16;1;;global
+26168668;2026-08-16;1;;global
+26168990;2026-08-29;;;global
+26169361;2026-08-19;;;ru
+26169438;2026-08-16;1;;global
+26170622;2026-08-22;1;;global
+26171162;2026-08-19;;;global
+26171436;2026-08-20;1;;global
+26171596;2026-09-02;;;global
+26171802;2026-08-20;1;;global
+26172452;2026-08-16;1;;global
+26172502;2026-08-16;1;;global
+26172554;2026-08-18;1;;global
+26173092;2026-08-20;1;;global
+26173396;2026-08-22;1;;global
+26173500;2026-08-23;;;global
+26173510;2026-08-17;1;;global
+26173640;2026-08-25;1;;global
+26174052;2026-08-31;1;;global
+26174100;2026-08-16;1;;global
+26174106;2026-09-07;;1;global
+26174146;2026-08-20;Extranet, Есть только Money paid (not client), проверить тикет;;global
+26174156;2026-08-22;1;;global
+26174404;2026-08-29;1;;global
+26174420;2026-08-16;1;;global
+26174452;2026-08-19;1;;global
+26174538;2026-08-16;1;;global
+26174559;2026-08-14;;;ru
+26174590;2026-08-28;;;global
+26174988;2026-08-21;;;global
+26175460;2026-08-18;1;;global
+26175558;2026-08-17;log;cause has been changed to Hotel-TPP process problem;global
+26175832;2026-08-21;1;;global
+26176488;2026-08-16;;;global
+26176526;2026-08-18;1;;global
+26176879;2026-08-10;;;ru
+26177150;2026-08-25;;;global
+26177764;2026-08-17;1;;global
+26178260;2026-08-20;log;cause has been changed to Hotel-TPP process problem;global
+26178380;2026-08-20;1;;global
+26178402;2026-08-26;comp;compensation was split between BD and OPS;global
+26178458;2026-08-19;1;;global
+26178694;2026-08-16;;;global
+26179110;2026-08-23;1;;global
+26179442;2026-08-23;1;;global
+26179490;2026-08-29;1;;global
+26179620;2026-08-19;1;;global
+26179684;2026-08-21;1;;global
+26179708;2026-08-18;1;;global
+26180118;2026-08-24;;;global
+26180180;2026-08-18;Extranet, Есть только Money paid (not client), проверить тикет;;global
+26180288;2026-08-20;;;global
+26180342;2026-08-17;1;;global
+26180442;2026-08-20;log;subtype has been changed to Room/Hotel service discrepancy;global
+26180492;2026-08-17;1;;global
+26180670;2026-08-20;;;global
+26180678;2026-08-18;log;subtype has been changed to Room/Hotel service discrepancy;global
+26180732;2026-08-27;comp;compensation type has been changed;global
+26180770;2026-08-30;1;;global
+26180818;2026-08-18;;;global
+26181070;2026-08-18;1;;global
+26181266;2026-08-17;;;global
+26181306;2026-08-17;log;subtype has been changed to Overbooking;global
+26181688;2026-08-17;comp;missed compensation has been added;global
+26181728;2026-08-17;log;cause has been changed to Hotel-TPP process problem;global
+26182386;2026-08-31;;;global
+26182720;2026-08-21;1;;global
+26183012;2026-08-24;1;;global
+26183200;2026-08-29;1;;global
+26183526;2026-08-17;1;;global
+26184230;2026-09-07;;1;global
+26185392;2026-08-28;;;global
+26185880;2026-08-18;1;;global
+26186970;2026-08-18;1;;global
+26187346;2026-08-22;1;;global
+26188146;2026-08-30;1;;global
+26188394;2026-08-21;1;;global
+26188664;2026-08-17;1;;global
+26188932;2026-08-17;1;;global
+26189244;2026-08-20;proc;need to change price by Order reconciliation amendment tool;global
+26189486;2026-09-07;compensation amount has been changed;comp;global
+26189690;2026-08-22;1;;global
+26189828;2026-08-25;1;;global
+26189942;2026-08-17;1;;global
+26189962;2026-08-30;proc;need to change price by Order reconciliation amendment tool correctly;global
+26190048;2026-08-19;1;;global
+26190226;2026-08-17;log;subtype has been changed to Category discrepancy;global
+26190341;2026-08-10;;;ru
+26190391;2026-08-14;;;ru
+26190730;2026-08-17;;;global
+26190834;2026-08-20;proc;dispute wasn't activated;global
+26190854;2026-08-21;;;global
+26190870;2026-08-25;1;;global
+26190944;2026-08-26;1;;global
+26191236;2026-08-20;;;global
+26191916;2026-08-18;1;;global
+26191926;2026-08-21;1;;global
+26191968;2026-08-17;1;;global
+26192394;2026-08-19;1;;global
+26192414;2026-08-18;1;;global
+26193140;2026-08-17;log;source has been changed to Content;global
+26193196;2026-08-18;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26193834;2026-08-18;1;;global
+26194424;2026-08-21;1;;global
+26196222;2026-08-17;;;global
+26198086;2026-08-22;1;;global
+26198822;2026-09-06;;;global
+26198828;2026-08-18;1;;global
+26199310;2026-08-20;1;;global
+26201030;2026-08-19;1;;global
+26201920;2026-08-17;;;global
+26202236;2026-08-20;1;;global
+26202246;2026-08-31;1;;global
+26202386;2026-08-18;;;global
+26202590;2026-08-20;;;global
+26202969;2026-08-29;comp;compensation amount has been changed;ru
+26203500;2026-08-28;;;global
+26203634;2026-08-24;;;global
+26203648;2026-08-17;;;global
+26203676;2026-08-18;1;;global
+26203864;2026-08-18;1;;global
+26204228;2026-08-29;1;;global
+26204828;2026-08-18;1;;global
+26204884;2026-08-23;1;;global
+26205284;2026-08-18;comp;compensation was split between BD and OPS;global
+26205318;2026-08-18;1;;global
+26206644;2026-08-17;;;global
+26206676;2026-08-18;log;source has been changed to TPP;global
+26207388;2026-08-18;1;;global
+26207608;2026-08-22;;;global
+26207876;2026-08-17;1;;global
+26208158;2026-08-17;1;;global
+26208276;2026-08-17;1;;global
+26208806;2026-08-21;;;global
+26208860;2026-08-22;log;subtype has been changed to Room/Hotel service discrepancy;global
+26208916;2026-08-28;1;;global
+26209158;2026-08-28;1;;global
+26209176;2026-08-28;1;;global
+26209186;2026-08-28;1;;global
+26209190;2026-08-28;1;;global
+26209842;2026-08-18;1;;global
+26210216;2026-08-21;1;;global
+26210236;2026-09-07;need dispute (owner has been informed);proc;global
+26210242;2026-08-17;1;;global
+26210342;2026-09-06;;;global
+26210822;2026-08-19;;;global
+26211398;2026-08-19;1;;global
+26211480;2026-08-19;;;global
+26212164;2026-08-18;1;;global
+26212494;2026-09-03;1;;global
+26212546;2026-08-23;1;;global
+26212582;2026-08-21;1;;global
+26212824;2026-08-18;1;;global
+26213102;2026-08-19;1;;global
+26213598;2026-08-18;1;;global
+26213654;2026-08-23;;;global
+26213871;2026-09-03;;;ru
+26213918;2026-08-25;1;;global
+26214414;2026-09-01;1;;global
+26214600;2026-08-23;1;;global
+26214864;2026-08-19;1;;global
+26214960;2026-08-18;;;global
+26215068;2026-08-19;comp;missed compensation has been added;global
+26215214;2026-08-27;1;;global
+26215234;2026-08-22;1;;global
+26215696;2026-08-22;1;;global
+26216158;2026-08-20;1;;global
+26216634;2026-08-29;proc;need dispute (owner has been informed);global
+26218200;2026-08-23;;;global
+26218734;2026-08-21;1;;global
+26218783;2026-08-15;;;ru
+26218996;2026-08-24;1;;global
+26219029;2026-08-12;;;ru
+26219438;2026-08-21;1;;global
+26219623;2026-08-18;;;ru
+26219722;2026-08-21;1;;global
+26219926;2026-08-18;;;global
+26219942;2026-08-31;;;global
+26220000;2026-08-18;;;global
+26220390;2026-08-23;;;global
+26220654;2026-08-22;1;;global
+26220717;2026-08-12;;;ru
+26220806;2026-08-21;1;;global
+26220858;2026-08-24;1;;global
+26220897;2026-08-12;1;;ru
+26220954;2026-08-21;1;;global
+26221159;2026-08-27;1;;ru
+26221163;2026-08-27;1;;ru
+26221834;2026-09-07;;;global
+26222604;2026-08-24;;;global
+26222622;2026-08-21;;;global
+26223409;2026-08-28;;;ru
+26223860;2026-08-18;;;global
+26223912;2026-08-25;1;;global
+26223922;2026-08-21;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26224262;2026-08-21;;;global
+26224274;2026-08-18;1;;global
+26224576;2026-08-28;1;;global
+26224650;2026-09-03;comp;missed compensation has been added;global
+26224738;2026-08-18;1;;global
+26224982;2026-08-18;1;;global
+26225798;2026-08-18;1;;global
+26226244;2026-08-18;1;;global
+26227038;2026-08-20;1;;global
+26227202;2026-08-22;1;;global
+26227612;2026-08-21;1;;global
+26227773;2026-08-20;;;ru
+26227988;2026-08-20;1;;global
+26228170;2026-08-18;;;global
+26228186;2026-08-20;Extranet, Есть ORA или письмо, но нету Money received;;global
+26228190;2026-08-23;1;;global
+26228418;2026-08-23;;;global
+26229570;2026-08-20;1;;global
+26229768;2026-08-18;;;global
+26229796;2026-09-07;;1;global
+26229882;2026-08-18;;;global
+26229884;2026-08-18;1;;global
+26229998;2026-08-18;;;global
+26230114;2026-08-18;;;global
+26230160;2026-08-27;1;;global
+26230224;2026-08-30;СМ;;global
+26230242;2026-08-20;1;;global
+26230320;2026-08-26;1;;global
+26230664;2026-08-20;1;;global
+26231758;2026-08-19;log;subtype has been changed to Room/Hotel service discrepancy;global
+26232208;2026-08-28;1;;global
+26232363;2026-08-13;1;;ru
+26232422;2026-08-26;1;;global
+26233034;2026-08-22;1;;global
+26233282;2026-08-18;1;;global
+26234750;2026-08-19;;;global
+26234946;2026-08-18;;;global
+26236081;2026-08-18;1;;ru
+26236374;2026-08-26;log;source has been changed to TPP;global
+26236396;2026-08-19;1;;global
+26236492;2026-08-21;1;;global
+26237532;2026-08-20;;;global
+26237534;2026-09-07;subtype has been changed to Unconfirmed booking;log;global
+26237550;2026-08-22;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26238496;2026-08-22;1;;global
+26238683;2026-08-10;;;ru
+26238735;2026-08-27;comp;compensation was split between BD and OPS;ru
+26239394;2026-08-19;1;;global
+26239540;2026-08-21;proc;need to change price by Order reconciliation amendment tool;global
+26239640;2026-08-24;1;;global
+26239784;2026-08-29;1;;global
+26239842;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26240277;2026-08-11;;;ru
+26240812;2026-08-31;;;global
+26240882;2026-08-27;1;;global
+26241608;2026-08-21;1;;global
+26243064;2026-08-20;1;;global
+26243310;2026-08-20;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool correctly;global
+26243398;2026-08-21;;;global
+26243818;2026-08-18;1;;global
+26244196;2026-08-19;1;;global
+26244300;2026-08-28;1;;global
+26244726;2026-08-26;Дима;;global
+26244802;2026-08-28;1;;global
+26244926;2026-08-23;;;global
+26245278;2026-08-20;comp;compensation amount was changed from AB to AS;global
+26245652;2026-09-06;;;global
+26245706;2026-08-23;log;subtype has been changed to Payment discrepancy;global
+26246370;2026-08-19;proc;need to change price by Order reconciliation amendment tool;global
+26246670;2026-08-19;;;global
+26246878;2026-09-07;;1;global
+26247896;2026-08-19;;;global
+26247946;2026-09-04;1;;global
+26249372;2026-08-20;1;;global
+26249452;2026-08-19;;;global
+26249604;2026-08-19;;;global
+26249646;2026-08-28;1;;global
+26249835;2026-08-18;;;ru
+26250230;2026-09-07;;;global
+26250458;2026-08-20;log;subtype has been changed to Category discrepancy;global
+26250840;2026-08-23;1;;global
+26251382;2026-09-07;;1;global
+26251710;2026-09-07;;;global
+26251801;2026-08-13;;;ru
+26251818;2026-08-19;1;;global
+26252294;2026-08-19;;;global
+26252474;2026-08-28;log;cause has been changed to Hotel-TPP process problem;global
+26252510;2026-08-28;1;;global
+26252586;2026-08-20;1;;global
+26252794;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+26252856;2026-08-25;log;cause has been changed to Hotel-TPP process problem;global
+26253154;2026-08-20;1;;global
+26253292;2026-08-27;;;global
+26253528;2026-09-07;;;global
+26253532;2026-08-19;1;;global
+26253596;2026-08-27;comp;missed compensation has been added;global
+26253606;2026-09-01;1;;global
+26253626;2026-08-20;;;global
+26253744;2026-08-20;1;;global
+26253962;2026-09-04;;;global
+26254020;2026-08-20;1;;global
+26254046;2026-08-27;1;;global
+26255140;2026-08-21;1;;global
+26255760;2026-08-21;1;;global
+26256004;2026-08-31;;;global
+26256256;2026-08-21;;;global
+26256358;2026-08-23;1;;global
+26256570;2026-08-23;1;;global
+26258554;2026-08-20;1;;global
+26258688;2026-08-19;1;;global
+26258916;2026-08-19;1;;global
+26259174;2026-08-24;1;;global
+26259382;2026-08-24;log, proc;source has been changed to Hotel service, dispute wasn't activated;global
+26259394;2026-08-19;;;global
+26259840;2026-08-26;1;;global
+26260020;2026-08-19;1;;global
+26260458;2026-08-19;1;;global
+26260538;2026-09-07;;;global
+26260652;2026-08-23;;;global
+26260698;2026-08-20;1;;global
+26260936;2026-08-20;1;;global
+26261860;2026-08-28;;;global
+26262042;2026-08-20;1;;global
+26262568;2026-08-20;proc;need to change price by Order reconciliation amendment tool correctly;global
+26262824;2026-09-06;;;global
+26263542;2026-08-21;;;global
+26263562;2026-08-21;;;global
+26263602;2026-08-20;1;;global
+26263612;2026-09-01;;;global
+26263702;2026-08-19;1;;global
+26263872;2026-08-20;1;;global
+26264232;2026-08-20;1;;global
+26264358;2026-08-22;;;global
+26264462;2026-08-22;;;global
+26264612;2026-08-20;;;global
+26264664;2026-08-23;;;global
+26264718;2026-08-19;;;global
+26265240;2026-08-21;1;;global
+26265306;2026-08-26;;;global
+26265466;2026-08-22;1;;global
+26265756;2026-08-29;;;global
+26265804;2026-08-30;1;;global
+26266174;2026-08-20;;;global
+26266259;2026-08-21;Extranet, отмена ФОК, но есть Money paid;;ru
+26266284;2026-08-26;1;;global
+26266298;2026-08-24;1;;global
+26266304;2026-08-25;;;global
+26266738;2026-08-23;1;;global
+26266964;2026-08-20;1;;global
+26266976;2026-08-28;1;;global
+26267298;2026-09-04;proc;need dispute (owner has been informed);global
+26267316;2026-08-21;1;;global
+26267318;2026-08-23;1;;global
+26267718;2026-08-22;log;cause has been changed to Hotel-TPP process problem;global
+26267824;2026-08-20;;;global
+26268862;2026-08-31;;;global
+26268900;2026-08-20;;;global
+26269004;2026-08-21;comp;compensation amount has been changed;global
+26269178;2026-08-23;1;;global
+26269218;2026-08-21;1;;global
+26269404;2026-08-20;1;;global
+26269488;2026-08-20;1;;global
+26269626;2026-08-28;1;;global
+26270128;2026-08-20;;;global
+26270860;2026-08-28;1;;global
+26271028;2026-08-22;;;global
+26271052;2026-08-28;;;global
+26271704;2026-09-07;;;global
+26272164;2026-08-22;1;;global
+26272320;2026-08-23;;;global
+26272610;2026-08-20;1;;global
+26272662;2026-08-19;1;;global
+26272778;2026-08-22;1;;global
+26272854;2026-09-07;;;global
+26273320;2026-09-01;1;;global
+26274104;2026-08-21;;;global
+26274204;2026-08-20;1;;global
+26275040;2026-09-01;;;global
+26275378;2026-08-23;1;;global
+26275488;2026-08-31;;;global
+26275622;2026-08-20;1;;global
+26275662;2026-09-05;;;global
+26276174;2026-08-20;1;;global
+26277103;2026-08-10;;;ru
+26277694;2026-08-22;1;;global
+26277974;2026-08-25;;;global
+26278262;2026-08-23;1;;global
+26278348;2026-08-20;1;;global
+26279026;2026-08-30;1;;global
+26279168;2026-08-21;1;;global
+26279176;2026-08-27;1;;global
+26279278;2026-08-24;1;;global
+26279928;2026-08-23;1;;global
+26280086;2026-08-30;1;;global
+26280218;2026-09-05;;;global
+26280236;2026-08-29;1;;global
+26280253;2026-08-21;;;ru
+26280500;2026-08-21;comp;compensation type has been changed;global
+26281296;2026-09-01;log, proc;subtype has been changed to Meal discrepancy, dispute wasn't activated;global
+26281928;2026-09-06;comp;missed compensation has been added;global
+26281944;2026-08-26;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool;global
+26281976;2026-08-26;;;global
+26282156;2026-08-20;1;;global
+26282530;2026-08-20;1;;global
+26282756;2026-08-20;1;;global
+26282818;2026-08-26;1;;global
+26283160;2026-08-23;1;;global
+26283300;2026-08-21;;;global
+26284272;2026-08-23;;;global
+26284622;2026-08-31;;;global
+26285126;2026-08-28;1;;global
+26285144;2026-08-28;1;;global
+26285852;2026-08-27;1;;global
+26286018;2026-08-20;1;;global
+26286082;2026-09-01;;;global
+26286128;2026-08-27;1;;global
+26286262;2026-08-23;log;subtype has been changed to Category discrepancy;global
+26286416;2026-09-04;1;;global
+26286702;2026-08-20;1;;global
+26286766;2026-08-28;log;subtype has been changed to Payment discrepancy;global
+26287250;2026-08-21;1;;global
+26287268;2026-08-21;1;;global
+26287378;2026-08-26;1;;global
+26287578;2026-09-07;;1;global
+26287624;2026-08-25;1;;global
+26288016;2026-09-01;log, comp;subtype has been changed to Payment discrepancy, extra compensation has been deleted;global
+26288298;2026-08-28;log;cause has been changed to Hotel-TPP process problem;global
+26288491;2026-08-26;;;ru
+26288702;2026-08-20;1;;global
+26289428;2026-08-23;;;global
+26289518;2026-08-22;log, proc;source has been changed to TPP, need dispute (owner has been informed);global
+26290170;2026-09-04;;;global
+26290203;2026-08-12;;;ru
+26290803;2026-08-20;;;ru
+26291180;2026-08-20;1;;global
+26291906;2026-08-20;1;;global
+26291980;2026-08-21;1;;global
+26292310;2026-08-25;log;subtype has been changed to Room/Hotel service discrepancy;global
+26292936;2026-08-22;Extranet, Есть только Money paid (not client), проверить тикет;;global
+26293156;2026-08-21;1;;global
+26293238;2026-08-23;1;;global
+26293802;2026-08-23;1;;global
+26294126;2026-08-27;;;global
+26294188;2026-08-20;1;;global
+26294460;2026-08-24;1;;global
+26296262;2026-08-21;1;;global
+26296278;2026-08-21;1;;global
+26296450;2026-08-20;1;;global
+26296640;2026-08-29;comp;compensation amount has been changed;global
+26296654;2026-09-07;;;global
+26297016;2026-08-25;1;;global
+26297072;2026-08-22;1;;global
+26297372;2026-09-02;log;cause has been changed to Hotel-TPP process problem;global
+26297436;2026-08-23;1;;global
+26297812;2026-08-23;;;global
+26298074;2026-08-23;proc;need to change price by Order reconciliation amendment tool;global
+26298174;2026-08-21;1;;global
+26299032;2026-08-29;1;;global
+26299292;2026-08-22;1;;global
+26299738;2026-08-21;1;;global
+26300086;2026-08-26;1;;global
+26300132;2026-08-20;;;global
+26300263;2026-08-12;;;ru
+26300608;2026-09-03;;;global
+26300786;2026-09-07;;1;global
+26300888;2026-08-28;1;;global
+26301064;2026-08-25;1;;global
+26301570;2026-08-21;Extranet, Есть ORA или письмо, но нету Money received;;global
+26301712;2026-08-21;1;;global
+26301852;2026-08-30;1;;global
+26301934;2026-08-21;;;global
+26302010;2026-08-22;1;;global
+26302058;2026-08-21;;;global
+26302186;2026-08-30;1;;global
+26302344;2026-08-22;;;global
+26302520;2026-08-25;1;;global
+26302902;2026-08-28;comp;compensation amount has been changed;global
+26303260;2026-08-27;;;global
+26303317;2026-08-15;;;ru
+26303376;2026-09-06;1;;global
+26303496;2026-08-25;1;;global
+26304892;2026-08-21;1;;global
+26304906;2026-08-30;1;;global
+26305148;2026-08-31;;;global
+26305186;2026-08-23;1;;global
+26305462;2026-08-25;1;;global
+26305496;2026-08-22;1;;global
+26306679;2026-08-14;;;ru
+26306822;2026-08-30;comp, proc;compensation type has been changed to bank transfer, need to change price by Order reconciliation amendment tool;global
+26307004;2026-09-03;1;;global
+26307021;2026-09-05;;;ru
+26307918;2026-08-21;1;;global
+26308382;2026-08-28;1;;global
+26308962;2026-08-21;1;;global
+26309044;2026-09-07;;;global
+26309104;2026-08-26;;;global
+26309506;2026-08-22;log;cause has been changed to Hotel-TPP process problem;global
+26309845;2026-08-10;;;ru
+26310132;2026-08-31;;;global
+26310180;2026-08-23;1;;global
+26310732;2026-08-25;1;;global
+26310954;2026-08-24;1;;global
+26310972;2026-08-23;1;;global
+26311006;2026-08-22;;;global
+26311074;2026-08-22;;;global
+26311110;2026-08-28;log, proc;subtype has been changed to Unconfirmed booking, dispute wasn't activated;global
+26311338;2026-08-26;1;;global
+26311876;2026-09-04;1;;global
+26312170;2026-08-29;log;source has been changed to Supply;global
+26313012;2026-08-21;1;;global
+26313168;2026-08-22;1;;global
+26313256;2026-08-22;1;;global
+26313698;2026-08-25;1;;global
+26313816;2026-09-07;;;global
+26313864;2026-08-21;1;;global
+26314599;2026-08-18;;;ru
+26314855;2026-08-30;1;;ru
+26315310;2026-08-21;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;global
+26315520;2026-08-22;1;;global
+26315634;2026-08-24;1;;global
+26316098;2026-08-28;1;;global
+26316356;2026-09-01;;;global
+26316970;2026-08-25;;;global
+26317718;2026-08-21;;;global
+26318104;2026-08-27;1;;global
+26318506;2026-08-22;1;;global
+26318554;2026-09-07;;;global
+26318568;2026-09-02;1;;global
+26318640;2026-08-25;1;;global
+26319228;2026-08-23;1;;global
+26319256;2026-09-05;;;global
+26319466;2026-08-31;;;global
+26319567;2026-08-20;1;;ru
+26319580;2026-08-23;;;global
+26319800;2026-08-21;;;global
+26320616;2026-08-25;1;;global
+26321272;2026-08-21;;;global
+26322016;2026-09-07;;1;global
+26322062;2026-08-22;1;;global
+26322132;2026-08-22;1;;global
+26322705;2026-08-20;1;;ru
+26322851;2026-08-13;;;ru
+26322920;2026-09-07;business decision mark has been added;comp;global
+26322988;2026-08-23;1;;global
+26323058;2026-08-22;1;;global
+26323356;2026-08-23;;;global
+26323694;2026-09-02;;;global
+26323768;2026-08-25;1;;global
+26323972;2026-08-22;1;;global
+26324204;2026-08-22;1;;global
+26325091;2026-08-16;;;ru
+26325288;2026-08-29;1;;global
+26325424;2026-08-22;1;;global
+26325600;2026-08-22;1;;global
+26325728;2026-08-23;;;global
+26325840;2026-08-23;1;;global
+26325954;2026-09-07;;1;global
+26326320;2026-08-23;log;source has been changed to Product;global
+26326428;2026-08-25;;;global
+26326438;2026-08-23;1;;global
+26326610;2026-08-22;1;;global
+26326782;2026-08-22;;;global
+26327056;2026-08-29;1;;global
+26327538;2026-08-23;;;global
+26328148;2026-08-23;1;;global
+26328236;2026-08-25;1;;global
+26329112;2026-09-06;1;;global
+26329290;2026-08-22;1;;global
+26330372;2026-08-24;1;;global
+26331106;2026-08-27;proc;need to change price by Order reconciliation amendment tool;global
+26333672;2026-08-22;Extranet, Есть только Money paid (not client), проверить тикет;;global
+26333834;2026-08-29;comp;currency of compensation has been changed;global
+26334036;2026-08-22;1;;global
+26334168;2026-08-22;1;;global
+26334214;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+26335010;2026-08-25;1;;global
+26335542;2026-08-23;;;global
+26336144;2026-08-26;1;;global
+26336241;2026-08-11;;;ru
+26336788;2026-09-07;;;global
+26336832;2026-08-22;1;;global
+26336908;2026-09-03;;;global
+26337014;2026-08-22;;;global
+26337038;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+26338440;2026-08-22;1;;global
+26338644;2026-08-22;1;;global
+26338986;2026-08-23;1;;global
+26339536;2026-09-05;1;;global
+26339546;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+26339724;2026-08-24;proc;need dispute (owner has been informed);global
+26340596;2026-08-22;;;global
+26340632;2026-08-25;баг;;global
+26341334;2026-08-23;1;;global
+26341484;2026-08-29;1;;global
+26341580;2026-09-01;;;global
+26342016;2026-09-01;1;;global
+26342240;2026-08-26;1;;global
+26342324;2026-08-24;1;;global
+26342428;2026-08-23;1;;global
+26343010;2026-08-23;1;;global
+26343084;2026-08-29;1;;global
+26343452;2026-08-28;1;;global
+26343582;2026-08-25;comp;compensation was split between BD and OPS;global
+26343856;2026-08-22;1;;global
+26344310;2026-08-27;1;;global
+26344452;2026-09-05;;;global
+26344642;2026-08-23;;;global
+26345040;2026-08-31;comp;compensation amount was changed from AB to AS;global
+26345156;2026-08-22;1;;global
+26345872;2026-08-23;1;;global
+26346032;2026-09-07;;1;global
+26346890;2026-08-27;1;;global
+26347018;2026-09-03;;;global
+26347250;2026-09-03;;;global
+26347300;2026-08-23;comp;missed compensation has been added;global
+26347674;2026-08-23;1;;global
+26348930;2026-08-31;;;global
+26349024;2026-08-25;1;;global
+26349072;2026-08-23;1;;global
+26349128;2026-08-28;log, proc;subtype has been changed to Unconfirmed booking, need dispute (owner has been informed);global
+26349326;2026-09-01;;;global
+26349994;2026-08-24;1;;global
+26350532;2026-08-26;;;global
+26350704;2026-09-07;dispute wasn't activated;proc;global
+26350754;2026-08-26;comp;compensation was split between BD and OPS;global
+26351252;2026-08-28;proc;need to change price by Order reconciliation amendment tool;global
+26351752;2026-08-24;;;global
+26352698;2026-08-23;1;;global
+26353394;2026-08-25;1;;global
+26353418;2026-08-23;1;;global
+26354360;2026-08-24;;;global
+26355162;2026-09-07;;;global
+26355166;2026-08-25;;;global
+26355174;2026-09-03;;;global
+26355188;2026-08-25;;;global
+26355200;2026-09-04;;;global
+26355204;2026-08-23;1;;global
+26355464;2026-08-24;;;global
+26355924;2026-08-24;;;global
+26356000;2026-08-30;1;;global
+26356128;2026-08-27;log;cause has been changed to Hotel-TPP process problem;global
+26356144;2026-08-25;1;;global
+26356164;2026-08-23;1;;global
+26356334;2026-08-27;1;;global
+26356506;2026-08-23;1;;global
+26356522;2026-08-24;;;global
+26356526;2026-08-26;1;;global
+26356545;2026-08-11;;;ru
+26356710;2026-08-23;;;global
+26356786;2026-08-31;1;;global
+26356790;2026-09-05;log;source has been changed to Supply;global
+26357374;2026-08-26;1;;global
+26357416;2026-08-26;;;global
+26357548;2026-08-27;;;global
+26358072;2026-08-24;1;;global
+26358190;2026-08-24;1;;global
+26358634;2026-09-02;;;global
+26359093;2026-08-28;;;ru
+26359576;2026-08-23;;;global
+26359733;2026-08-16;;;ru
+26360241;2026-08-16;;;ru
+26360312;2026-08-30;1;;global
+26360612;2026-08-25;1;;global
+26361270;2026-08-28;proc;need to change price by Order reconciliation amendment tool;global
+26361322;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26361376;2026-08-24;;;global
+26361392;2026-08-23;Extranet, ORA отсутствует для изменения AB в большую сторону;;global
+26361422;2026-09-03;proc;need to change price by Order reconciliation amendment tool;global
+26361540;2026-08-27;proc;need to change price by Order reconciliation amendment tool correctly;global
+26361715;2026-09-01;;;ru
+26361790;2026-08-29;1;;global
+26361844;2026-09-01;;;global
+26361926;2026-08-23;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;global
+26362342;2026-09-07;compensation type has been changed;comp;global
+26362518;2026-08-28;;;global
+26362648;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+26362778;2026-08-23;1;;global
+26362936;2026-09-07;;;global
+26363928;2026-08-26;1;;global
+26364110;2026-09-07;;;global
+26364436;2026-08-24;comp;compensation amount has been changed;global
+26364524;2026-08-28;1;;global
+26364708;2026-09-07;;1;global
+26364824;2026-08-25;1;;global
+26365217;2026-08-13;;;ru
+26365260;2026-08-30;;;global
+26365937;2026-08-15;1;;ru
+26366105;2026-08-30;1;;ru
+26366235;2026-08-28;;;ru
+26366240;2026-08-30;proc;need to change price by Order reconciliation amendment tool correctly;global
+26366507;2026-08-13;;;ru
+26366554;2026-08-29;1;;global
+26367067;2026-08-11;;;ru
+26367422;2026-08-31;;;global
+26368052;2026-08-27;1;;global
+26368054;2026-08-26;Оунер;;global
+26368067;2026-08-11;;;ru
+26368140;2026-08-24;proc;need to change price by Order reconciliation amendment tool correctly;global
+26368558;2026-08-26;1;;global
+26368564;2026-08-25;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;global
+26368659;2026-08-11;;;ru
+26368876;2026-08-29;1;;global
+26368908;2026-08-28;proc;need to change price by Order reconciliation amendment tool;global
+26369579;2026-09-02;;;ru
+26369962;2026-08-28;comp, proc;compensation was split, need to change price by Order reconciliation amendment tool;global
+26369969;2026-08-16;;;ru
+26370060;2026-09-04;1;;global
+26370102;2026-08-25;1;;global
+26370296;2026-08-25;1;;global
+26370328;2026-08-25;;;global
+26370336;2026-08-26;1;;global
+26370346;2026-08-26;1;;global
+26370900;2026-08-24;;;global
+26372366;2026-08-31;;;global
+26372466;2026-09-07;;1;global
+26372585;2026-08-13;1;;ru
+26372842;2026-09-07;;;global
+26373850;2026-08-24;1;;global
+26373915;2026-08-14;;;ru
+26374048;2026-08-28;proc;need to change price by Order reconciliation amendment tool;global
+26374286;2026-08-24;1;;global
+26374566;2026-08-26;1;;global
+26374820;2026-09-02;;;global
+26374900;2026-09-07;need to change price by Order reconciliation amendment tool;proc;global
+26374920;2026-08-25;1;;global
+26374976;2026-08-29;1;;global
+26375144;2026-09-07;;1;global
+26375166;2026-08-25;proc;need to change price by Order reconciliation amendment tool;global
+26375236;2026-08-24;;;global
+26375564;2026-08-24;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool;global
+26375622;2026-08-24;proc;need to change price by Order reconciliation amendment tool;global
+26375824;2026-08-24;1;;global
+26375914;2026-08-31;1;;global
+26376149;2026-08-20;;;ru
+26376674;2026-08-26;1;;global
+26376684;2026-08-24;1;;global
+26376902;2026-08-25;1;;global
+26377078;2026-08-24;1;;global
+26377532;2026-09-07;;;global
+26378178;2026-08-24;1;;global
+26378424;2026-09-03;;;global
+26378494;2026-08-28;1;;global
+26378814;2026-08-27;1;;global
+26378840;2026-08-25;comp;compensation amount has been changed;global
+26379236;2026-08-25;1;;global
+26379512;2026-09-03;;;global
+26379548;2026-08-28;1;;global
+26379728;2026-08-28;1;;global
+26379854;2026-08-26;;;global
+26379864;2026-08-25;1;;global
+26380342;2026-08-31;;;global
+26380400;2026-08-28;1;;global
+26380708;2026-08-24;;;global
+26380990;2026-09-04;;;global
+26381680;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26381750;2026-09-07;cause has been changed to Incorrect booking data;log;global
+26381844;2026-08-24;1;;global
+26382285;2026-08-20;;;ru
+26382728;2026-09-04;1;;global
+26383336;2026-08-27;1;;global
+26383562;2026-08-25;1;;global
+26383986;2026-08-25;;;global
+26384128;2026-08-28;1;;global
+26384356;2026-08-27;1;;global
+26384383;2026-08-12;;;ru
+26384656;2026-08-30;1;;global
+26384894;2026-09-01;;;global
+26385282;2026-08-26;1;;global
+26385472;2026-09-02;proc;need dispute (owner has been informed);global
+26385542;2026-08-28;1;;global
+26385637;2026-08-14;;;ru
+26386188;2026-08-27;;;global
+26386226;2026-08-27;1;;global
+26386354;2026-08-25;1;;global
+26386726;2026-09-07;;;global
+26387170;2026-08-26;1;;global
+26387784;2026-08-26;1;;global
+26387852;2026-08-24;1;;global
+26388008;2026-09-05;;;global
+26388472;2026-08-25;1;;global
+26389326;2026-08-25;1;;global
+26389480;2026-08-26;1;;global
+26389536;2026-08-31;;;global
+26390354;2026-08-26;1;;global
+26390375;2026-08-12;1;;ru
+26391118;2026-08-26;1;;global
+26391252;2026-08-26;;;global
+26391546;2026-08-30;;;global
+26392132;2026-08-26;;;global
+26392236;2026-08-29;1;;global
+26392420;2026-08-25;1;;global
+26392614;2026-09-04;comp;compensation amount was changed from AB to AS;global
+26393048;2026-09-07;;;global
+26393632;2026-08-24;comp;compensation was split between BD and OPS;global
+26393700;2026-08-27;1;;global
+26393974;2026-08-29;1;;global
+26394386;2026-08-27;;;global
+26394450;2026-08-26;1;;global
+26394634;2026-08-25;1;;global
+26394948;2026-08-28;;;global
+26395269;2026-08-23;1;;ru
+26395576;2026-08-27;;;global
+26396064;2026-08-29;1;;global
+26396406;2026-08-25;1;;global
+26396794;2026-09-02;;;global
+26396882;2026-08-29;1;;global
+26396912;2026-09-07;;1;global
+26397294;2026-08-29;1;;global
+26397296;2026-09-04;1;;global
+26397885;2026-08-19;;;ru
+26398358;2026-08-24;;;global
+26398650;2026-08-25;1;;global
+26398726;2026-08-24;1;;global
+26398758;2026-08-24;1;;global
+26398948;2026-08-24;;;global
+26399256;2026-08-27;1;;global
+26399326;2026-08-25;1;;global
+26399610;2026-08-25;log, comp;source has been changed to Supply, missed compensation has been added;global
+26400324;2026-08-27;1;;global
+26400694;2026-09-06;;;global
+26400820;2026-08-26;1;;global
+26401050;2026-08-30;1;;global
+26401308;2026-08-27;proc;need to change price by Order reconciliation amendment tool;global
+26401346;2026-09-07;;;global
+26401416;2026-08-27;proc;need to change price by Order reconciliation amendment tool;global
+26401418;2026-08-27;;;global
+26401533;2026-08-24;;;ru
+26401636;2026-09-07;dispute wasn't activated;proc;global
+26403144;2026-08-28;1;;global
+26403218;2026-08-28;1;;global
+26404492;2026-08-27;1;;global
+26405054;2026-08-25;;;global
+26405249;2026-08-10;;;ru
+26406036;2026-09-04;1;;global
+26406806;2026-09-07;;1;global
+26406814;2026-08-31;;;global
+26406926;2026-08-31;;;global
+26407090;2026-08-26;1;;global
+26407280;2026-08-25;1;;global
+26407968;2026-08-27;1;;global
+26408586;2026-09-07;;;global
+26408764;2026-08-25;1;;global
+26409112;2026-08-25;1;;global
+26409808;2026-08-25;;;global
+26410052;2026-08-26;1;;global
+26410530;2026-08-26;;;global
+26410816;2026-08-30;;;global
+26410976;2026-09-07;;1;global
+26411178;2026-09-03;log, proc;source has been changed to Hotel service, need dispute (owner has been informed);global
+26411483;2026-08-20;;;ru
+26412264;2026-09-07;;;global
+26412330;2026-09-06;1;;global
+26412864;2026-08-26;1;;global
+26413012;2026-08-25;1;;global
+26413122;2026-09-04;;;global
+26413510;2026-08-27;1;;global
+26413998;2026-08-30;proc;dispute wasn't activated;global
+26414134;2026-08-28;log, comp, proc;source has been changed to TPP, compensation was split between BD and OPS, need dispute (owner has been informed);global
+26414388;2026-09-04;;;global
+26414816;2026-08-25;proc;dispute wasn't activated;global
+26415154;2026-08-29;1;;global
+26416356;2026-08-26;log, comp;source has been changed to Supply, missed compensation has been added;global
+26416476;2026-08-26;1;;global
+26416830;2026-09-07;;;global
+26417098;2026-08-26;1;;global
+26417240;2026-08-26;proc;need to change price by Order reconciliation amendment tool;global
+26418240;2026-09-07;;;global
+26418690;2026-09-07;;1;global
+26419004;2026-08-28;1;;global
+26419572;2026-09-06;;;global
+26420278;2026-08-26;1;;global
+26420444;2026-08-30;comp;compensation amount was changed from AB to AS;global
+26420454;2026-08-30;;;global
+26420962;2026-09-07;;;global
+26421266;2026-08-26;1;;global
+26421286;2026-09-05;;;global
+26421494;2026-08-25;1;;global
+26421500;2026-08-26;log;cause has been changed to Hotel description;global
+26421678;2026-08-25;1;;global
+26422142;2026-09-02;;;global
+26422720;2026-08-28;1;;global
+26423165;2026-08-11;;;ru
+26423186;2026-09-07;subtype has been changed to Bedding discrepancy;log;global
+26423448;2026-08-30;1;;global
+26423526;2026-08-27;1;;global
+26423742;2026-08-26;1;;global
+26424392;2026-08-26;1;;global
+26424908;2026-08-27;1;;global
+26424926;2026-08-26;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool;global
+26425722;2026-08-26;1;;global
+26426106;2026-08-28;1;;global
+26426290;2026-08-29;1;;global
+26428468;2026-08-27;1;;global
+26428588;2026-08-26;comp;compensation was split between BD and OPS;global
+26428626;2026-08-28;1;;global
+26428873;2026-08-13;;;ru
+26429010;2026-08-25;1;;global
+26429030;2026-08-25;1;;global
+26429546;2026-08-26;1;;global
+26429852;2026-08-29;1;;global
+26429862;2026-08-29;1;;global
+26430851;2026-08-20;1;;ru
+26431319;2026-09-06;1;;ru
+26431700;2026-08-30;1;;global
+26431954;2026-08-28;1;;global
+26432370;2026-09-03;;;global
+26432512;2026-08-26;1;;global
+26432644;2026-08-26;1;;global
+26432662;2026-09-03;1;;global
+26432732;2026-09-07;;;global
+26433103;2026-09-02;;;ru
+26433783;2026-08-14;;;ru
+26434115;2026-08-12;;;ru
+26434181;2026-08-13;;;ru
+26434544;2026-08-28;1;;global
+26435031;2026-08-11;;;ru
+26435178;2026-08-29;log;subtype has been changed to Category discrepancy;global
+26435864;2026-08-27;1;;global
+26437160;2026-08-27;1;;global
+26437366;2026-09-01;;;global
+26437408;2026-08-30;;;global
+26437510;2026-08-26;1;;global
+26437554;2026-09-05;;;global
+26437840;2026-08-26;1;;global
+26438022;2026-08-27;1;;global
+26438040;2026-08-27;1;;global
+26438701;2026-08-10;;;ru
+26438772;2026-08-27;1;;global
+26439024;2026-08-26;1;;global
+26439098;2026-08-29;proc;need to change price by Order reconciliation amendment tool;global
+26439472;2026-08-29;;;global
+26439901;2026-08-11;;;ru
+26439978;2026-09-02;proc;need to change price by Order reconciliation amendment tool;global
+26440057;2026-08-17;;;ru
+26440140;2026-08-30;1;;global
+26440190;2026-08-26;log, proc;source has been changed to TPP, dispute wasn't activated;global
+26440213;2026-09-01;;;ru
+26440252;2026-09-07;;1;global
+26440306;2026-09-03;1;;global
+26441986;2026-08-28;1;;global
+26442226;2026-09-03;1;;global
+26442330;2026-09-07;;;global
+26442340;2026-09-05;;;global
+26442400;2026-09-05;1;;global
+26443088;2026-08-27;log;subtype has been changed to Payment discrepancy;global
+26443230;2026-08-26;;;global
+26443312;2026-08-26;1;;global
+26443726;2026-08-27;log;subtype has been changed to Unconfirmed booking;global
+26444162;2026-09-01;1;;global
+26444250;2026-09-03;;;global
+26444262;2026-09-06;;;global
+26444274;2026-09-07;;;global
+26445336;2026-09-02;;;global
+26445406;2026-08-29;1;;global
+26445476;2026-09-05;;;global
+26445564;2026-09-06;;;global
+26445972;2026-08-28;1;;global
+26446026;2026-08-26;;;global
+26446075;2026-08-13;;;ru
+26446422;2026-08-28;1;;global
+26446604;2026-08-29;1;;global
+26446726;2026-08-29;1;;global
+26446812;2026-09-02;;;global
+26446988;2026-09-07;;1;global
+26447360;2026-08-26;1;;global
+26447398;2026-09-07;;1;global
+26448316;2026-08-27;1;;global
+26448366;2026-08-26;;;global
+26448402;2026-08-27;1;;global
+26448574;2026-09-03;;;global
+26448840;2026-08-28;1;;global
+26448893;2026-08-11;;;ru
+26449032;2026-08-31;1;;global
+26449034;2026-08-26;1;;global
+26449428;2026-08-31;;;global
+26449536;2026-08-30;;;global
+26449542;2026-08-26;;;global
+26450916;2026-08-31;;;global
+26451344;2026-09-04;proc;need to change price by Order reconciliation amendment tool correctly;global
+26451454;2026-08-29;1;;global
+26451583;2026-08-27;;;ru
+26451635;2026-08-15;;;ru
+26451774;2026-08-31;;;global
+26451826;2026-08-27;1;;global
+26451840;2026-09-07;;1;global
+26451860;2026-08-29;1;;global
+26452120;2026-08-30;1;;global
+26452264;2026-09-03;1;;global
+26452840;2026-08-28;;;global
+26453110;2026-08-28;1;;global
+26453270;2026-08-28;1;;global
+26453345;2026-08-11;;;ru
+26453608;2026-08-28;1;;global
+26454254;2026-08-28;1;;global
+26454940;2026-08-27;1;;global
+26455022;2026-09-05;;;global
+26455081;2026-08-14;1;;ru
+26455752;2026-08-26;comp;payment type has been changed to credit card;global
+26455890;2026-08-28;1;;global
+26455940;2026-09-07;;1;global
+26456272;2026-08-27;;;global
+26459811;2026-08-11;log;cause has been changed to Nationality;ru
+26460775;2026-08-10;;;ru
+26461527;2026-08-21;;;ru
+26466451;2026-08-29;;;ru
+26476868;2026-09-02;;;global
+26476882;2026-08-29;1;;global
+26476908;2026-08-29;1;;global
+26477112;2026-08-27;1;;global
+26477510;2026-08-27;1;;global
+26477556;2026-09-03;;;global
+26478102;2026-09-07;cause has been changed to Hotel-TPP process problem;log;global
+26478254;2026-09-01;;;global
+26478464;2026-09-03;;;global
+26479161;2026-08-10;;;ru
+26481629;2026-08-11;1;;ru
+26482779;2026-09-03;;;ru
+26488099;2026-08-11;;;ru
+26495413;2026-08-11;1;;ru
+26498760;2026-08-29;1;;global
+26499535;2026-09-01;;;ru
+26499857;2026-08-12;1;;ru
+26500198;2026-09-07;;;global
+26500354;2026-08-31;1;;global
+26500674;2026-08-30;1;;global
+26500722;2026-08-27;1;;global
+26501304;2026-08-30;comp;compensation amount was changed from AB to AS;global
+26501906;2026-09-01;1;;global
+26501964;2026-08-27;1;;global
+26502125;2026-08-12;;;ru
+26502396;2026-08-28;1;;global
+26502478;2026-08-27;1;;global
+26502784;2026-08-29;log;cause has been changed to Hotel-TPP process problem;global
+26503086;2026-08-27;1;;global
+26503242;2026-09-01;;;global
+26503680;2026-09-05;1;;global
+26504080;2026-09-04;;;global
+26504083;2026-08-13;;;ru
+26504196;2026-08-27;1;;global
+26504276;2026-08-28;1;;global
+26505042;2026-09-07;;;global
+26505092;2026-08-27;1;;global
+26506036;2026-08-28;1;;global
+26506125;2026-08-15;;;ru
+26506298;2026-09-06;;;global
+26506426;2026-08-28;1;;global
+26506530;2026-09-05;;;global
+26506560;2026-08-31;comp;compensation amount was changed from AB to AS;global
+26506604;2026-08-31;comp;compensation amount was changed from AB to AS;global
+26506624;2026-08-27;1;;global
+26507084;2026-09-05;1;;global
+26507112;2026-08-27;1;;global
+26507818;2026-08-28;1;;global
+26508028;2026-08-31;1;;global
+26508488;2026-08-28;;;global
+26508590;2026-08-29;log;subtype has been changed to Category discrepancy;global
+26508612;2026-08-28;1;;global
+26508978;2026-09-07;;;global
+26509689;2026-08-20;;;ru
+26509786;2026-09-07;;;global
+26511853;2026-08-20;;;ru
+26511873;2026-08-20;;;ru
+26511959;2026-08-10;1;;ru
+26512021;2026-08-10;;;ru
+26513843;2026-08-10;;;ru
+26515875;2026-08-10;;;ru
+26516065;2026-08-10;;;ru
+26516723;2026-08-14;;;ru
+26516753;2026-08-21;Extranet, Письмо на сверку;;ru
+26519099;2026-08-11;1;;ru
+26519791;2026-08-25;1;;ru
+26522287;2026-08-14;;;ru
+26522619;2026-08-11;;;ru
+26524767;2026-08-19;1;;ru
+26525249;2026-08-30;;;ru
+26528963;2026-08-10;;;ru
+26530035;2026-08-10;;;ru
+26530622;2026-09-04;;;global
+26530864;2026-08-30;;;global
+26531404;2026-08-30;1;;global
+26531512;2026-08-27;1;;global
+26531768;2026-08-28;1;;global
+26532444;2026-08-27;1;;global
+26532958;2026-09-03;;;global
+26532986;2026-08-27;1;;global
+26533834;2026-08-29;1;;global
+26533944;2026-08-30;1;;global
+26533952;2026-08-28;1;;global
+26534006;2026-08-28;;;global
+26534406;2026-09-07;;;global
+26534538;2026-08-30;1;;global
+26534958;2026-09-07;;;global
+26535272;2026-08-28;1;;global
+26535471;2026-08-14;1;;ru
+26535598;2026-08-29;1;;global
+26535618;2026-09-01;1;;global
+26535846;2026-09-04;proc;need to change price by Order reconciliation amendment tool correctly;global
+26536112;2026-08-28;1;;global
+26536278;2026-09-07;;1;global
+26536508;2026-08-28;log;source has been changed to Product;global
+26536590;2026-08-29;log;source has been changed to Content;global
+26536766;2026-09-01;;;global
+26536950;2026-09-07;;;global
+26537212;2026-08-28;;;global
+26538196;2026-08-31;1;;global
+26538558;2026-08-28;;;global
+26538702;2026-08-28;Оунер;;global
+26538998;2026-08-31;;;global
+26539584;2026-09-01;;;global
+26539750;2026-09-01;;;global
+26540082;2026-08-28;;;global
+26540468;2026-08-30;;;global
+26540504;2026-09-06;1;;global
+26541036;2026-08-28;1;;global
+26542208;2026-09-07;;;global
+26542240;2026-08-27;comp;missed compensation has been added;global
+26542584;2026-08-28;1;;global
+26543330;2026-08-28;1;;global
+26543392;2026-09-01;;;global
+26543526;2026-09-01;;;global
+26544026;2026-09-01;;;global
+26545947;2026-08-22;;;ru
+26548029;2026-08-14;1;;ru
+26561605;2026-08-11;;;ru
+26563045;2026-08-10;;;ru
+26563067;2026-08-10;1;;ru
+26563957;2026-08-10;;;ru
+26564061;2026-08-10;;;ru
+26564831;2026-08-26;;;ru
+26565272;2026-08-28;1;;global
+26565336;2026-09-04;;;global
+26565382;2026-09-06;1;;global
+26565943;2026-08-14;;;ru
+26566295;2026-08-10;;;ru
+26569149;2026-08-13;;;ru
+26571685;2026-08-10;;;ru
+26572385;2026-08-10;;;ru
+26572489;2026-08-11;;;ru
+26573511;2026-09-07;;;ru
+26575447;2026-08-10;;;ru
+26576421;2026-08-11;1;;ru
+26577401;2026-08-10;;;ru
+26578545;2026-08-10;;;ru
+26578769;2026-08-10;;;ru
+26579569;2026-08-12;1;;ru
+26581581;2026-08-11;;;ru
+26583751;2026-08-10;1;;ru
+26583839;2026-08-11;;;ru
+26585557;2026-08-14;;;ru
+26586337;2026-09-07;;;ru
+26586830;2026-09-01;;;global
+26586882;2026-09-02;;;global
+26587036;2026-08-30;1;;global
+26587039;2026-08-10;;;ru
+26587240;2026-08-28;;;global
+26588028;2026-08-30;;;global
+26589000;2026-09-07;;1;global
+26589196;2026-08-30;1;;global
+26589628;2026-09-02;;;global
+26589738;2026-09-04;1;;global
+26589740;2026-09-01;1;;global
+26589971;2026-08-10;;;ru
+26590002;2026-08-28;;;global
+26590258;2026-08-28;1;;global
+26590484;2026-08-30;1;;global
+26590562;2026-08-29;;;global
+26590585;2026-08-11;1;;ru
+26590694;2026-08-31;;;global
+26591336;2026-08-30;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool;global
+26592668;2026-08-31;;;global
+26592766;2026-09-07;;;global
+26593308;2026-08-29;proc;dispute wasn't activated;global
+26594602;2026-08-28;;;global
+26594626;2026-09-07;;;global
+26594736;2026-09-01;;;global
+26595103;2026-08-12;;;ru
+26595194;2026-08-29;;;global
+26595256;2026-08-28;1;;global
+26595288;2026-08-28;;;global
+26595678;2026-09-07;;;global
+26595865;2026-08-10;1;;ru
+26596236;2026-08-28;;;global
+26596635;2026-08-26;;;ru
+26596716;2026-09-07;;1;global
+26597012;2026-09-01;;;global
+26597440;2026-09-06;1;;global
+26598307;2026-08-30;;;ru
+26599165;2026-08-10;;;ru
+26600455;2026-08-12;;;ru
+26601443;2026-08-11;;;ru
+26604475;2026-08-15;;;ru
+26617421;2026-08-13;;;ru
+26617834;2026-09-07;source has been changed to Hotel service;log;global
+26618235;2026-08-12;;;ru
+26618762;2026-08-28;;;global
+26618978;2026-08-28;1;;global
+26619116;2026-08-28;1;;global
+26619274;2026-08-30;;;global
+26619646;2026-09-03;;;global
+26620202;2026-08-31;;;global
+26620322;2026-09-07;;;global
+26620824;2026-08-30;1;;global
+26620954;2026-08-28;;;global
+26621210;2026-08-28;log;source has been changed to Content;global
+26621916;2026-08-30;1;;global
+26622398;2026-08-29;1;;global
+26623078;2026-08-30;1;;global
+26623124;2026-09-03;;;global
+26623432;2026-08-28;1;;global
+26623930;2026-09-04;;;global
+26623972;2026-09-02;;;global
+26623982;2026-09-01;;;global
+26624706;2026-08-28;1;;global
+26625004;2026-09-06;;;global
+26625198;2026-08-30;1;;global
+26625249;2026-08-11;;;ru
+26625352;2026-08-28;1;;global
+26625502;2026-09-06;;;global
+26625870;2026-08-29;1;;global
+26626036;2026-08-29;1;;global
+26626194;2026-09-07;;1;global
+26626668;2026-09-07;;1;global
+26626705;2026-08-27;comp;compensation amount has been changed;ru
+26626723;2026-08-19;;;ru
+26626753;2026-08-27;comp;compensation amount has been changed;ru
+26626900;2026-09-05;;;global
+26627064;2026-09-05;;;global
+26627194;2026-09-05;;;global
+26627278;2026-08-29;1;;global
+26627308;2026-09-01;proc;need to change price by Order reconciliation amendment tool;global
+26627396;2026-08-30;;;global
+26627402;2026-08-29;;;global
+26627844;2026-09-04;;;global
+26627945;2026-08-14;;;ru
+26628034;2026-08-28;log;source has been changed to TPP;global
+26628086;2026-09-07;;;global
+26628114;2026-09-01;1;;global
+26628124;2026-09-02;1;;global
+26628202;2026-09-01;;;global
+26628380;2026-09-06;1;;global
+26628897;2026-09-03;;;ru
+26629162;2026-09-07;;;global
+26630246;2026-09-03;;;global
+26630438;2026-09-07;;1;global
+26630500;2026-09-03;1;;global
+26630886;2026-08-30;1;;global
+26631006;2026-09-04;1;;global
+26631427;2026-08-11;;;ru
+26631589;2026-08-19;1;;ru
+26634183;2026-08-13;1;;ru
+26634543;2026-08-11;;;ru
+26634825;2026-08-11;;;ru
+26637219;2026-08-11;;;ru
+26640503;2026-08-11;;;ru
+26641833;2026-09-01;;;ru
+26644559;2026-08-21;;;ru
+26644784;2026-09-07;;;global
+26646067;2026-09-01;;;ru
+26647083;2026-08-11;;;ru
+26649525;2026-08-12;;;ru
+26650763;2026-08-30;;;ru
+26651452;2026-08-29;comp, proc;missed compensation has been added, email to Reconciliation has been added;global
+26651854;2026-08-29;proc;need to change price by Order reconciliation amendment tool;global
+26651911;2026-08-11;;;ru
+26651930;2026-08-30;1;;global
+26652386;2026-09-02;;;global
+26652429;2026-08-11;;;ru
+26652630;2026-09-04;;;global
+26652634;2026-08-29;1;;global
+26652994;2026-09-03;;;global
+26654215;2026-08-16;;;ru
+26654693;2026-08-26;1;;ru
+26655287;2026-08-11;1;;ru
+26656257;2026-08-13;;;ru
+26659507;2026-08-19;;;ru
+26661305;2026-08-14;;;ru
+26661839;2026-08-12;1;;ru
+26662673;2026-08-11;;;ru
+26666161;2026-08-19;;;ru
+26666227;2026-08-19;;;ru
+26666837;2026-09-07;dispute wasn't activated;proc;ru
+26672353;2026-08-17;;;ru
+26672403;2026-09-05;;;ru
+26673100;2026-09-07;;;global
+26673180;2026-08-29;1;;global
+26673260;2026-08-29;;;global
+26673445;2026-08-19;;;ru
+26673530;2026-09-07;;1;global
+26673552;2026-09-07;;;global
+26673586;2026-08-29;1;;global
+26673782;2026-08-31;;;global
+26674274;2026-09-01;;;global
+26674738;2026-09-04;;;global
+26675856;2026-08-30;log;subtype has been changed to Payment discrepancy;global
+26676246;2026-09-01;;;global
+26676548;2026-09-03;;;global
+26677342;2026-08-29;1;;global
+26677492;2026-08-29;log, comp;source has been changed to Supply, compensation amount was changed from AB to AS;global
+26678650;2026-08-29;1;;global
+26678712;2026-09-05;;;global
+26679518;2026-09-07;;;global
+26680402;2026-08-29;proc;need to change price by Order reconciliation amendment tool;global
+26680416;2026-08-30;1;;global
+26680496;2026-09-07;;1;global
+26681030;2026-09-07;;;global
+26683070;2026-09-02;1;;global
+26689247;2026-08-19;Extranet, Есть только Money paid (not client), проверить тикет;;ru
+26692219;2026-08-12;comp;missed compensation has been added;ru
+26697915;2026-08-18;;;ru
+26701635;2026-08-12;1;;ru
+26702979;2026-08-14;;;ru
+26703412;2026-08-29;1;;global
+26703908;2026-08-30;1;;global
+26704018;2026-08-29;1;;global
+26704042;2026-08-31;;;global
+26704174;2026-08-29;1;;global
+26704198;2026-08-29;1;;global
+26704240;2026-09-07;missed compensation has been added, need to change price by Order reconciliation amendment tool;comp, proc;global
+26704433;2026-08-12;;;ru
+26705376;2026-09-07;;;global
+26705684;2026-09-03;;;global
+26705898;2026-08-30;proc;dispute wasn't activated;global
+26705982;2026-08-29;proc;need to change price by Order reconciliation amendment tool;global
+26705996;2026-08-29;;;global
+26706246;2026-09-07;;1;global
+26706370;2026-08-29;comp;missed compensation has been added;global
+26706630;2026-09-07;;;global
+26706815;2026-08-12;;;ru
+26707051;2026-08-23;;;ru
+26707759;2026-08-12;;;ru
+26707760;2026-09-05;1;;global
+26708263;2026-08-12;;;ru
+26708686;2026-09-07;;1;global
+26708712;2026-08-30;1;;global
+26708742;2026-08-29;;;global
+26708814;2026-09-06;;;global
+26708827;2026-08-12;;;ru
+26708934;2026-09-02;proc;need dispute (owner has been informed);global
+26709128;2026-09-07;;1;global
+26709356;2026-09-07;;1;global
+26709526;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+26709634;2026-08-31;;;global
+26709743;2026-08-12;;;ru
+26709774;2026-08-29;1;;global
+26709864;2026-08-30;1;;global
+26710132;2026-08-29;1;;global
+26711330;2026-09-05;;;global
+26711803;2026-08-16;;;ru
+26711871;2026-08-12;;;ru
+26712010;2026-08-31;1;;global
+26712293;2026-08-12;;;ru
+26712346;2026-08-29;;;global
+26712487;2026-08-12;;;ru
+26712616;2026-09-01;;;global
+26712680;2026-08-30;1;;global
+26712796;2026-08-30;;;global
+26712814;2026-09-05;рем;;global
+26712832;2026-08-30;1;;global
+26712850;2026-09-06;;;global
+26713077;2026-08-14;;;ru
+26713314;2026-09-03;1;;global
+26713432;2026-09-02;;;global
+26713434;2026-09-02;;;global
+26713939;2026-09-07;;;ru
+26713942;2026-09-07;;1;global
+26714118;2026-08-30;;;global
+26714235;2026-08-18;1;;ru
+26714307;2026-08-12;;;ru
+26714472;2026-08-30;1;;global
+26714490;2026-09-03;;;global
+26714775;2026-08-12;;;ru
+26716623;2026-08-15;;;ru
+26716981;2026-08-13;;;ru
+26717241;2026-08-12;;;ru
+26717887;2026-08-12;1;;ru
+26717939;2026-08-17;;;ru
+26720217;2026-08-15;;;ru
+26720663;2026-08-28;1;;ru
+26722951;2026-08-16;;;ru
+26723811;2026-08-20;;;ru
+26724255;2026-08-12;;;ru
+26724321;2026-08-17;;;ru
+26724347;2026-08-14;;;ru
+26724417;2026-08-12;;;ru
+26724423;2026-08-13;;;ru
+26724935;2026-08-14;;;ru
+26725719;2026-08-12;;;ru
+26726425;2026-08-12;;;ru
+26727127;2026-08-13;;;ru
+26727209;2026-08-13;;;ru
+26727577;2026-08-31;;;ru
+26727833;2026-08-13;;;ru
+26728283;2026-08-14;;;ru
+26728617;2026-08-13;;;ru
+26729315;2026-08-25;;;ru
+26731259;2026-08-29;comp;extra compensation has been deleted;ru
+26731869;2026-08-20;1;;ru
+26733181;2026-08-12;;;ru
+26734027;2026-08-12;1;;ru
+26734427;2026-08-13;1;;ru
+26734967;2026-08-16;;;ru
+26735295;2026-08-13;;;ru
+26737063;2026-08-13;;;ru
+26740205;2026-08-14;;;ru
+26740375;2026-08-15;;;ru
+26740891;2026-08-15;comp;compensation amount has been changed;ru
+26741657;2026-08-13;;;ru
+26741861;2026-08-13;;;ru
+26751391;2026-08-13;;;ru
+26751701;2026-08-14;;;ru
+26756262;2026-08-31;1;;global
+26756538;2026-09-03;1;;global
+26756890;2026-08-30;1;;global
+26756978;2026-08-31;;;global
+26757042;2026-09-01;;;global
+26757356;2026-09-07;;;global
+26757762;2026-09-04;;;global
+26758208;2026-09-04;;;global
+26759640;2026-09-02;1;;global
+26759646;2026-09-05;1;;global
+26760106;2026-09-06;;;global
+26760193;2026-08-13;;;ru
+26760322;2026-08-30;1;;global
+26760518;2026-08-30;1;;global
+26760652;2026-08-30;1;;global
+26760736;2026-09-05;;;global
+26761722;2026-09-04;;;global
+26761822;2026-09-02;;;global
+26763114;2026-08-31;comp;currency of compensation has been changed;global
+26763572;2026-08-30;1;;global
+26763764;2026-09-07;;1;global
+26764228;2026-08-31;log;source has been changed to Content;global
+26764464;2026-09-07;;;global
+26764568;2026-09-04;proc;dispute wasn't activated;global
+26766191;2026-08-14;;;ru
+26767081;2026-08-13;;;ru
+26767121;2026-08-16;;;ru
+26767175;2026-08-13;;;ru
+26774143;2026-08-13;;;ru
+26776185;2026-08-14;;;ru
+26776359;2026-08-13;;;ru
+26777105;2026-08-13;;;ru
+26777943;2026-08-13;;;ru
+26778497;2026-08-13;;;ru
+26779903;2026-08-13;;;ru
+26780469;2026-08-18;1;;ru
+26781425;2026-08-13;;;ru
+26781725;2026-08-13;;;ru
+26782335;2026-08-13;;;ru
+26782351;2026-08-13;;;ru
+26782617;2026-08-13;;;ru
+26784387;2026-08-14;;;ru
+26787140;2026-08-31;;;global
+26787827;2026-08-22;;;ru
+26787922;2026-08-30;1;;global
+26788086;2026-09-01;1;;global
+26788172;2026-09-03;1;;global
+26788335;2026-08-23;;;ru
+26788388;2026-09-07;;;global
+26788898;2026-09-07;;;global
+26789403;2026-08-25;1;;ru
+26789512;2026-09-02;;;global
+26789543;2026-08-13;;;ru
+26789547;2026-08-13;;;ru
+26789818;2026-09-05;1;;global
+26789840;2026-09-02;1;;global
+26789897;2026-08-13;;;ru
+26789910;2026-09-02;;;global
+26790346;2026-09-05;1;;global
+26790658;2026-08-30;1;;global
+26790995;2026-09-05;;;ru
+26791266;2026-09-07;source has been changed to Guest;log;global
+26791480;2026-08-31;;;global
+26791780;2026-08-31;;;global
+26792064;2026-09-02;;;global
+26792177;2026-08-14;;;ru
+26792610;2026-09-01;;;global
+26792946;2026-09-04;;;global
+26792986;2026-08-30;1;;global
+26793006;2026-08-30;1;;global
+26793646;2026-09-04;1;;global
+26793713;2026-08-13;;;ru
+26793767;2026-08-20;;;ru
+26793771;2026-08-21;;;ru
+26794000;2026-09-07;;1;global
+26794002;2026-09-01;;;global
+26794025;2026-08-24;;;ru
+26794088;2026-09-04;;;global
+26794163;2026-08-13;;;ru
+26794283;2026-08-18;;;ru
+26794310;2026-09-03;;;global
+26794860;2026-09-02;1;;global
+26795337;2026-08-13;;;ru
+26795614;2026-09-01;;;global
+26795827;2026-08-14;;;ru
+26796200;2026-09-04;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;global
+26796212;2026-09-01;;;global
+26796254;2026-09-04;;;global
+26796483;2026-08-17;;;ru
+26796612;2026-08-31;comp;compensation amount has been changed;global
+26796803;2026-08-13;;;ru
+26798027;2026-08-20;;;ru
+26798339;2026-08-14;;;ru
+26798965;2026-08-14;;;ru
+26799259;2026-08-14;;;ru
+26799727;2026-08-13;;;ru
+26799949;2026-08-14;;;ru
+26800751;2026-08-16;;;ru
+26800797;2026-08-14;;;ru
+26802605;2026-08-24;;;ru
+26803153;2026-08-13;;;ru
+26803579;2026-08-13;;;ru
+26803591;2026-08-13;;;ru
+26803767;2026-08-15;;;ru
+26805673;2026-08-14;;;ru
+26805935;2026-08-14;;;ru
+26806159;2026-08-14;;;ru
+26806765;2026-08-18;;;ru
+26809141;2026-08-14;;;ru
+26811853;2026-08-15;;;ru
+26812281;2026-08-13;;;ru
+26814419;2026-08-14;;;ru
+26814955;2026-08-13;;;ru
+26816846;2026-08-30;log;source has been changed to Content;global
+26817214;2026-09-07;dispute wasn't activated;proc;global
+26817793;2026-08-19;;;ru
+26818523;2026-08-13;;;ru
+26819997;2026-08-19;;;ru
+26822883;2026-08-15;;;ru
+26829169;2026-08-14;;;ru
+26829537;2026-08-14;;;ru
+26830997;2026-08-14;;;ru
+26831171;2026-08-14;;;ru
+26833093;2026-08-14;;;ru
+26837844;2026-09-02;;;global
+26838162;2026-09-04;comp, proc;compensation was split between BD and OPS, need dispute (owner has been informed);global
+26838244;2026-08-31;1;;global
+26839170;2026-09-07;;;global
+26840181;2026-08-14;;;ru
+26840822;2026-08-31;1;;global
+26840830;2026-08-31;1;;global
+26840858;2026-09-06;;;global
+26840957;2026-08-15;;;ru
+26841518;2026-09-04;1;;global
+26842730;2026-09-01;comp;missed compensation has been added;global
+26842732;2026-09-03;;;global
+26843284;2026-09-06;;;global
+26843298;2026-09-03;log;subtype has been changed to Category discrepancy;global
+26843306;2026-09-04;;;global
+26843334;2026-09-07;;1;global
+26844004;2026-08-31;;;global
+26844054;2026-09-01;;;global
+26844500;2026-09-01;;;global
+26844833;2026-08-14;;;ru
+26844894;2026-09-01;;;global
+26845012;2026-09-02;comp;compensation was split between BD and OPS;global
+26845096;2026-09-06;;;global
+26845372;2026-09-02;1;;global
+26845701;2026-08-14;;;ru
+26846823;2026-08-15;;;ru
+26847392;2026-09-02;;;global
+26847568;2026-09-01;comp;missed compensation has been added;global
+26847638;2026-09-02;;;global
+26847646;2026-09-07;;;global
+26847769;2026-08-14;1;;ru
+26847826;2026-08-31;1;;global
+26847940;2026-09-02;;;global
+26848812;2026-09-05;;;global
+26849156;2026-09-02;;;global
+26849598;2026-09-01;;;global
+26849862;2026-09-04;proc;need to change price by Order reconciliation amendment tool;global
+26850142;2026-09-01;comp, proc;compensation was split between BD and OPS, dispute wasn't activated;global
+26852307;2026-08-14;;;ru
+26852591;2026-08-16;;;ru
+26853483;2026-08-16;;;ru
+26855295;2026-08-14;;;ru
+26855461;2026-08-14;;;ru
+26856687;2026-08-14;;;ru
+26857761;2026-08-14;;;ru
+26858011;2026-08-14;;;ru
+26858285;2026-08-14;;;ru
+26859145;2026-08-14;;;ru
+26860083;2026-08-14;;;ru
+26861631;2026-08-14;;;ru
+26861991;2026-08-15;;;ru
+26863683;2026-08-18;Extranet, Письмо на сверку;;ru
+26865623;2026-08-14;;;ru
+26866015;2026-08-15;1;;ru
+26867947;2026-08-14;;;ru
+26868375;2026-08-14;;;ru
+26868433;2026-08-17;;;ru
+26869405;2026-08-16;;;ru
+26869523;2026-08-15;;;ru
+26869885;2026-09-01;;;ru
+26869927;2026-08-14;;;ru
+26870269;2026-08-18;1;;ru
+26870465;2026-08-14;;;ru
+26870678;2026-09-01;;;global
+26870924;2026-09-01;1;;global
+26871080;2026-09-04;;;global
+26871461;2026-08-14;;;ru
+26871501;2026-08-21;log;subtype has been changed to Unconfirmed booking;ru
+26871811;2026-08-14;;;ru
+26871826;2026-09-05;;;global
+26871846;2026-09-02;log;source has been changed to Content;global
+26872048;2026-08-31;;;global
+26872314;2026-09-06;;;global
+26872711;2026-08-17;;;ru
+26873034;2026-09-03;;;global
+26873786;2026-09-03;1;;global
+26874190;2026-09-05;;;global
+26875089;2026-08-19;;;ru
+26875158;2026-09-07;subtype has been changed to Category discrepancy;log;global
+26875176;2026-09-04;proc;need dispute (owner has been informed);global
+26875292;2026-09-02;;;global
+26875448;2026-09-05;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool correctly;global
+26875714;2026-09-07;;1;global
+26876028;2026-09-07;;;global
+26876101;2026-09-03;1;;ru
+26876116;2026-09-06;;;global
+26876236;2026-09-02;1;;global
+26876982;2026-09-04;;;global
+26877074;2026-09-03;;;global
+26877228;2026-08-31;;;global
+26877582;2026-09-02;;;global
+26877594;2026-09-05;;;global
+26877834;2026-09-01;log;subtype has been changed to Room/Hotel service discrepancy;global
+26878060;2026-09-02;;;global
+26878409;2026-08-20;1;;ru
+26878611;2026-09-06;;;ru
+26878729;2026-08-16;;;ru
+26878761;2026-08-16;;;ru
+26878837;2026-08-15;;;ru
+26879034;2026-09-07;;;global
+26879083;2026-08-14;;;ru
+26879372;2026-09-02;;;global
+26879604;2026-09-01;;;global
+26880010;2026-09-04;;;global
+26880201;2026-08-21;;;ru
+26880450;2026-09-07;;1;global
+26880744;2026-09-07;;1;global
+26880914;2026-08-31;1;;global
+26881434;2026-09-01;;;global
+26881799;2026-08-15;1;;ru
+26882142;2026-09-01;;;global
+26882866;2026-09-02;1;;global
+26882952;2026-09-02;1;;global
+26883348;2026-09-02;;;global
+26883674;2026-09-04;;;global
+26883920;2026-09-04;1;;global
+26883992;2026-09-07;;;global
+26884106;2026-09-01;;;global
+26884160;2026-09-05;1;;global
+26884230;2026-08-31;1;;global
+26884362;2026-09-06;;;global
+26884432;2026-09-01;;;global
+26884523;2026-08-15;;;ru
+26884736;2026-09-03;1;;global
+26884835;2026-08-14;;;ru
+26885732;2026-09-07;cause has been changed to Unsatisfied with own choice;log;global
+26886005;2026-08-14;;;ru
+26886276;2026-09-06;;;global
+26886733;2026-08-21;;;ru
+26889325;2026-08-14;;;ru
+26889327;2026-08-15;;;ru
+26893867;2026-08-17;;;ru
+26894347;2026-08-15;;;ru
+26903741;2026-09-07;;;ru
+26906516;2026-09-07;;;global
+26906680;2026-09-06;;;global
+26907162;2026-09-02;;;global
+26907422;2026-09-07;source has been changed to Guest;log;global
+26907532;2026-09-01;1;;global
+26907892;2026-09-04;;;global
+26907906;2026-09-05;;;global
+26908468;2026-09-02;;;global
+26909124;2026-09-07;subtype has been changed to Unconfirmed booking, need to change price by Order reconciliation amendment tool;log, proc;global
+26910677;2026-09-07;;;ru
+26910728;2026-09-03;;;global
+26910884;2026-09-04;1;;global
+26911035;2026-08-15;;;ru
+26911089;2026-08-15;;;ru
+26911168;2026-09-07;;1;global
+26911948;2026-09-03;1;;global
+26912330;2026-09-01;log;cause has been changed to Hotel-TPP process problem;global
+26912556;2026-09-07;;;global
+26912634;2026-09-02;;;global
+26912798;2026-09-02;;;global
+26912833;2026-08-15;;;ru
+26913203;2026-08-16;;;ru
+26913291;2026-08-15;;;ru
+26913414;2026-09-02;;;global
+26913570;2026-09-03;;;global
+26917585;2026-08-15;;;ru
+26919563;2026-08-16;;;ru
+26920133;2026-08-19;1;;ru
+26920179;2026-08-15;;;ru
+26920653;2026-08-15;;;ru
+26921363;2026-08-15;;;ru
+26921519;2026-08-15;;;ru
+26923191;2026-08-21;;;ru
+26924823;2026-08-28;;;ru
+26927431;2026-08-17;;;ru
+26928761;2026-08-21;;;ru
+26929867;2026-08-19;;;ru
+26930431;2026-08-15;;;ru
+26932191;2026-08-16;;;ru
+26932277;2026-08-15;;;ru
+26934859;2026-08-17;;;ru
+26935229;2026-08-16;;;ru
+26935469;2026-08-15;;;ru
+26936322;2026-09-05;;;global
+26936674;2026-09-04;;;global
+26937144;2026-09-04;Оунер;;global
+26937146;2026-09-05;comp;compensation amount was changed from AB to AS;global
+26937655;2026-09-07;;;ru
+26937874;2026-09-04;;;global
+26937972;2026-09-03;proc;need to change price by Order reconciliation amendment tool;global
+26938132;2026-09-01;proc;need dispute (owner has been informed);global
+26938226;2026-09-04;1;;global
+26938320;2026-09-01;;;global
+26938960;2026-09-05;comp;compensation amount has been changed;global
+26940697;2026-08-16;1;;ru
+26941445;2026-08-16;;;ru
+26941805;2026-08-16;;;ru
+26943149;2026-08-15;;;ru
+26945035;2026-08-16;;;ru
+26945675;2026-08-15;;;ru
+26945815;2026-08-16;;;ru
+26946727;2026-08-20;;;ru
+26948705;2026-08-16;;;ru
+26948953;2026-08-15;;;ru
+26949651;2026-08-16;;;ru
+26950555;2026-08-15;;;ru
+26952401;2026-08-25;1;;ru
+26954141;2026-08-18;;;ru
+26955942;2026-09-05;;;global
+26956595;2026-08-15;;;ru
+26957658;2026-09-01;;;global
+26959735;2026-08-16;;;ru
+26959783;2026-08-16;1;;ru
+26961602;2026-09-01;;;global
+26961732;2026-09-06;;;global
+26961886;2026-09-02;;;global
+26962338;2026-09-01;;;global
+26962674;2026-09-05;;;global
+26962722;2026-09-01;1;;global
+26963722;2026-09-03;proc;need to change price by Order reconciliation amendment tool;global
+26964002;2026-09-01;1;;global
+26964344;2026-09-07;;;global
+26964768;2026-09-03;1;;global
+26965064;2026-09-01;1;;global
+26965728;2026-09-07;;;global
+26965730;2026-09-07;source has been changed to Guest;log;global
+26966644;2026-09-07;source has been changed to TPP;log;global
+26966942;2026-09-07;;;global
+26967210;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+26967214;2026-09-02;;;global
+26967682;2026-09-07;;1;global
+26967812;2026-09-05;;;global
+26968268;2026-09-07;;;global
+26968396;2026-09-07;;1;global
+26968846;2026-09-07;;1;global
+26970034;2026-09-07;;1;global
+26970334;2026-09-07;;1;global
+26970613;2026-08-17;1;;ru
+26970850;2026-09-07;;1;global
+26971088;2026-09-03;proc;need dispute (owner has been informed);global
+26971126;2026-09-04;1;;global
+26971204;2026-09-02;;;global
+26971438;2026-09-04;;;global
+26971546;2026-09-01;1;;global
+26972322;2026-09-02;;;global
+26972590;2026-09-06;;;global
+26974054;2026-09-06;1;;global
+26974534;2026-09-03;;;global
+26982311;2026-08-16;;;ru
+26986125;2026-08-17;;;ru
+26986887;2026-08-20;;;ru
+26990661;2026-08-16;;;ru
+26993645;2026-08-18;;;ru
+26994451;2026-08-27;1;;ru
+26994802;2026-09-04;;;global
+26995540;2026-09-02;;;global
+26996188;2026-09-05;;;global
+26998073;2026-08-16;;;ru
+26999901;2026-08-16;;;ru
+26999911;2026-08-16;;;ru
+27000439;2026-08-16;;;ru
+27001037;2026-09-07;need dispute (owner has been informed);proc;ru
+27010501;2026-08-17;;;ru
+27012765;2026-08-16;;;ru
+27012884;2026-09-02;;;global
+27013288;2026-09-03;;;global
+27013580;2026-09-02;;;global
+27013608;2026-09-04;;;global
+27013753;2026-08-17;1;;ru
+27013794;2026-09-03;;;global
+27013890;2026-09-03;;;global
+27014007;2026-08-17;1;;ru
+27014035;2026-08-16;;;ru
+27014524;2026-09-03;log;subtype has been changed to Room/Hotel service discrepancy;global
+27015519;2026-08-27;;;ru
+27015522;2026-09-02;1;;global
+27016309;2026-08-19;;;ru
+27016364;2026-09-07;;1;global
+27016748;2026-09-02;;;global
+27017086;2026-09-07;;;global
+27017656;2026-09-04;1;;global
+27017786;2026-09-07;;;global
+27018246;2026-09-05;;;global
+27018498;2026-09-07;;1;global
+27018564;2026-09-07;dispute wasn't activated;proc;global
+27018780;2026-09-03;;;global
+27019190;2026-09-07;;;global
+27020182;2026-09-02;;;global
+27020575;2026-08-24;proc;need to change price by Order reconciliation amendment tool correctly;ru
+27020656;2026-09-03;;;global
+27021076;2026-09-02;1;;global
+27021588;2026-09-02;;;global
+27021622;2026-09-04;;;global
+27021768;2026-09-07;;;global
+27021922;2026-09-02;comp;missed compensation has been added;global
+27022049;2026-08-17;1;;ru
+27022126;2026-09-02;1;;global
+27022308;2026-09-02;1;;global
+27022774;2026-09-03;;;global
+27023362;2026-09-03;proc;email to Reconciliation has been added;global
+27024314;2026-09-04;;;global
+27024350;2026-09-05;1;;global
+27024766;2026-09-03;;;global
+27025300;2026-09-02;;;global
+27025630;2026-09-03;;;global
+27026693;2026-08-17;1;;ru
+27035068;2026-09-06;;;global
+27036546;2026-09-07;;;global
+27037315;2026-08-24;;;ru
+27038685;2026-08-28;1;;ru
+27042096;2026-09-04;;;global
+27042346;2026-09-04;;;global
+27042426;2026-09-03;comp;compensation was split between BD and OPS;global
+27042536;2026-09-07;;;global
+27042808;2026-09-04;;;global
+27043432;2026-09-02;1;;global
+27043794;2026-09-02;;;global
+27044160;2026-09-02;;;global
+27044373;2026-08-17;;;ru
+27044955;2026-08-17;;;ru
+27045430;2026-09-07;;;global
+27045440;2026-09-04;;;global
+27045478;2026-09-04;;;global
+27045606;2026-09-04;;;global
+27046052;2026-09-03;log;source has been changed to Content;global
+27046887;2026-08-18;Extranet, Письмо на сверку;;ru
+27047158;2026-09-07;;1;global
+27047542;2026-09-07;;1;global
+27047746;2026-09-07;;;global
+27048292;2026-09-07;extra compensation has been deleted;comp;global
+27048564;2026-09-04;;;global
+27049024;2026-09-03;;;global
+27049102;2026-09-02;;;global
+27049178;2026-09-05;comp;compensation amount has been changed;global
+27049396;2026-09-03;;;global
+27050252;2026-09-06;;;global
+27050384;2026-09-02;;;global
+27050400;2026-09-02;;;global
+27050402;2026-09-03;;;global
+27050700;2026-09-02;1;;global
+27051391;2026-08-18;;;ru
+27051612;2026-09-06;1;;global
+27051876;2026-09-02;1;;global
+27052184;2026-09-02;;;global
+27053082;2026-09-03;log, comp;subtype has been changed to Payment discrepancy, missed compensation has been added;global
+27053083;2026-08-30;comp;need to change price by Order reconciliation amendment tool correctly;ru
+27053558;2026-09-03;;;global
+27053765;2026-08-17;1;;ru
+27054000;2026-09-07;source has been changed to Content;log;global
+27054057;2026-08-17;;;ru
+27054268;2026-09-02;;;global
+27054271;2026-08-19;1;;ru
+27054418;2026-09-03;Оунер;;global
+27055074;2026-09-07;;1;global
+27055078;2026-09-07;;1;global
+27055084;2026-09-03;;;global
+27055794;2026-09-06;;;global
+27056622;2026-09-07;;;global
+27057577;2026-08-18;;;ru
+27058087;2026-08-18;Extranet, ORA для изменения AB в меньшую сторону, ошибка ORA или Payments;;ru
+27060181;2026-08-18;;;ru
+27061421;2026-08-19;;;ru
+27065619;2026-08-27;;;ru
+27065989;2026-08-18;;;ru
+27067211;2026-08-17;comp;missed compensation has been added;ru
+27067972;2026-09-04;1;;global
+27068050;2026-09-02;;;global
+27068163;2026-08-20;;;ru
+27068682;2026-09-03;1;;global
+27069198;2026-09-05;comp;compensation amount has been changed;global
+27070779;2026-08-18;;;ru
+27070941;2026-08-18;1;;ru
+27071475;2026-08-19;;;ru
+27071539;2026-08-17;;;ru
+27071591;2026-08-20;;;ru
+27071961;2026-08-17;;;ru
+27072467;2026-08-17;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;ru
+27072469;2026-08-19;proc;dispute wasn't activated;ru
+27072473;2026-08-19;;;ru
+27073831;2026-08-17;;;ru
+27074753;2026-08-17;;;ru
+27075235;2026-08-19;;;ru
+27075721;2026-08-19;1;;ru
+27075911;2026-08-18;1;;ru
+27077461;2026-08-18;;;ru
+27078320;2026-09-03;;;global
+27078415;2026-08-17;;;ru
+27078424;2026-09-06;1;;global
+27078467;2026-08-19;comp;currency of compensation has been changed;ru
+27078701;2026-08-18;;;ru
+27078971;2026-08-22;1;много тикетов контента, все ок;ru
+27079324;2026-09-04;;;global
+27079550;2026-09-07;;;global
+27079747;2026-08-19;;;ru
+27079758;2026-09-05;comp;currency of compensation has been changed;global
+27080459;2026-08-21;1;;ru
+27080575;2026-08-18;1;;ru
+27081080;2026-09-05;1;;global
+27081096;2026-09-03;;;global
+27081428;2026-09-07;;1;global
+27081476;2026-09-06;log;source has been changed to Content;global
+27082066;2026-09-03;log;cause has been changed to Booking not found;global
+27082079;2026-08-18;;;ru
+27082378;2026-09-06;;;global
+27082872;2026-09-07;;1;global
+27082911;2026-09-04;;;ru
+27082952;2026-09-03;;;global
+27083113;2026-08-18;1;;ru
+27083230;2026-09-03;;;global
+27083916;2026-09-06;;;global
+27084290;2026-09-06;1;;global
+27084494;2026-09-07;;1;global
+27084532;2026-09-06;;;global
+27085082;2026-09-04;;;global
+27085487;2026-08-17;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;ru
+27085870;2026-09-07;;1;global
+27086309;2026-08-17;;;ru
+27086786;2026-09-03;;;global
+27086803;2026-08-18;;;ru
+27086932;2026-09-06;;;global
+27087060;2026-09-04;;;global
+27087136;2026-09-05;;;global
+27087262;2026-09-04;1;;global
+27087484;2026-09-07;;;global
+27087989;2026-08-18;;;ru
+27088748;2026-09-07;need to change price by Order reconciliation amendment tool;proc;global
+27088776;2026-09-03;1;;global
+27088928;2026-09-03;1;;global
+27088972;2026-09-07;;1;global
+27089286;2026-09-06;1;;global
+27089528;2026-09-07;;;global
+27089692;2026-09-07;;1;global
+27090314;2026-09-07;;;global
+27090387;2026-08-18;Extranet, Письмо на сверку;;ru
+27090486;2026-09-04;;;global
+27090700;2026-09-03;;;global
+27090801;2026-08-18;;;ru
+27093545;2026-08-21;;;ru
+27094057;2026-08-31;;;ru
+27097141;2026-08-17;;;ru
+27097597;2026-08-18;comp;compensation amount was changed from AB to AS;ru
+27101875;2026-08-25;1;;ru
+27110413;2026-08-18;comp;missed compensation has been added;ru
+27110502;2026-09-07;;1;global
+27110825;2026-08-19;1;;ru
+27111208;2026-09-07;;;global
+27111302;2026-09-03;;;global
+27111314;2026-09-04;1;;global
+27111804;2026-09-06;1;;global
+27112137;2026-08-26;proc;need dispute (owner has been informed);ru
+27112263;2026-08-27;;;ru
+27112304;2026-09-07;;;global
+27112842;2026-09-05;;;global
+27113302;2026-09-07;;;global
+27113644;2026-09-03;log;subtype has been changed to Category discrepancy;global
+27114304;2026-09-07;;1;global
+27115646;2026-09-04;;;global
+27116132;2026-09-06;;;global
+27116408;2026-09-07;;;global
+27116720;2026-09-07;;1;global
+27116910;2026-09-03;;;global
+27116956;2026-09-07;;;global
+27117456;2026-09-04;;;global
+27118488;2026-09-03;;;global
+27119108;2026-09-04;;;global
+27119340;2026-09-07;;1;global
+27120114;2026-09-06;;;global
+27120200;2026-09-07;;1;global
+27120222;2026-09-04;;;global
+27120574;2026-09-06;;;global
+27121128;2026-09-07;;1;global
+27121436;2026-09-05;;;global
+27121592;2026-09-05;1;;global
+27122306;2026-09-04;;;global
+27122826;2026-09-07;;1;global
+27123150;2026-09-03;;;global
+27123537;2026-08-18;;;ru
+27123542;2026-09-07;;1;global
+27123916;2026-09-07;subtype has been changed to Room/Hotel service discrepancy;log;global
+27123990;2026-09-05;1;;global
+27124242;2026-09-03;;;global
+27124718;2026-09-04;;;global
+27125342;2026-09-07;;;global
+27125654;2026-09-06;1;;global
+27128541;2026-08-18;;;ru
+27130677;2026-09-03;;;ru
+27132197;2026-08-19;;;ru
+27132261;2026-09-02;1;;ru
+27132357;2026-08-18;;;ru
+27133415;2026-08-22;;;ru
+27133700;2026-09-05;;;global
+27134346;2026-09-07;;;global
+27134632;2026-09-07;subtype has been changed to Room/Hotel service discrepancy;log;global
+27134702;2026-09-07;;;global
+27134832;2026-09-04;;;global
+27134970;2026-09-04;;;global
+27135671;2026-08-18;;;ru
+27135729;2026-08-22;log;subtype has been changed to Category discrepancy;ru
+27136063;2026-08-18;;;ru
+27137683;2026-08-18;;;ru
+27139101;2026-08-18;proc;dispute wasn't activated;ru
+27139359;2026-08-18;;;ru
+27139503;2026-08-18;;;ru
+27140433;2026-08-18;;;ru
+27140902;2026-09-07;;1;global
+27141455;2026-08-29;1;;ru
+27141565;2026-08-19;;;ru
+27141572;2026-09-07;;1;global
+27141789;2026-08-18;;;ru
+27142379;2026-08-18;;;ru
+27142636;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27143153;2026-08-18;1;;ru
+27143324;2026-09-06;;;global
+27143628;2026-09-07;;;global
+27143642;2026-09-06;;;global
+27143978;2026-09-05;;;global
+27144046;2026-09-07;;;global
+27144116;2026-09-04;;;global
+27144794;2026-09-07;;;global
+27145510;2026-09-04;;;global
+27145547;2026-08-18;;;ru
+27145634;2026-09-04;;;global
+27145694;2026-09-04;;;global
+27145726;2026-09-04;;;global
+27146048;2026-09-07;email to Reconciliation has been added;proc;global
+27146403;2026-08-18;;;ru
+27147539;2026-08-28;1;;ru
+27147712;2026-09-04;comp, proc;missed compensation has been added, email to Reconciliation has been added;global
+27147874;2026-09-04;;;global
+27148112;2026-09-04;;;global
+27148644;2026-09-07;;1;global
+27148802;2026-09-07;;1;global
+27148961;2026-08-18;;;ru
+27148962;2026-09-05;comp;compensation amount was changed from AB to AS;global
+27149253;2026-08-24;;;ru
+27149452;2026-09-07;;;global
+27149718;2026-09-04;1;;global
+27150290;2026-09-07;;;global
+27150311;2026-08-19;;;ru
+27150498;2026-09-04;comp;missed compensation has been added;global
+27150796;2026-09-04;;;global
+27150936;2026-09-07;;;global
+27151304;2026-09-04;;;global
+27151635;2026-08-19;;;ru
+27153131;2026-09-04;;;ru
+27153209;2026-08-19;;;ru
+27153399;2026-08-21;;;ru
+27154005;2026-08-25;;;ru
+27154009;2026-09-01;;;ru
+27155661;2026-09-05;comp;compensation amount was changed from AB to AS;ru
+27160299;2026-08-20;Extranet, отмена ФОК, но есть Money paid;;ru
+27160613;2026-08-31;;;ru
+27162089;2026-08-20;;;ru
+27162777;2026-08-19;;;ru
+27162818;2026-09-07;;1;global
+27163250;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+27163345;2026-08-23;;;ru
+27163412;2026-09-07;;1;global
+27163520;2026-09-06;1;;global
+27164134;2026-09-05;proc;dispute wasn't activated;global
+27164164;2026-09-05;1;;global
+27164416;2026-09-07;;;global
+27164662;2026-09-07;;;global
+27165152;2026-09-05;;;global
+27165158;2026-09-06;1;;global
+27166124;2026-09-04;;;global
+27166256;2026-09-07;need dispute (owner has been informed);proc;global
+27166320;2026-09-07;;;global
+27167222;2026-09-07;;;global
+27167938;2026-09-07;dispute wasn't activated;proc;global
+27168282;2026-09-06;1;;global
+27168778;2026-09-07;;1;global
+27168796;2026-09-07;;;global
+27169008;2026-09-06;;;global
+27169874;2026-09-05;;;global
+27169956;2026-09-07;;1;global
+27170300;2026-09-04;1;;global
+27170548;2026-09-05;;;global
+27170692;2026-09-07;;;global
+27170760;2026-09-05;1;;global
+27171134;2026-09-07;;;global
+27171220;2026-09-06;proc;need dispute (owner has been informed);global
+27171372;2026-09-07;;1;global
+27171482;2026-09-05;1;;global
+27171498;2026-09-05;;;global
+27172166;2026-09-06;;;global
+27172301;2026-08-20;;;ru
+27172422;2026-09-04;;;global
+27172762;2026-09-06;;;global
+27172828;2026-09-07;;;global
+27173314;2026-09-06;;;global
+27174050;2026-09-05;;;global
+27174274;2026-09-06;1;;global
+27174413;2026-08-20;;;ru
+27174642;2026-09-04;1;;global
+27174652;2026-09-07;;1;global
+27174766;2026-09-05;;;global
+27175512;2026-09-07;;1;global
+27175698;2026-09-05;;;global
+27181589;2026-08-19;;;ru
+27181612;2026-09-07;;1;global
+27182983;2026-08-20;;;ru
+27185336;2026-09-06;;;global
+27185848;2026-09-05;;;global
+27186110;2026-09-06;;;global
+27186136;2026-09-07;;;global
+27186700;2026-09-07;;1;global
+27186811;2026-08-25;;;ru
+27187146;2026-09-07;;;global
+27187609;2026-08-19;;;ru
+27187732;2026-09-05;;;global
+27188644;2026-09-07;missed compensation has been added, need to change price by Order reconciliation amendment tool;comp, proc;global
+27188936;2026-09-07;;1;global
+27189447;2026-09-07;;1;ru
+27189874;2026-09-07;;;global
+27190108;2026-09-07;dispute wasn't activated;proc;global
+27190168;2026-09-05;1;;global
+27190192;2026-09-07;;;global
+27191066;2026-09-05;;;global
+27191078;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+27191460;2026-09-07;;1;global
+27191658;2026-09-05;proc;dispute wasn't activated;global
+27191924;2026-09-06;;;global
+27192000;2026-09-05;;;global
+27192606;2026-09-07;;;global
+27192666;2026-09-05;;;global
+27193024;2026-09-06;;;global
+27193352;2026-09-07;;;global
+27193530;2026-09-05;proc;dispute wasn't activated;global
+27193572;2026-09-07;currency of compensation has been changed;comp;global
+27195051;2026-08-26;proc;email to Reconciliation has been added;ru
+27195099;2026-08-20;;;ru
+27195567;2026-08-19;;;ru
+27196902;2026-09-07;;;global
+27197165;2026-08-24;1;;ru
+27197382;2026-09-07;;1;global
+27197426;2026-09-05;;;global
+27197584;2026-09-05;1;;global
+27198072;2026-09-05;1;;global
+27198154;2026-09-07;;1;global
+27198160;2026-09-05;1;;global
+27198220;2026-09-05;1;;global
+27198574;2026-09-06;proc;need to change price by Order reconciliation amendment tool;global
+27198688;2026-09-07;;;global
+27198713;2026-08-29;1;;ru
+27198980;2026-09-07;;;global
+27199352;2026-09-05;;;global
+27199370;2026-09-05;1;;global
+27199562;2026-09-07;;;global
+27199656;2026-09-07;;1;global
+27199660;2026-09-07;;1;global
+27199744;2026-09-05;1;;global
+27199818;2026-09-07;;;global
+27200030;2026-09-06;;;global
+27200818;2026-09-07;cause has been changed to TPP mismatch;log;global
+27200900;2026-09-07;;1;global
+27201015;2026-09-03;;;ru
+27201157;2026-08-19;;;ru
+27201754;2026-09-07;;1;global
+27202433;2026-08-21;;;ru
+27202541;2026-08-20;1;;ru
+27202996;2026-09-05;1;;global
+27203044;2026-09-07;;1;global
+27203088;2026-09-07;;1;global
+27203318;2026-09-07;email to Reconciliation has been added;proc;global
+27204165;2026-08-23;;;ru
+27204226;2026-09-06;;;global
+27205118;2026-09-06;;;global
+27205441;2026-08-21;Extranet, Письмо на сверку;;ru
+27205664;2026-09-07;source has been changed to TPP, need dispute (owner has been informed);log, proc;global
+27206248;2026-09-06;;;global
+27206314;2026-09-06;;;global
+27206506;2026-09-06;;;global
+27206722;2026-09-06;;;global
+27206816;2026-09-07;;;global
+27208369;2026-08-19;;;ru
+27209331;2026-08-19;;;ru
+27209684;2026-09-06;;;global
+27209988;2026-09-07;;;global
+27211864;2026-09-06;;;global
+27211866;2026-09-06;;;global
+27212099;2026-08-19;;;ru
+27212846;2026-09-07;;;global
+27213071;2026-08-21;;;ru
+27213104;2026-09-06;;;global
+27213681;2026-08-19;;;ru
+27214020;2026-09-06;;;global
+27214228;2026-09-07;;;global
+27214342;2026-09-07;source has been changed to Content;log;global
+27214876;2026-09-07;;1;global
+27215320;2026-09-07;;;global
+27215585;2026-08-27;proc;dispute wasn't activated;ru
+27216113;2026-08-19;;;ru
+27216223;2026-08-19;;;ru
+27216962;2026-09-06;;;global
+27216997;2026-08-19;Extranet, ORA отсутствует для изменения AB в меньшую сторону;;ru
+27217064;2026-09-07;;;global
+27217144;2026-09-06;;;global
+27217688;2026-09-06;1;;global
+27218106;2026-09-07;;;global
+27218192;2026-09-06;;;global
+27218542;2026-09-07;;;global
+27219086;2026-09-07;;1;global
+27219288;2026-09-06;;;global
+27219299;2026-09-01;;;ru
+27219468;2026-09-06;;;global
+27220214;2026-09-06;comp;missed compensation has been added;global
+27220726;2026-09-07;;1;global
+27221059;2026-08-27;;;ru
+27221114;2026-09-06;;;global
+27221240;2026-09-07;;1;global
+27221434;2026-09-07;;;global
+27221602;2026-09-07;;;global
+27221626;2026-09-06;;;global
+27221736;2026-09-07;;;global
+27222685;2026-09-01;;;ru
+27222849;2026-08-20;;;ru
+27223448;2026-09-07;;1;global
+27223586;2026-09-07;;;global
+27223597;2026-08-21;;;ru
+27223821;2026-08-21;;;ru
+27224138;2026-09-07;;;global
+27224463;2026-08-25;;;ru
+27224749;2026-08-20;;;ru
+27224891;2026-08-23;;;ru
+27226333;2026-08-20;log;cause has been changed to Hotel-TPP process problem;ru
+27227568;2026-09-06;;;global
+27228192;2026-09-07;;;global
+27228804;2026-09-07;;;global
+27229503;2026-08-25;comp;missed compensation has been added;ru
+27230050;2026-09-07;;1;global
+27230213;2026-08-20;1;;ru
+27230308;2026-09-07;;1;global
+27231160;2026-09-07;;1;global
+27231178;2026-09-07;;1;global
+27231272;2026-09-07;;;global
+27231569;2026-08-20;;;ru
+27231666;2026-09-07;;1;global
+27231889;2026-09-07;;;ru
+27232078;2026-09-06;log;source has been changed to Supply;global
+27233459;2026-08-21;;;ru
+27235743;2026-08-20;;;ru
+27235925;2026-08-20;;;ru
+27237417;2026-08-20;;;ru
+27238013;2026-08-20;;;ru
+27238449;2026-08-24;1;;ru
+27239039;2026-08-25;;;ru
+27239669;2026-08-20;;;ru
+27240329;2026-08-24;;;ru
+27241849;2026-08-25;;;ru
+27242175;2026-09-05;;;ru
+27244151;2026-08-20;1;;ru
+27245911;2026-08-28;1;;ru
+27247221;2026-09-04;;;ru
+27250128;2026-09-07;;1;global
+27250129;2026-08-25;;;ru
+27250134;2026-09-07;source has been changed to Content;log;global
+27250140;2026-09-07;source has been changed to Content;log;global
+27251298;2026-09-07;;;global
+27251359;2026-08-20;;;ru
+27251846;2026-09-07;;;global
+27252620;2026-09-07;;;global
+27254346;2026-09-07;;;global
+27254392;2026-09-07;;;global
+27254502;2026-09-07;;;global
+27254638;2026-09-07;;1;global
+27255128;2026-09-07;;1;global
+27255858;2026-09-07;;1;global
+27255950;2026-09-07;;;global
+27256646;2026-09-07;;;global
+27256796;2026-09-07;;1;global
+27257106;2026-09-07;missed compensation has been added;comp;global
+27257400;2026-09-07;;;global
+27258746;2026-09-07;;1;global
+27259423;2026-08-31;1;;ru
+27259514;2026-09-07;;1;global
+27259628;2026-09-07;;1;global
+27259910;2026-09-07;;1;global
+27259992;2026-09-07;;;global
+27260430;2026-09-07;;;global
+27260562;2026-09-07;subtype has been changed to Room/Hotel service discrepancy;log;global
+27260718;2026-09-07;;;global
+27260984;2026-09-07;;1;global
+27262070;2026-09-07;;;global
+27262596;2026-09-07;;1;global
+27264897;2026-08-28;comp;missed compensation has been added;ru
+27265306;2026-09-07;;1;global
+27265914;2026-09-07;;;global
+27266074;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+27266665;2026-08-20;;;ru
+27267164;2026-09-07;;;global
+27267746;2026-09-07;;;global
+27267754;2026-09-07;;;global
+27267866;2026-09-07;;;global
+27267929;2026-08-20;;;ru
+27268800;2026-09-07;;1;global
+27269458;2026-09-07;;;global
+27269949;2026-08-24;log;cause has been changed to Nationality;ru
+27270006;2026-09-07;;;global
+27270710;2026-09-07;compensation amount has been changed;comp;global
+27270867;2026-08-20;;;ru
+27271156;2026-09-07;;1;global
+27272230;2026-09-07;;;global
+27272419;2026-08-21;Extranet, Есть ORA или письмо, но нету Money received;;ru
+27273409;2026-08-23;;;ru
+27274028;2026-09-07;;;global
+27274250;2026-09-07;;1;global
+27274332;2026-09-07;;;global
+27274764;2026-09-07;;;global
+27274966;2026-09-07;;;global
+27274982;2026-09-07;;1;global
+27275412;2026-09-07;;;global
+27275430;2026-09-07;;1;global
+27275723;2026-08-20;;;ru
+27276665;2026-09-02;;;ru
+27276737;2026-08-25;;;ru
+27276759;2026-08-23;;;ru
+27276862;2026-09-07;;1;global
+27277070;2026-09-07;;;global
+27277746;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27278666;2026-09-07;;1;global
+27279009;2026-08-27;1;;ru
+27279148;2026-09-07;;;global
+27279858;2026-09-07;;;global
+27280030;2026-09-07;;;global
+27280251;2026-08-20;;;ru
+27280780;2026-09-07;;;global
+27282187;2026-08-31;;;ru
+27283976;2026-09-07;;;global
+27284070;2026-09-07;;;global
+27284210;2026-09-07;cause has been changed to Hotel-TPP process problem;log;global
+27284545;2026-08-21;;;ru
+27284748;2026-09-07;;1;global
+27285528;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27285530;2026-09-07;;1;global
+27285771;2026-08-20;;;ru
+27285823;2026-08-20;;;ru
+27286336;2026-09-07;;;global
+27287098;2026-09-07;;;global
+27287104;2026-09-07;;;global
+27287438;2026-09-07;;;global
+27288758;2026-09-07;;;global
+27288779;2026-08-20;;;ru
+27288832;2026-09-07;;1;global
+27289019;2026-08-20;;;ru
+27289023;2026-08-26;;;ru
+27289550;2026-09-07;dispute wasn't activated;proc;global
+27289614;2026-09-07;;;global
+27290170;2026-09-07;;;global
+27290171;2026-08-29;1;;ru
+27290665;2026-08-23;;;ru
+27291064;2026-09-07;;;global
+27291906;2026-09-07;;1;global
+27291956;2026-09-07;;1;global
+27291969;2026-08-22;;;ru
+27292209;2026-08-21;;;ru
+27292552;2026-09-07;;;global
+27293265;2026-08-22;;;ru
+27293817;2026-09-07;;;ru
+27294405;2026-08-21;;;ru
+27294424;2026-09-07;;1;global
+27294800;2026-09-07;source has been changed to TPP;log;global
+27294973;2026-08-20;;;ru
+27295109;2026-08-22;;;ru
+27295321;2026-08-20;;;ru
+27295384;2026-09-07;;1;global
+27295428;2026-09-07;;1;global
+27295602;2026-09-07;;1;global
+27295642;2026-09-07;subtype has been changed to Unconfirmed booking, need dispute (owner has been informed);log, proc;global
+27295719;2026-08-27;;;ru
+27295896;2026-09-07;;1;global
+27296233;2026-08-28;;;ru
+27296730;2026-09-07;;1;global
+27297017;2026-08-28;1;;ru
+27297442;2026-09-07;need to change price by Order reconciliation amendment tool correctly;proc;global
+27297774;2026-09-07;;;global
+27297806;2026-09-07;;;global
+27297856;2026-09-07;;1;global
+27298362;2026-09-07;;1;global
+27299050;2026-09-07;;;global
+27299683;2026-08-22;;;ru
+27299944;2026-09-07;;;global
+27300699;2026-08-20;;;ru
+27301192;2026-09-07;;1;global
+27301294;2026-09-07;;1;global
+27301306;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27301617;2026-08-24;;;ru
+27302070;2026-09-07;;;global
+27302548;2026-09-07;need dispute (owner has been informed);proc;global
+27303073;2026-08-25;;;ru
+27303076;2026-09-07;;1;global
+27303152;2026-09-07;;;global
+27303624;2026-09-07;missed compensation has been added;comp;global
+27303944;2026-09-07;;;global
+27304454;2026-09-07;;;global
+27304806;2026-09-07;;1;global
+27305326;2026-09-07;;1;global
+27305508;2026-09-07;;;global
+27305615;2026-09-07;;;ru
+27305930;2026-09-07;;;global
+27306070;2026-09-07;;1;global
+27306096;2026-09-07;;1;global
+27306782;2026-09-07;;1;global
+27308034;2026-09-07;;;global
+27308329;2026-08-21;1;;ru
+27309374;2026-09-07;;1;global
+27309709;2026-08-25;;;ru
+27309860;2026-09-07;;;global
+27310695;2026-08-25;;;ru
+27310705;2026-08-21;;;ru
+27310938;2026-09-07;;;global
+27310975;2026-08-26;;;ru
+27311205;2026-08-22;;;ru
+27312834;2026-09-07;;1;global
+27313012;2026-09-07;source has been changed to Hotel service;log;global
+27313200;2026-09-07;;;global
+27314206;2026-09-07;;;global
+27314216;2026-09-07;;;global
+27314464;2026-09-07;;1;global
+27314617;2026-08-21;;;ru
+27314632;2026-09-07;;;global
+27314698;2026-09-07;;1;global
+27314878;2026-09-07;;1;global
+27315858;2026-09-07;need to change price by Order reconciliation amendment tool;proc;global
+27315952;2026-09-07;;1;global
+27317005;2026-09-07;missed compensation has been added;comp;ru
+27317816;2026-09-07;;;global
+27318226;2026-09-07;;1;global
+27318890;2026-09-07;dispute wasn't activated;proc;global
+27318910;2026-09-07;;;global
+27318948;2026-09-07;;;global
+27319264;2026-09-07;;;global
+27319394;2026-09-07;;1;global
+27320360;2026-09-07;;;global
+27321214;2026-09-07;;;global
+27321230;2026-09-07;;;global
+27321290;2026-09-07;;1;global
+27321382;2026-09-07;;;global
+27321506;2026-09-07;;;global
+27321716;2026-09-07;;;global
+27322104;2026-09-07;;;global
+27322330;2026-09-07;;1;global
+27322342;2026-09-07;;;global
+27324714;2026-09-07;;;global
+27325210;2026-09-07;;1;global
+27325456;2026-09-07;;;global
+27325492;2026-09-07;;1;global
+27326206;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+27329704;2026-09-07;;;global
+27329794;2026-09-07;;;global
+27330234;2026-09-07;;1;global
+27332038;2026-09-07;;1;global
+27332546;2026-09-07;;1;global
+27333160;2026-09-07;subtype has been changed to Category discrepancy;log;global
+27333518;2026-09-07;;1;global
+27333674;2026-09-07;;;global
+27334162;2026-09-07;;1;global
+27334474;2026-09-07;;;global
+27334564;2026-09-07;;1;global
+27335060;2026-09-07;email to Reconciliation has been added;proc;global
+27335668;2026-09-07;;;global
+27336367;2026-08-21;log;subtype has been changed to Category discrepancy;ru
+27336425;2026-08-21;;;ru
+27336932;2026-09-07;;1;global
+27336956;2026-09-07;source has been changed to Supply, need to change price by Order reconciliation amendment tool;log, proc;global
+27337183;2026-08-21;Extranet, ORA отсутствует для изменения AB в большую сторону;;ru
+27337858;2026-09-07;;1;global
+27338128;2026-09-07;;;global
+27338145;2026-08-22;;;ru
+27338209;2026-08-21;;;ru
+27338282;2026-09-07;subtype has been changed to Hotel unavailable, compensation was split;log, comp;global
+27339200;2026-09-07;;;global
+27339205;2026-08-21;;;ru
+27339309;2026-08-25;;;ru
+27339628;2026-09-07;;;global
+27340004;2026-09-07;;;global
+27340506;2026-09-07;;;global
+27340760;2026-09-07;;1;global
+27341032;2026-09-07;;1;global
+27341580;2026-09-07;subtype has been changed to Overbooking, compensation was split;log, comp;global
+27341804;2026-09-07;;;global
+27342456;2026-09-07;;;global
+27342802;2026-09-07;;;global
+27342918;2026-09-07;;1;global
+27343126;2026-09-07;;1;global
+27343908;2026-09-07;;;global
+27343932;2026-09-07;;;global
+27344663;2026-08-27;1;;ru
+27344966;2026-09-07;;;global
+27345040;2026-09-07;;;global
+27345168;2026-09-07;;;global
+27345495;2026-08-25;1;;ru
+27345534;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27345742;2026-09-07;compensation was split between BD and OPS;comp;global
+27346456;2026-09-07;;;global
+27346525;2026-08-21;;;ru
+27346594;2026-09-07;compensation amount has been changed;comp;global
+27346925;2026-08-24;1;;ru
+27347090;2026-09-07;missed compensation has been added;comp;global
+27347102;2026-09-07;;1;global
+27347115;2026-08-22;;;ru
+27347141;2026-08-24;;;ru
+27348034;2026-09-07;;1;global
+27348292;2026-09-07;;;global
+27348325;2026-08-21;;;ru
+27348578;2026-09-07;;;global
+27349374;2026-09-07;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;comp, proc;global
+27350056;2026-09-07;;;global
+27350362;2026-09-07;;;global
+27350792;2026-09-07;missed compensation has been added;comp;global
+27351374;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27351378;2026-09-07;;;global
+27351640;2026-09-07;;;global
+27352496;2026-09-07;;;global
+27353069;2026-08-26;1;;ru
+27353423;2026-08-27;1;;ru
+27353425;2026-09-03;;;ru
+27354846;2026-09-07;;;global
+27354977;2026-08-21;;;ru
+27355170;2026-09-07;need to change price by Order reconciliation amendment tool correctly;proc;global
+27355407;2026-08-21;;;ru
+27356180;2026-09-07;;;global
+27356675;2026-08-21;;;ru
+27357036;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+27357188;2026-09-07;;1;global
+27357490;2026-09-07;;1;global
+27357709;2026-09-07;;;ru
+27357796;2026-09-07;;;global
+27357893;2026-08-21;;;ru
+27357999;2026-08-26;1;;ru
+27358020;2026-09-07;;;global
+27358467;2026-08-21;;;ru
+27359672;2026-09-07;;;global
+27359892;2026-09-07;;1;global
+27359910;2026-09-07;;1;global
+27360205;2026-08-21;;;ru
+27360937;2026-08-27;1;;ru
+27361724;2026-09-07;missed compensation has been added;comp;global
+27363342;2026-09-07;;;global
+27363418;2026-09-07;dispute wasn't activated;proc;global
+27364567;2026-09-07;;;ru
+27365301;2026-08-21;;;ru
+27365361;2026-09-07;;;ru
+27366718;2026-09-07;;1;global
+27367329;2026-08-30;1;;ru
+27368646;2026-09-07;;;global
+27369380;2026-09-07;;;global
+27369953;2026-08-22;Extranet, ORA отсутствует для изменения AB в большую сторону;;ru
+27370047;2026-08-21;;;ru
+27370631;2026-08-26;1;;ru
+27370854;2026-09-07;;1;global
+27370943;2026-08-21;;;ru
+27371552;2026-09-07;;1;global
+27371869;2026-08-23;;;ru
+27372486;2026-09-07;;;global
+27372850;2026-09-07;;1;global
+27373030;2026-09-07;;;global
+27373216;2026-09-07;missed compensation has been added;comp;global
+27373524;2026-09-07;;1;global
+27373604;2026-09-07;;;global
+27373663;2026-08-22;log;source has been changed to Content;ru
+27374214;2026-09-07;;1;global
+27374846;2026-09-07;;;global
+27375021;2026-08-23;;;ru
+27375366;2026-09-07;;1;global
+27375380;2026-09-07;;1;global
+27377018;2026-09-07;;1;global
+27377683;2026-08-22;;;ru
+27377956;2026-09-07;;;global
+27378030;2026-09-07;;;global
+27379146;2026-09-07;;;global
+27379344;2026-09-07;;1;global
+27379659;2026-08-23;;;ru
+27379802;2026-09-07;subtype has been changed to Payment discrepancy;log;global
+27379898;2026-09-07;;;global
+27380321;2026-08-21;;;ru
+27381418;2026-09-07;;;global
+27381605;2026-08-21;;;ru
+27382840;2026-09-07;;1;global
+27383218;2026-09-07;;1;global
+27385118;2026-09-07;;;global
+27387594;2026-09-07;;;global
+27388314;2026-09-07;;;global
+27389925;2026-09-07;;;ru
+27390562;2026-09-07;;;global
+27393476;2026-09-07;;1;global
+27394034;2026-09-07;;;global
+27395236;2026-09-07;;1;global
+27395462;2026-09-07;;;global
+27396078;2026-09-07;;;global
+27396610;2026-09-07;;;global
+27396956;2026-09-07;;1;global
+27397784;2026-09-07;source has been changed to TPP, need dispute (owner has been informed);log, proc;global
+27398390;2026-09-07;;1;global
+27398722;2026-09-07;;1;global
+27401190;2026-09-07;;;global
+27401366;2026-09-07;;;global
+27404037;2026-08-29;1;;ru
+27404186;2026-09-07;;;global
+27404836;2026-09-07;;;global
+27406042;2026-09-07;;1;global
+27407372;2026-09-07;;;global
+27407450;2026-09-07;;1;global
+27408918;2026-09-07;;;global
+27409320;2026-09-07;;1;global
+27410678;2026-09-07;;;global
+27410788;2026-09-07;;;global
+27411385;2026-09-07;compensation amount has been changed;comp;ru
+27412465;2026-08-22;;;ru
+27412956;2026-09-07;;1;global
+27414303;2026-08-23;;;ru
+27415082;2026-09-07;;1;global
+27415394;2026-09-07;;;global
+27416891;2026-08-22;;;ru
+27417010;2026-09-07;;1;global
+27418248;2026-09-07;;1;global
+27418421;2026-08-26;1;;ru
+27418739;2026-08-22;;;ru
+27418864;2026-09-07;source has been changed to Product;log;global
+27418888;2026-09-07;;;global
+27418899;2026-08-22;;;ru
+27419210;2026-09-07;;;global
+27419697;2026-08-22;;;ru
+27420214;2026-09-07;;;global
+27421317;2026-08-22;;;ru
+27421450;2026-09-07;;;global
+27421926;2026-09-07;;;global
+27422236;2026-09-07;;1;global
+27422321;2026-08-25;;;ru
+27423648;2026-09-07;;;global
+27423833;2026-08-30;comp;missed compensation has been added;ru
+27423858;2026-09-07;;;global
+27424476;2026-09-07;;1;global
+27424890;2026-09-07;;;global
+27424925;2026-08-26;proc;need to change price by Order reconciliation amendment tool;ru
+27425054;2026-09-07;;;global
+27425289;2026-08-22;;;ru
+27425364;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27425439;2026-08-24;;;ru
+27425442;2026-09-07;;;global
+27425750;2026-09-07;;;global
+27425902;2026-09-07;subtype has been changed to Room/Hotel service discrepancy;log;global
+27426366;2026-09-07;;;global
+27426646;2026-09-07;;1;global
+27426693;2026-08-22;;;ru
+27427147;2026-08-22;;;ru
+27427268;2026-09-07;;;global
+27427574;2026-09-07;;1;global
+27427770;2026-09-07;;;global
+27427820;2026-09-07;;1;global
+27428184;2026-09-07;compensation amount was changed from AB to AS;comp;global
+27428739;2026-08-22;;;ru
+27428956;2026-09-07;;;global
+27429153;2026-08-22;;;ru
+27429202;2026-09-07;;;global
+27429415;2026-08-22;;;ru
+27429577;2026-08-27;1;;ru
+27429620;2026-09-07;;1;global
+27429833;2026-08-22;;;ru
+27430045;2026-08-24;;;ru
+27430344;2026-09-07;;1;global
+27431012;2026-09-07;;;global
+27431054;2026-09-07;;;global
+27431915;2026-08-22;;;ru
+27432171;2026-08-27;;;ru
+27433835;2026-08-22;;;ru
+27433945;2026-08-23;;;ru
+27434965;2026-08-26;1;;ru
+27435641;2026-08-25;;;ru
+27435857;2026-08-22;;;ru
+27436407;2026-08-22;;;ru
+27436807;2026-08-22;;;ru
+27438094;2026-09-07;;;global
+27439081;2026-08-23;;;ru
+27441237;2026-08-23;;;ru
+27441483;2026-08-22;;;ru
+27441770;2026-09-07;;;global
+27442023;2026-08-23;;;ru
+27443642;2026-09-07;subtype has been changed to Hotel unavailable;log;global
+27443643;2026-08-24;;;ru
+27444437;2026-08-22;;;ru
+27445792;2026-09-07;;1;global
+27447063;2026-08-24;;;ru
+27447788;2026-09-07;;;global
+27448605;2026-09-07;;;ru
+27448620;2026-09-07;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool;comp, proc;global
+27454192;2026-09-07;missed compensation has been added, need to change price by Order reconciliation amendment tool;comp, proc;global
+27455177;2026-08-24;;;ru
+27455374;2026-09-07;;;global
+27456544;2026-09-07;;;global
+27456658;2026-09-07;dispute wasn't activated;proc;global
+27456971;2026-08-24;;;ru
+27457632;2026-09-07;dispute wasn't activated;proc;global
+27458082;2026-09-07;;;global
+27459900;2026-09-07;;;global
+27462188;2026-09-07;;;global
+27464506;2026-09-07;;;global
+27465196;2026-09-07;;;global
+27466392;2026-09-07;;;global
+27469102;2026-09-07;;1;global
+27469838;2026-09-07;;1;global
+27471366;2026-09-07;;1;global
+27475095;2026-09-07;;;ru
+27480619;2026-08-24;;;ru
+27482737;2026-08-24;1;;ru
+27490637;2026-08-23;;;ru
+27493319;2026-08-28;1;;ru
+27494261;2026-08-24;;;ru
+27495737;2026-08-27;1;;ru
+27498489;2026-09-07;;;ru
+27498803;2026-08-25;;;ru
+27498857;2026-08-23;;;ru
+27501017;2026-08-26;1;;ru
+27501157;2026-08-24;;;ru
+27501361;2026-08-23;;;ru
+27502373;2026-08-23;;;ru
+27503103;2026-08-30;;;ru
+27517143;2026-09-07;;;ru
+27528507;2026-08-24;;;ru
+27529899;2026-08-24;;;ru
+27537825;2026-08-24;;;ru
+27538153;2026-08-24;1;;ru
+27539263;2026-08-24;;;ru
+27540307;2026-08-24;;;ru
+27540359;2026-09-01;;;ru
+27540363;2026-08-25;;;ru
+27542281;2026-08-26;;;ru
+27545233;2026-08-24;;;ru
+27547845;2026-08-24;;;ru
+27548331;2026-08-27;;;ru
+27548933;2026-08-31;;;ru
+27549385;2026-09-04;;;ru
+27550799;2026-08-27;log;source has been changed to TPP;ru
+27552747;2026-08-24;1;;ru
+27553155;2026-08-27;1;;ru
+27553197;2026-08-25;;;ru
+27553993;2026-08-26;;;ru
+27555901;2026-09-02;;;ru
+27556071;2026-08-24;;;ru
+27557561;2026-08-27;;;ru
+27558085;2026-08-28;;;ru
+27558739;2026-08-24;;;ru
+27560533;2026-08-25;1;;ru
+27560595;2026-08-30;;;ru
+27560599;2026-08-24;1;;ru
+27560889;2026-08-28;1;;ru
+27561075;2026-08-27;1;;ru
+27561153;2026-08-29;;;ru
+27562503;2026-08-26;1;;ru
+27562737;2026-08-24;;;ru
+27563391;2026-09-05;;;ru
+27567751;2026-08-24;;;ru
+27568529;2026-08-25;1;;ru
+27568811;2026-08-24;;;ru
+27571391;2026-08-25;;;ru
+27571445;2026-08-24;;;ru
+27573359;2026-09-05;;;ru
+27575945;2026-08-31;;;ru
+27579581;2026-08-25;;;ru
+27584325;2026-08-28;;;ru
+27596567;2026-08-30;1;;ru
+27604189;2026-08-30;1;;ru
+27609419;2026-08-25;;;ru
+27611599;2026-08-29;;;ru
+27618225;2026-08-29;1;;ru
+27619553;2026-09-07;;;ru
+27619747;2026-08-25;;;ru
+27620973;2026-09-06;1;;ru
+27622469;2026-08-27;comp;missed compensation has been added;ru
+27622645;2026-08-25;;;ru
+27623541;2026-08-26;;;ru
+27623883;2026-08-25;1;;ru
+27624587;2026-09-07;need to change price by Order reconciliation amendment tool;proc;ru
+27624801;2026-09-07;need dispute (owner has been informed);proc;ru
+27625255;2026-08-25;;;ru
+27627637;2026-08-26;;;ru
+27627693;2026-08-26;;;ru
+27627745;2026-08-27;1;;ru
+27628103;2026-08-25;;;ru
+27628815;2026-08-25;;;ru
+27628941;2026-08-28;;;ru
+27630257;2026-08-25;;;ru
+27630453;2026-08-30;;;ru
+27632285;2026-09-07;;;ru
+27636117;2026-08-29;comp;missed compensation has been added;ru
+27636953;2026-08-29;;;ru
+27639003;2026-09-02;Оунер;;ru
+27641861;2026-08-26;comp;compensation amount has been changed;ru
+27644971;2026-08-26;1;;ru
+27646235;2026-08-26;;;ru
+27653945;2026-09-02;;;ru
+27655301;2026-08-30;;;ru
+27656443;2026-09-04;;;ru
+27661507;2026-08-27;;;ru
+27663049;2026-08-28;;;ru
+27664879;2026-09-07;;;ru
+27665179;2026-08-30;;;ru
+27668361;2026-08-26;;;ru
+27669021;2026-08-26;;;ru
+27673955;2026-09-01;;;ru
+27677459;2026-08-28;;;ru
+27679075;2026-08-27;;;ru
+27688199;2026-08-28;1;;ru
+27688255;2026-08-26;;;ru
+27689931;2026-08-26;1;;ru
+27691033;2026-08-26;;;ru
+27692225;2026-08-26;1;;ru
+27692605;2026-08-26;;;ru
+27693109;2026-08-30;;;ru
+27693731;2026-08-28;1;;ru
+27696273;2026-08-26;;;ru
+27696805;2026-08-26;;;ru
+27696877;2026-08-30;1;;ru
+27697389;2026-08-27;;;ru
+27700891;2026-08-26;;;ru
+27703639;2026-09-01;;;ru
+27704435;2026-08-26;;;ru
+27708621;2026-08-26;;;ru
+27709215;2026-08-27;;;ru
+27709383;2026-08-30;;;ru
+27714443;2026-08-28;comp;currency of compensation has been changed;ru
+27714497;2026-08-26;;;ru
+27714973;2026-08-26;;;ru
+27716843;2026-08-26;;;ru
+27717247;2026-08-27;1;;ru
+27719981;2026-09-01;;;ru
+27720693;2026-08-26;;;ru
+27730327;2026-08-28;;;ru
+27738037;2026-08-28;;;ru
+27743419;2026-08-29;;;ru
+27753403;2026-08-27;;;ru
+27756105;2026-08-27;;;ru
+27756887;2026-09-07;;;ru
+27759885;2026-09-07;compensation amount was changed from AB to AS;comp;ru
+27769925;2026-08-28;;;ru
+27770243;2026-09-02;;;ru
+27770467;2026-08-27;;;ru
+27770691;2026-08-27;;;ru
+27772079;2026-09-02;;;ru
+27773751;2026-08-27;;;ru
+27774779;2026-08-28;;;ru
+27776655;2026-08-27;;;ru
+27778585;2026-09-02;;;ru
+27778803;2026-08-28;1;;ru
+27780347;2026-09-04;1;;ru
+27780539;2026-09-01;;;ru
+27781071;2026-09-05;;;ru
+27782633;2026-08-27;;;ru
+27783267;2026-08-27;;;ru
+27786037;2026-09-07;;;ru
+27789363;2026-08-27;;;ru
+27793519;2026-08-30;;;ru
+27793747;2026-08-28;;;ru
+27795063;2026-08-29;;;ru
+27808125;2026-08-31;;;ru
+27812351;2026-08-28;;;ru
+27820299;2026-08-30;;;ru
+27821895;2026-08-28;;;ru
+27824807;2026-08-28;comp;compensation amount was changed from AB to AS;ru
+27825685;2026-08-28;;;ru
+27826723;2026-09-02;comp;compensation type has been changed;ru
+27829525;2026-08-28;log;source has been changed to Content;ru
+27830301;2026-09-06;;;ru
+27831019;2026-09-01;;;ru
+27834679;2026-08-28;;;ru
+27835021;2026-09-07;;;ru
+27835239;2026-08-29;comp;missed compensation has been added;ru
+27836529;2026-08-28;;;ru
+27840777;2026-08-31;;;ru
+27842033;2026-08-28;;;ru
+27843275;2026-09-07;;1;ru
+27844397;2026-08-28;;;ru
+27844571;2026-08-28;;;ru
+27845401;2026-08-28;;;ru
+27845665;2026-08-28;;;ru
+27846003;2026-08-31;;;ru
+27847891;2026-08-28;;;ru
+27850737;2026-08-28;1;;ru
+27851925;2026-09-07;;1;ru
+27856515;2026-08-28;;;ru
+27858431;2026-08-30;;;ru
+27861269;2026-08-30;;;ru
+27861847;2026-09-04;comp;missed compensation has been added;ru
+27882879;2026-08-29;;;ru
+27890197;2026-08-31;1;;ru
+27892659;2026-09-02;;;ru
+27894791;2026-08-30;1;;ru
+27895393;2026-08-29;1;;ru
+27896313;2026-08-29;;;ru
+27896557;2026-08-29;comp;missed compensation has been added;ru
+27898519;2026-09-06;;;ru
+27898705;2026-09-02;;;ru
+27901239;2026-08-29;;;ru
+27903373;2026-09-07;missed compensation has been added;comp;ru
+27903391;2026-08-30;;;ru
+27904369;2026-08-29;proc;need to change price by Order reconciliation amendment tool;ru
+27904753;2026-08-29;;;ru
+27905741;2026-08-29;1;;ru
+27906671;2026-08-29;;;ru
+27907577;2026-08-30;1;;ru
+27907759;2026-08-30;1;;ru
+27907765;2026-08-31;;;ru
+27908465;2026-08-29;;;ru
+27909093;2026-08-29;;;ru
+27910077;2026-08-29;1;;ru
+27910901;2026-08-30;;;ru
+27911311;2026-08-29;1;;ru
+27912479;2026-09-07;;;ru
+27912577;2026-08-29;1;;ru
+27912711;2026-08-29;;;ru
+27914325;2026-08-29;;;ru
+27914345;2026-08-29;1;;ru
+27915345;2026-08-29;;;ru
+27917003;2026-08-29;;;ru
+27917781;2026-08-29;;;ru
+27920353;2026-08-31;comp;compensation amount has been changed;ru
+27923185;2026-09-01;;;ru
+27924871;2026-08-30;;;ru
+27925309;2026-08-30;;;ru
+27925869;2026-09-03;;;ru
+27927253;2026-09-01;;;ru
+27928551;2026-08-31;;;ru
+27930411;2026-09-04;1;;ru
+27931173;2026-09-01;;;ru
+27935823;2026-08-31;;;ru
+27944517;2026-09-01;;;ru
+27950605;2026-08-31;;;ru
+27953861;2026-09-02;;;ru
+27954587;2026-08-30;;;ru
+27960339;2026-08-30;;;ru
+27960697;2026-09-07;;;ru
+27962793;2026-08-30;;;ru
+27963639;2026-08-30;;;ru
+27965953;2026-09-07;;;ru
+27967171;2026-09-07;;;ru
+27967175;2026-09-02;;;ru
+27967493;2026-08-31;1;;ru
+27971469;2026-09-03;;;ru
+27972389;2026-08-31;;;ru
+27974959;2026-08-31;;;ru
+27978869;2026-09-01;;;ru
+27980341;2026-08-30;1;;ru
+27983107;2026-09-06;1;;ru
+27988979;2026-09-04;;;ru
+27989439;2026-08-30;comp;missed compensation has been added;ru
+27990093;2026-09-03;proc;need to change price by Order reconciliation amendment tool;ru
+27991277;2026-09-06;;;ru
+27992037;2026-09-07;;;ru
+27992555;2026-09-03;;;ru
+27993945;2026-08-30;;;ru
+27993965;2026-08-31;;;ru
+27998431;2026-09-07;;;ru
+28001825;2026-09-07;;;ru
+28014589;2026-08-31;;;ru
+28015949;2026-09-07;dispute wasn't activated;proc;ru
+28017999;2026-09-02;;;ru
+28019427;2026-08-31;;;ru
+28021777;2026-09-06;;;ru
+28024377;2026-08-31;;;ru
+28028845;2026-08-31;;;ru
+28030831;2026-09-07;;;ru
+28033281;2026-08-31;;;ru
+28037583;2026-08-31;;;ru
+28037629;2026-09-06;;;ru
+28040157;2026-09-02;;;ru
+28041217;2026-09-05;;;ru
+28047613;2026-09-03;comp;missed compensation has been added;ru
+28048415;2026-09-05;;;ru
+28048771;2026-09-03;;;ru
+28049451;2026-09-06;;;ru
+28050319;2026-09-01;;;ru
+28051177;2026-09-01;;;ru
+28051233;2026-09-01;;;ru
+28058563;2026-09-01;;;ru
+28063867;2026-09-07;;;ru
+28067907;2026-09-04;;;ru
+28075659;2026-09-04;1;;ru
+28081479;2026-09-01;1;;ru
+28084817;2026-09-01;;;ru
+28086049;2026-09-03;;;ru
+28090599;2026-09-01;;;ru
+28090711;2026-09-01;;;ru
+28093755;2026-09-04;;;ru
+28094043;2026-09-01;1;;ru
+28094571;2026-09-07;;1;ru
+28094763;2026-09-01;1;;ru
+28096215;2026-09-07;;;ru
+28099875;2026-09-07;;;ru
+28100857;2026-09-01;;;ru
+28101751;2026-09-01;;;ru
+28103119;2026-09-03;;;ru
+28103185;2026-09-01;;;ru
+28103747;2026-09-07;;;ru
+28103851;2026-09-05;;;ru
+28105135;2026-09-07;;;ru
+28109225;2026-09-07;missed compensation has been added;comp;ru
+28109781;2026-09-02;comp;compensation amount has been changed;ru
+28109909;2026-09-01;;;ru
+28111551;2026-09-01;;;ru
+28113773;2026-09-01;;;ru
+28114491;2026-09-03;;;ru
+28116823;2026-09-01;;;ru
+28118013;2026-09-01;;;ru
+28120277;2026-09-07;;;ru
+28129873;2026-09-03;1;;ru
+28130433;2026-09-02;;;ru
+28130981;2026-09-03;;;ru
+28131797;2026-09-02;;;ru
+28134485;2026-09-07;;;ru
+28139377;2026-09-07;;;ru
+28145047;2026-09-07;;;ru
+28151625;2026-09-02;;;ru
+28161713;2026-09-02;;;ru
+28162657;2026-09-02;;;ru
+28162713;2026-09-07;;;ru
+28163143;2026-09-07;;;ru
+28167405;2026-09-02;proc;dispute wasn't activated;ru
+28168111;2026-09-04;;;ru
+28168503;2026-09-03;;;ru
+28168777;2026-09-02;;;ru
+28169403;2026-09-02;;;ru
+28169829;2026-09-02;proc;need to change price by Order reconciliation amendment tool;ru
+28172623;2026-09-02;;;ru
+28174265;2026-09-03;;;ru
+28174337;2026-09-06;;;ru
+28176513;2026-09-03;;;ru
+28177293;2026-09-02;;;ru
+28177447;2026-09-02;;;ru
+28179119;2026-09-03;;;ru
+28179685;2026-09-03;;;ru
+28179739;2026-09-03;;;ru
+28182543;2026-09-07;;;ru
+28182675;2026-09-02;;;ru
+28185649;2026-09-04;comp;compensation amount was changed from AB to AS;ru
+28186509;2026-09-02;;;ru
+28186749;2026-09-02;;;ru
+28186789;2026-09-07;;;ru
+28188583;2026-09-02;;;ru
+28191033;2026-09-03;;;ru
+28195125;2026-09-03;;;ru
+28196493;2026-09-04;;;ru
+28197587;2026-09-04;;;ru
+28198309;2026-09-07;missed compensation has been added;comp;ru
+28199049;2026-09-03;1;;ru
+28199845;2026-09-03;;;ru
+28205111;2026-09-04;comp;missed compensation has been added;ru
+28211681;2026-09-07;;;ru
+28220811;2026-09-06;;;ru
+28224703;2026-09-05;;;ru
+28227889;2026-09-03;;;ru
+28237387;2026-09-07;;1;ru
+28238509;2026-09-03;;;ru
+28239123;2026-09-03;;;ru
+28240633;2026-09-03;;;ru
+28241781;2026-09-04;;;ru
+28242749;2026-09-03;;;ru
+28244937;2026-09-03;;;ru
+28246681;2026-09-03;;;ru
+28248045;2026-09-03;;;ru
+28248157;2026-09-04;;;ru
+28249879;2026-09-03;;;ru
+28250861;2026-09-06;;;ru
+28251335;2026-09-03;;;ru
+28252709;2026-09-05;;;ru
+28253421;2026-09-04;;;ru
+28253813;2026-09-07;;;ru
+28255529;2026-09-07;;;ru
+28256275;2026-09-04;;;ru
+28256535;2026-09-04;;;ru
+28256987;2026-09-03;;;ru
+28259077;2026-09-07;;;ru
+28261079;2026-09-07;;1;ru
+28262421;2026-09-04;1;;ru
+28266815;2026-09-03;;;ru
+28266857;2026-09-04;;;ru
+28269751;2026-09-05;comp;missed compensation has been added;ru
+28277601;2026-09-07;;;ru
+28279899;2026-09-05;1;;ru
+28294575;2026-09-05;;;ru
+28304537;2026-09-04;1;;ru
+28305039;2026-09-07;;;ru
+28305859;2026-09-07;need dispute (owner has been informed);proc;ru
+28306361;2026-09-06;;;ru
+28311253;2026-09-04;;;ru
+28311397;2026-09-06;;;ru
+28311493;2026-09-05;1;;ru
+28312417;2026-09-05;;;ru
+28313177;2026-09-04;;;ru
+28314411;2026-09-05;;;ru
+28314473;2026-09-07;;;ru
+28317751;2026-09-05;;;ru
+28319149;2026-09-04;;;ru
+28320061;2026-09-04;;;ru
+28320167;2026-09-04;proc;need to change price by Order reconciliation amendment tool;ru
+28321859;2026-09-07;;;ru
+28324963;2026-09-06;;;ru
+28325127;2026-09-06;comp;compensation amount was changed from AB to AS;ru
+28326537;2026-09-04;;;ru
+28326929;2026-09-07;;;ru
+28330237;2026-09-04;;;ru
+28331337;2026-09-04;1;;ru
+28333253;2026-09-07;;;ru
+28335065;2026-09-04;;;ru
+28337213;2026-09-05;;;ru
+28337683;2026-09-06;;;ru
+28341151;2026-09-04;;;ru
+28341659;2026-09-05;;;ru
+28342301;2026-09-06;;;ru
+28342895;2026-09-06;;;ru
+28344603;2026-09-05;;;ru
+28351179;2026-09-07;;;ru
+28363405;2026-09-06;;;ru
+28367623;2026-09-05;;;ru
+28368065;2026-09-05;;;ru
+28376633;2026-09-05;;;ru
+28377057;2026-09-05;;;ru
+28378869;2026-09-05;;;ru
+28381429;2026-09-05;;;ru
+28381867;2026-09-05;;;ru
+28383425;2026-09-05;1;;ru
+28383591;2026-09-07;;;ru
+28383695;2026-09-07;extra compensation has been deleted;comp;ru
+28384421;2026-09-05;;;ru
+28384985;2026-09-05;;;ru
+28385777;2026-09-05;;;ru
+28387071;2026-09-05;;;ru
+28387309;2026-09-05;1;;ru
+28387657;2026-09-06;1;;ru
+28387997;2026-09-06;;;ru
+28389415;2026-09-05;;;ru
+28390653;2026-09-07;compensation amount was changed from AB to AS;comp;ru
+28391513;2026-09-05;;;ru
+28391969;2026-09-05;;;ru
+28392603;2026-09-05;;;ru
+28392891;2026-09-07;;;ru
+28393089;2026-09-05;;;ru
+28393477;2026-09-05;;;ru
+28394641;2026-09-05;;;ru
+28395071;2026-09-05;;;ru
+28397341;2026-09-05;;;ru
+28397527;2026-09-06;comp;currency of compensation has been changed;ru
+28399587;2026-09-05;;;ru
+28399745;2026-09-06;;;ru
+28400907;2026-09-07;need to change price by Order reconciliation amendment tool correctly;comp;ru
+28401419;2026-09-06;;;ru
+28401625;2026-09-06;;;ru
+28402049;2026-09-05;comp;extra compensation has been deleted;ru
+28409227;2026-09-05;;;ru
+28418333;2026-09-07;;;ru
+28419157;2026-09-07;;;ru
+28426919;2026-09-07;;;ru
+28434015;2026-09-07;;;ru
+28435445;2026-09-06;;;ru
+28440093;2026-09-06;;;ru
+28441711;2026-09-07;;;ru
+28442071;2026-09-07;;;ru
+28445275;2026-09-06;;;ru
+28446519;2026-09-07;;;ru
+28447503;2026-09-07;;;ru
+28447589;2026-09-07;;;ru
+28447597;2026-09-07;dispute wasn't activated;proc;ru
+28448815;2026-09-06;;;ru
+28450031;2026-09-06;;;ru
+28450559;2026-09-06;;;ru
+28452589;2026-09-06;comp;missed compensation has been added;ru
+28453859;2026-09-07;;;ru
+28455627;2026-09-07;;;ru
+28463125;2026-09-06;comp;compensation amount was changed from AB to AS;ru
+28463425;2026-09-06;;;ru
+28468249;2026-09-06;;;ru
+28469081;2026-09-07;;1;ru
+28471503;2026-09-06;;;ru
+28472781;2026-09-06;;;ru
+28473409;2026-09-07;compensation amount was changed from AB to AS;comp;ru
+28477037;2026-09-06;;;ru
+28477527;2026-09-06;;;ru
+28477625;2026-09-07;;;ru
+28478633;2026-09-07;;;ru
+28479617;2026-09-07;;;ru
+28480141;2026-09-07;;;ru
+28481135;2026-09-07;;;ru
+28481679;2026-09-07;;;ru
+28485511;2026-09-07;;1;ru
+28491831;2026-09-07;missed compensation has been added;comp;ru
+28494105;2026-09-07;;;ru
+28497973;2026-09-07;;;ru
+28499091;2026-09-07;;;ru
+28502299;2026-09-07;;1;ru
+28507329;2026-09-07;;;ru
+28509145;2026-09-07;dispute wasn't activated;proc;ru
+28509503;2026-09-07;;1;ru
+28509823;2026-09-07;;;ru
+28510591;2026-09-07;;;ru
+28512363;2026-09-07;;;ru
+28513889;2026-09-07;;;ru
+28515049;2026-09-07;;;ru
+28519347;2026-09-07;;;ru
+28519733;2026-09-07;;;ru
+28520827;2026-09-07;;;ru
+28523415;2026-09-07;;;ru
+28523879;2026-09-07;;;ru
+28524985;2026-09-07;;;ru
+28525813;2026-09-07;;;ru
+28528101;2026-09-07;;;ru
+28529481;2026-09-07;;;ru
+28530911;2026-09-07;;;ru
+28532203;2026-09-07;;;ru
+28532717;2026-09-07;;1;ru
+28533197;2026-09-07;;;ru
+28533199;2026-09-07;;;ru
+28533251;2026-09-07;;;ru
+28535545;2026-09-07;;;ru
+28536133;2026-09-07;;;ru
+28536221;2026-09-07;compensation amount has been changed;comp;ru
+28536239;2026-09-07;;1;ru
+28536797;2026-09-07;;;ru
+28537553;2026-09-07;;;ru
+28541039;2026-09-07;;;ru
+28541283;2026-09-07;;;ru
+28541385;2026-09-07;;;ru
+28541775;2026-09-07;;1;ru
+28549513;2026-09-07;;;ru
+28569573;2026-09-07;;;ru
+28576893;2026-09-07;;;ru
+28579803;2026-09-07;;;ru
+28579855;2026-09-07;;;ru
+28581089;2026-09-07;;1;ru
+28581533;2026-09-07;;;ru
+28581875;2026-09-07;;1;ru
+28581919;2026-09-07;;;ru
+28582047;2026-09-07;need to change price by Order reconciliation amendment tool;proc;ru
+28586949;2026-09-07;;;ru
+28587337;2026-09-07;;;ru
+28590897;2026-09-07;;;ru
+28591147;2026-09-07;;;ru
+28591231;2026-09-07;;;ru
+28592271;2026-09-07;;;ru
+28593531;2026-09-07;;;ru
+28594077;2026-09-07;;;ru
+28594819;2026-09-07;;;ru
+28599129;2026-09-07;;;ru
+28599353;2026-09-07;;;ru
+28600053;2026-09-07;;;ru
+28600595;2026-09-07;;1;ru
+28601245;2026-09-07;;;ru
+28602359;2026-09-07;;;ru
+28603563;2026-09-07;;1;ru
+28604415;2026-09-07;;;ru
+28605835;2026-09-07;;1;ru
+28608573;2026-09-07;;;ru
+28609207;2026-09-07;;;ru
+28611273;2026-09-07;;;ru
+28612449;2026-09-07;;;ru
+28612541;2026-09-07;;;ru
+28617939;2026-09-07;;;ru
+28619183;2026-09-07;;;ru
+28620681;2026-09-07;;;ru
+28646697;2026-09-07;;;ru
+28650281;2026-09-07;;;ru
+28650703;2026-09-07;;;ru
+28651501;2026-09-07;;1;ru
+28653849;2026-09-07;;;ru
+28655621;2026-09-07;;;ru
+28655981;2026-09-07;;;ru
+28657243;2026-09-07;;;ru
+28658257;2026-09-07;;;ru
+28658973;2026-09-07;;;ru
+28659337;2026-09-07;;;ru
+28659517;2026-09-07;;;ru
+28659853;2026-09-07;;1;ru
+28662573;2026-09-07;;;ru
+28663373;2026-09-07;;;ru
+28664785;2026-09-07;;1;ru
+28665079;2026-09-07;;;ru
+28666571;2026-09-07;;1;ru
+28666769;2026-09-07;;;ru
+28667475;2026-09-07;;1;ru
+28668339;2026-09-07;;;ru
+28670993;2026-09-07;;;ru
+28672211;2026-09-07;;;ru
+28672805;2026-09-07;;;ru
+28674451;2026-09-07;;;ru
+28674691;2026-09-07;;;ru
+28677257;2026-09-07;;1;ru
+28680069;2026-09-07;;;ru
+28682519;2026-09-07;;;ru
+28687763;2026-09-07;;;ru
+28688253;2026-09-07;;;ru
+28691315;2026-09-07;;;ru
+28708777;2026-09-07;;;ru
+28711119;2026-09-07;compensation amount was changed from AB to AS;comp;ru
+28712127;2026-09-07;;;ru
+28716173;2026-09-07;;;ru
+28720627;2026-09-07;;1;ru
+28721981;2026-09-07;;;ru
+28722863;2026-09-07;;;ru
+28723283;2026-09-07;;;ru
+28723731;2026-09-07;;;ru
+28724547;2026-09-07;;;ru
+28727289;2026-09-07;;;ru
+28728883;2026-09-07;;1;ru
+28730959;2026-09-07;;;ru
+28731867;2026-09-07;;;ru
+28732427;2026-09-07;;;ru
+28734477;2026-09-07;;;ru
+28735339;2026-09-07;;;ru
+28736081;2026-09-07;;;ru
+28737533;2026-09-07;;;ru
+28737603;2026-09-07;;;ru
+28740579;2026-09-07;;;ru
+28742065;2026-09-07;;;ru
+28742311;2026-09-07;;;ru
+28743735;2026-09-07;;1;ru
+28747383;2026-09-07;;;ru
+28747963;2026-09-07;;;ru
+28748575;2026-09-07;;;ru
+28748787;2026-09-07;;;ru
+28750107;2026-09-07;;;ru
+28754769;2026-09-07;;;ru
+28758665;2026-09-07;;;ru
+28762255;2026-09-07;;;ru
+28766119;2026-09-07;;;ru
+28766827;2026-09-07;;;ru
+28769485;2026-09-07;;;ru
+28777025;2026-09-07;;1;ru
+28778873;2026-09-07;;;ru
+28790863;2026-09-07;;;ru
+28790921;2026-09-07;;;ru
+28791191;2026-09-07;;1;ru
+28793607;2026-09-07;;;ru
+28794571;2026-09-07;;;ru
+28794623;2026-09-07;;;ru
+28795305;2026-09-07;;;ru
+28796225;2026-09-07;;;ru
+28796283;2026-09-07;;;ru
+28800193;2026-09-07;;;ru
+28802051;2026-09-07;;;ru
+28802999;2026-09-07;;;ru
+28805121;2026-09-07;;;ru
+28805123;2026-09-07;;;ru
+28806393;2026-09-07;;;ru
+28808027;2026-09-07;;;ru
+28809269;2026-09-07;;;ru
+28809569;2026-09-07;;;ru
+28810019;2026-09-07;;;ru
+28810729;2026-09-07;;;ru
+28811317;2026-09-07;;;ru
+28812015;2026-09-07;;;ru
+28814743;2026-09-07;;1;ru
+28817509;2026-09-07;;;ru
+28820487;2026-09-07;;;ru
+28822179;2026-09-07;;;ru
+28824221;2026-09-07;;;ru
+28825043;2026-09-07;;;ru
+28826839;2026-09-07;;;ru
+28827983;2026-09-07;;;ru
+28849935;2026-09-07;;1;ru
+28860111;2026-09-07;;1;ru
+28865219;2026-09-07;;;ru
+28867741;2026-09-07;;;ru
+28870651;2026-09-07;;;ru
+28870865;2026-09-07;;;ru
+28872153;2026-09-07;;;ru
+28872259;2026-09-07;compensation amount has been changed, email to Reconciliation has been added;comp, proc;ru
+28876779;2026-09-07;;;ru
+28877063;2026-09-07;;;ru
+28879955;2026-09-07;;;ru
+28880225;2026-09-07;;;ru
+28880397;2026-09-07;;;ru
+28881839;2026-09-07;need to change price by Order reconciliation amendment tool;proc;ru
+28883187;2026-09-07;;;ru
+28884169;2026-09-07;;;ru
+28885145;2026-09-07;;;ru
+28886919;2026-09-07;;;ru
+28894191;2026-09-07;;;ru
+28900389;2026-09-07;;;ru
+28922807;2026-09-07;;;ru
+28936559;2026-09-07;;;ru
+28937841;2026-09-07;;;ru
+28938019;2026-09-07;;;ru
+28939827;2026-09-07;compensation amount was changed from AB to AS;comp;ru
+28940079;2026-09-07;;;ru
+28940451;2026-09-07;;;ru
+28946905;2026-09-07;;1;ru
+28947175;2026-09-07;;;ru
+28950551;2026-09-07;;;ru
+28955563;2026-09-07;;;ru
+28957655;2026-09-07;;;ru

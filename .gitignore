@@ -7,6 +7,10 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# Office lock files
+~$*
+.~lock.*#
+
 # Editors / IDE
 .vscode/
 .idea/
@@ -28,6 +32,7 @@ Desktop.ini
 logs/
 tmp/
 temp/
+!archive/results/*/result/temp/
 *.tmp
 *.bak
 
@@ -57,6 +62,3 @@ CLAUDE.local.md
 **/CLAUDE.local.md
 skills/
 .mcp.json
-
-# Local research data
-research/data/

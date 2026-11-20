@@ -33,5 +33,5 @@
 |---|---|
 | [`docs/ru/`](docs/ru/), [`docs/en/`](docs/en/) | документация на русском и английском, одинаковое дерево файлов |
 | [`sql/`](sql/) | запросы выгрузок, в [`sql/legacy/`](sql/legacy/) — старые выгрузки |
-| [`research/sql/`](research/sql/) | запросы исследования и итогов проекта |
-| [`research/data/`](research/data/) | датасеты исследования и итогов (Excel, CSV) |
+| [`archive/research/`](archive/research/) | запросы (`sql/`) и датасеты (`data/`) исследования |
+| [`archive/results/`](archive/results/) | материалы расчёта итогов: сырые выгрузки, скрипты, запросы, датасеты периодов, книги сравнения Power Query |

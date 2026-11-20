@@ -1,0 +1,5080 @@
+ticket_id;state_date;log;com
+9114816;2025-08-28;1;
+11218695;2025-08-15;1;
+13738865;2025-09-11;1;
+15675092;2025-08-21;1;
+15949846;2025-08-23;1;
+15991119;2025-08-14;1;
+16014208;2025-09-08;1;
+16295236;2025-08-23;log;compensation was split
+16503222;2025-08-12;log;cause has been changed to Hotel temporarily closed
+16735330;2025-08-18;1;
+16744247;2025-08-18;1;
+16811277;2025-08-13;1;
+16840090;2025-09-08;1;
+16916250;2025-09-03;log;subtype has been changed to Room/Hotel service discrepancy
+16954533;2025-09-02;1;
+16992031;2025-09-09;1;
+17066556;2025-09-08;log, proc;cause has been changed to Hotel-TPP process problem, need to change price by Order reconciliation amendment tool 
+17088128;2025-09-06;1;
+17152175;2025-08-15;1;
+17176130;2025-09-08;log;source has been changed to Hotel service
+17221978;2025-08-25;log, proc;subtype has been changed to Meal discrepancy, dispute wasn't activated
+17239880;2025-09-07;1;
+17348709;2025-08-13;1;
+17445708;2025-08-26;1;
+17446662;2025-09-04;1;
+17472770;2025-08-21;1;
+17508028;2025-09-01;1;
+17529402;2025-08-22;log;subtype has been changed to Payment discrepancy
+17635944;2025-08-27;1;
+17642592;2025-08-25;log, proc;cause has been changed to Hotel-TPP process problem, dispute wasn't activated
+17663645;2025-08-26;1;
+17673817;2025-08-26;log;subtype has been changed to Hotel unavailable
+17694831;2025-08-17;1;
+17695467;2025-08-19;1;
+17757083;2025-08-14;proc;dispute wasn't activated
+17770982;2025-08-26;1;
+17791366;2025-08-13;1;
+17835325;2025-08-15;1;
+17859404;2025-09-09;1;
+17895477;2025-08-15;log;source has been changed to Hotel (Extr)
+17897896;2025-08-31;1;
+17902978;2025-08-27;1;
+17913661;2025-08-15;1;
+17928352;2025-08-25;1;
+17944205;2025-09-12;1;
+18001032;2025-08-13;1;
+18002007;2025-09-01;log;subtype has been changed to Payment discrepancy
+18011562;2025-09-05;comp, proc;missed compensation has been added, email to Reconciliation has been added
+18036556;2025-08-19;1;
+18052393;2025-08-11;1;
+18061438;2025-08-25;proc;email to Reconciliation has been added
+18078647;2025-08-12;1;
+18093384;2025-08-20;1;
+18107568;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+18134017;2025-09-06;1;
+18150242;2025-08-28;1;
+18151720;2025-09-12;1;
+18151723;2025-09-12;1;
+18168973;2025-08-22;1;
+18168993;2025-08-22;1;
+18196064;2025-08-22;1;
+18199717;2025-08-31;1;
+18211984;2025-08-14;1;
+18232520;2025-08-12;1;
+18239408;2025-08-19;1;
+18251188;2025-09-05;1;
+18257552;2025-08-21;1;
+18268761;2025-08-17;log;subtype has been changed to Category discrepancy
+18284299;2025-08-16;1;
+18320123;2025-08-26;1;
+18346288;2025-08-14;comp;compensation amount has been changed
+18348187;2025-08-31;1;
+18350532;2025-08-30;1;
+18375260;2025-08-17;1;
+18375957;2025-08-28;1;
+18381835;2025-08-12;1;
+18383179;2025-08-13;1;
+18407111;2025-08-25;1;
+18416417;2025-08-29;1;
+18428345;2025-08-12;1;
+18428768;2025-08-13;Димас;
+18428818;2025-08-28;1;
+18445433;2025-09-14;1;
+18450001;2025-08-13;1;
+18458767;2025-08-17;1;
+18467436;2025-08-13;1;
+18467703;2025-08-11;1;
+18476017;2025-08-28;1;
+18488056;2025-08-22;log;subtype has been changed to Payment discrepancy
+18496412;2025-08-25;log;subtype has been changed to Payment discrepancy
+18496417;2025-08-21;log;subtype has been changed to Payment discrepancy
+18496435;2025-08-21;log;subtype has been changed to Payment discrepancy
+18496438;2025-08-22;log;subtype has been changed to Payment discrepancy
+18499341;2025-08-25;log, comp;subtype has been changed to Payment discrepancy, compensation was split
+18502441;2025-08-28;proc;dispute wasn't activated
+18509709;2025-09-11;log;subtype has been changed to Overbooking
+18511708;2025-09-01;1;
+18521379;2025-09-09;log, comp;subtype has been changed to Overbooking, missed compensation has been added
+18522811;2025-08-15;1;
+18533516;2025-08-15;1;
+18534243;2025-08-19;1;
+18565519;2025-08-30;1;
+18571156;2025-08-31;1;
+18571982;2025-08-13;proc;email to Reconciliation has been added
+18600685;2025-08-18;1;
+18611787;2025-09-12;comp;compensation type has been changed
+18622678;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+18626415;2025-08-29;proc;need dispute (owner has been informed)
+18627388;2025-08-11;log;cause has been changed to Incorrect booking data
+18631712;2025-08-24;proc;dispute wasn't activated
+18653032;2025-08-30;1;
+18658629;2025-09-06;1;
+18660647;2025-08-30;1;
+18665618;2025-08-19;1;
+18669332;2025-08-14;1;
+18676813;2025-08-28;proc;need to change price by Order reconciliation amendment tool correctly
+18677418;2025-08-14;proc;need dispute (owner has been informed)
+18679741;2025-08-25;1;
+18692829;2025-08-29;1;
+18696369;2025-08-17;1;
+18697585;2025-08-14;1;
+18697652;2025-08-18;1;
+18704437;2025-08-12;1;
+18707693;2025-08-13;1;
+18708828;2025-09-06;1;
+18714544;2025-08-19;1;
+18717415;2025-08-24;1;
+18721187;2025-08-13;1;
+18726395;2025-08-17;1;
+18728696;2025-08-12;1;
+18742335;2025-09-03;log;cause has been changed to Hotel-TPP process problem
+18745809;2025-08-31;1;
+18746024;2025-08-16;log;source has been changed to Hotel service
+18748119;2025-08-21;1;
+18751914;2025-08-14;1;
+18773288;2025-09-12;1;
+18779856;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+18779859;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+18786816;2025-09-09;1;
+18795748;2025-08-13;1;
+18796144;2025-09-04;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+18798894;2025-08-15;1;
+18803002;2025-09-06;1;
+18803003;2025-09-01;1;
+18804639;2025-08-14;1;
+18808641;2025-08-30;comp;missed compensation has been added
+18811108;2025-08-22;1;
+18824797;2025-08-14;1;
+18828515;2025-08-24;1;
+18828527;2025-08-28;1;
+18828544;2025-08-28;1;
+18828562;2025-08-21;log;cause has been changed to Contract problem
+18840342;2025-08-21;1;
+18841172;2025-08-18;1;
+18841817;2025-08-17;1;
+18864562;2025-08-18;1;
+18864581;2025-08-18;1;
+18864602;2025-08-18;1;
+18864615;2025-08-18;1;
+18869042;2025-08-11;log;subtype has been changed to Room/Hotel service discrepancy
+18870638;2025-08-30;1;
+18875922;2025-09-02;log;subtype has been changed to Hotel unavailable
+18879100;2025-08-26;1;
+18879189;2025-08-26;1;
+18880452;2025-08-19;log;subtype has been changed to Overbooking
+18881003;2025-08-17;1;
+18885032;2025-09-08;1;
+18893139;2025-08-13;1;
+18893170;2025-08-19;1;
+18911236;2025-08-17;log;subtype has been changed to Hotel unavailable
+18917302;2025-08-28;1;
+18917935;2025-08-20;1;
+18922397;2025-08-26;1;
+18923980;2025-08-13;1;
+18924162;2025-08-12;log;subtype has been changed to Payment discrepancy
+18926497;2025-08-13;1;
+18930793;2025-08-13;1;
+18932451;2025-08-21;1;
+18936055;2025-08-14;log;subtype has been changed to Room/Hotel service discrepancy
+18937188;2025-08-15;log;source has been changed to TPP
+18942518;2025-08-26;1;
+18943163;2025-09-03;1;
+18947328;2025-09-08;log;subtype has been changed to Room/Hotel service discrepancy
+18947986;2025-08-11;1;
+18948206;2025-08-26;1;
+18948700;2025-08-14;log;source has been changed to TPP
+18952399;2025-08-15;log;source has been changed to Hotel service
+18953571;2025-09-12;1;
+18953578;2025-09-07;1;
+18954410;2025-08-29;1;
+18955151;2025-08-19;log;subtype has been changed to Payment discrepancy
+18958534;2025-08-12;1;
+18958743;2025-08-12;1;
+18960368;2025-09-02;1;
+18964022;2025-08-23;log;source has been changed to Hotel service
+18972715;2025-08-21;log, comp, proc;source has been changed to Partner, missed compensation has been added, need to change price by Order reconciliation amendment tool 
+18974458;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+18978214;2025-08-14;1;
+18979845;2025-08-29;1;
+18979960;2025-08-19;1;
+18980208;2025-08-13;1;
+18981104;2025-08-28;1;
+18981332;2025-08-29;comp;compensation amount was changed from AB to AS
+18981540;2025-08-16;1;
+18982125;2025-08-14;1;
+18989783;2025-08-13;log;source has been changed to Content
+18996268;2025-08-18;1;
+18996510;2025-08-17;1;
+19000895;2025-08-19;1;
+19003082;2025-08-15;log;subtype has been changed to Unconfirmed booking
+19004811;2025-08-13;proc;need dispute (owner has been informed)
+19008155;2025-08-14;1;
+19010098;2025-08-27;1;
+19010110;2025-08-16;1;
+19012099;2025-08-13;log;subtype has been changed to Category discrepancy
+19013014;2025-09-03;1;
+19017301;2025-08-26;1;
+19019853;2025-09-13;1;
+19025569;2025-09-04;1;
+19027833;2025-08-17;1;
+19031002;2025-09-11;1;
+19031473;2025-08-20;1;
+19031811;2025-08-12;log;subtype has been changed to Meal discrepancy
+19032091;2025-09-04;1;
+19032967;2025-08-11;1;
+19032976;2025-08-22;1;
+19033864;2025-08-17;1;
+19035547;2025-08-19;1;
+19037069;2025-08-12;1;
+19040523;2025-08-12;1;
+19041632;2025-08-13;comp;compensation was split
+19044381;2025-08-21;1;
+19044452;2025-08-21;1;
+19044681;2025-09-11;1;
+19045938;2025-08-12;1;
+19051866;2025-08-27;1;
+19054106;2025-08-13;log;cause has been changed to Hotel permanently closed
+19055336;2025-08-12;1;
+19056604;2025-08-28;1;
+19059153;2025-08-11;log, comp;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS
+19059407;2025-08-18;proc;email to Reconciliation has been added
+19060635;2025-08-25;1;
+19060648;2025-08-24;1;
+19060650;2025-08-24;1;
+19060738;2025-08-24;1;
+19060741;2025-08-21;1;
+19060746;2025-08-25;1;
+19060772;2025-08-21;1;
+19060802;2025-08-25;1;
+19061541;2025-08-21;1;
+19061547;2025-08-21;1;
+19062051;2025-08-21;1;
+19062081;2025-08-21;1;
+19065224;2025-09-05;потом;
+19065550;2025-08-13;1;
+19066479;2025-09-10;1;
+19071890;2025-08-12;log;subtype has been changed to Overbooking
+19071908;2025-08-15;1;
+19072088;2025-09-05;потом;
+19072401;2025-08-27;1;
+19074123;2025-08-13;log;subtype has been changed to Unconfirmed booking
+19075666;2025-08-16;proc;need to change price by Order reconciliation amendment tool 
+19076131;2025-09-05;1;
+19077138;2025-08-14;1;
+19081038;2025-08-22;1;
+19081898;2025-08-25;1;
+19084302;2025-08-21;1;
+19084427;2025-08-21;1;
+19085278;2025-08-19;1;
+19085513;2025-08-22;1;
+19087573;2025-08-18;1;
+19089145;2025-08-20;proc;need dispute (owner has been informed)
+19090228;2025-08-22;log;subtype has been changed to Category discrepancy
+19090307;2025-08-23;1;
+19095123;2025-08-18;1;
+19096566;2025-09-01;1;
+19096869;2025-08-11;1;
+19099450;2025-08-29;1;
+19100918;2025-08-26;1;
+19102326;2025-09-08;log;subtype has been changed to Payment discrepancy
+19106589;2025-08-11;1;
+19107723;2025-09-06;1;
+19108115;2025-08-15;1;
+19109537;2025-08-22;1;
+19109861;2025-08-19;1;
+19110074;2025-08-15;1;
+19111297;2025-08-15;1;
+19112536;2025-09-12;log, comp;source has been changed to Product, missed compensation has been added
+19113670;2025-08-22;1;
+19118985;2025-08-14;proc;need dispute (owner has been informed)
+19119046;2025-08-18;1;
+19119933;2025-08-13;1;
+19121881;2025-08-15;1;
+19121933;2025-08-17;1;
+19122987;2025-09-13;1;
+19123812;2025-08-24;1;
+19125606;2025-09-06;1;
+19126641;2025-08-22;log, proc;subtype has been changed to Hotel unavailable, email to Reconciliation has been added
+19128814;2025-08-12;1;
+19129528;2025-08-13;1;
+19130060;2025-09-02;1;
+19130317;2025-08-23;log;subtype has been changed to Meal discrepancy
+19132722;2025-08-29;1;
+19132953;2025-08-28;1;
+19133347;2025-09-06;log;subtype has been changed to Room/Hotel service discrepancy
+19133703;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+19139513;2025-08-15;1;
+19144044;2025-08-13;proc;need dispute (owner has been informed)
+19144115;2025-08-15;1;
+19144822;2025-08-31;1;
+19146316;2025-08-31;log;subtype has been changed to Bedding discrepancy
+19150883;2025-08-20;log;cause has been changed to Hotel-TPP process problem
+19151510;2025-08-26;1;
+19151541;2025-08-20;смотреть потом;
+19156393;2025-08-15;1;
+19157988;2025-08-16;comp;compensation has been moved from terminated ticket
+19159982;2025-09-01;log;subtype has been changed to Payment discrepancy
+19160237;2025-09-13;1;
+19161033;2025-08-11;log, comp, proc;subtype has been changed to Payment discrepancy, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19163279;2025-08-13;1;
+19165043;2025-09-14;comp;compensation amount was changed from AB to AS
+19165338;2025-08-14;1;
+19165832;2025-08-15;1;
+19167304;2025-08-22;1;
+19169540;2025-08-15;1;
+19169883;2025-08-16;log;cause has been changed to Booking not found
+19170167;2025-08-22;comp;compensation amount has been changed
+19171839;2025-08-17;1;
+19172661;2025-08-20;1;
+19176244;2025-08-28;1;
+19180017;2025-08-20;log;source has been changed to Hotel service
+19181944;2025-08-24;1;
+19182014;2025-08-13;proc;dispute wasn't activated
+19182076;2025-08-26;1;
+19183809;2025-08-19;1;
+19190461;2025-08-12;1;
+19190853;2025-09-09;proc;subtype has been changed to Room/Hotel service discrepancy
+19192339;2025-08-29;1;
+19195240;2025-09-06;1;
+19207358;2025-08-17;log;cause has been changed to Hotel-TPP process problem
+19210139;2025-08-19;1;
+19211391;2025-09-05;1;
+19212047;2025-08-20;log, comp, proc;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19212612;2025-08-24;1;
+19212652;2025-08-15;1;
+19213294;2025-08-12;1;
+19214612;2025-08-21;1;
+19214943;2025-09-04;1;
+19215889;2025-08-15;log;cause has been changed to TPP mismatch
+19216677;2025-08-19;1;
+19218434;2025-08-12;1;
+19218925;2025-08-29;1;
+19219741;2025-08-29;1;
+19219961;2025-08-12;log;source has been changed to Guest
+19220787;2025-09-03;1;
+19221327;2025-08-14;log;subtype has been changed to Unconfirmed booking
+19221376;2025-08-14;1;
+19221385;2025-08-25;1;
+19221542;2025-09-03;1;
+19222061;2025-08-19;1;
+19222494;2025-08-13;proc;need to change price by Order reconciliation amendment tool 
+19222538;2025-08-23;1;
+19222583;2025-08-15;1;
+19222595;2025-08-14;1;
+19222629;2025-08-29;1;
+19223676;2025-08-14;1;
+19224239;2025-08-24;log, proc;subtype has been changed to Room/Hotel service discrepancy, dispute wasn't activated
+19224442;2025-08-13;1;
+19225048;2025-08-15;1;
+19225776;2025-08-31;proc;need to change price by Order reconciliation amendment tool 
+19227284;2025-08-20;1;
+19231721;2025-08-16;1;
+19231918;2025-08-26;1;
+19232201;2025-08-17;1;
+19232776;2025-08-14;1;
+19233727;2025-08-17;log;subtype has been changed to Meal discrepancy
+19234694;2025-08-13;1;
+19235161;2025-08-11;1;
+19241069;2025-08-31;1;
+19241224;2025-08-12;1;
+19242587;2025-08-28;1;
+19242734;2025-08-23;log;cause has been changed to Room size
+19247704;2025-08-26;log;source has been changed to Hotel service
+19247926;2025-08-20;1;
+19249903;2025-08-16;1;
+19250552;2025-08-13;Онуер Бага;
+19250811;2025-08-15;1;
+19251255;2025-08-16;1;
+19252477;2025-08-14;1;
+19252804;2025-09-01;1;
+19254155;2025-09-06;1;
+19255094;2025-08-29;1;
+19255464;2025-08-23;log;subtype has been changed to Payment discrepancy
+19257707;2025-08-15;1;
+19258118;2025-08-21;log, comp, proc;cause has been changed to Hotel permanently closed, missed compensation has been added, need dispute (owner has been informed)
+19258269;2025-09-02;1;
+19258924;2025-08-14;1;
+19260152;2025-09-08;1;
+19264499;2025-08-15;1;
+19264780;2025-08-17;1;
+19266516;2025-08-14;1;
+19267684;2025-08-13;log;subtype has been changed to Bedding discrepancy
+19269364;2025-08-18;1;
+19271262;2025-08-20;1;
+19272265;2025-08-27;1;
+19274925;2025-08-16;1;
+19279439;2025-09-01;log, proc;subtype has been changed to Payment discrepancy, need to change price by Order reconciliation amendment tool correctly
+19279577;2025-08-12;1;
+19280392;2025-09-13;1;
+19281301;2025-08-17;1;
+19282933;2025-08-14;1;
+19283055;2025-08-16;1;
+19283425;2025-08-30;1;
+19283927;2025-08-26;1;
+19284644;2025-09-13;1;
+19286200;2025-08-25;1;
+19288313;2025-08-20;log;subtype has been changed to Room/Hotel service discrepancy
+19294096;2025-09-01;1;
+19294216;2025-09-04;1;
+19295273;2025-08-21;1;
+19295413;2025-08-18;log;subtype has been changed to Category discrepancy
+19296018;2025-08-17;log;subtype has been changed to Category discrepancy
+19296104;2025-09-13;1;
+19296538;2025-08-30;1;
+19297183;2025-08-16;1;
+19300866;2025-08-15;1;
+19301393;2025-09-06;1;
+19301513;2025-08-12;1;
+19303429;2025-08-14;1;
+19304055;2025-09-04;1;
+19304528;2025-08-26;1;
+19304661;2025-08-24;1;
+19305515;2025-08-31;1;
+19305989;2025-08-22;log;subtype has been changed to Payment discrepancy
+19308889;2025-08-26;log;subtype has been changed to Payment discrepancy
+19309496;2025-08-23;1;
+19309743;2025-08-18;log;source has been changed to Content
+19309793;2025-09-02;ВИЛЕНа;
+19310186;2025-09-12;1;
+19310251;2025-08-24;1;
+19313386;2025-08-21;comp;compensation amount has been changed
+19314325;2025-08-12;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+19314992;2025-08-17;1;
+19315587;2025-08-12;log;source has been changed to TPP
+19317358;2025-08-21;1;
+19319407;2025-08-20;1;
+19319793;2025-09-03;1;
+19319794;2025-09-04;1;
+19321038;2025-08-21;proc;need dispute (owner has been informed)
+19321737;2025-08-27;comp;compensation was split
+19324226;2025-08-21;1;
+19324881;2025-08-19;log;subtype has been changed to Room/Hotel service discrepancy
+19325243;2025-09-08;1;
+19326278;2025-08-28;log;source has been changed to Hotel service
+19326729;2025-08-17;1;
+19328424;2025-08-25;1;
+19329071;2025-08-13;1;
+19329769;2025-08-23;1;
+19330975;2025-08-14;1;
+19332480;2025-08-12;log;subtype has been changed to Unconfirmed booking
+19333917;2025-08-18;log, proc;subtype has been changed to Payment discrepancy, email to Reconciliation has been added
+19334703;2025-08-12;log, proc;source has been changed to Hotel service, dispute wasn't activated
+19336048;2025-08-28;1;
+19338548;2025-08-25;1;
+19338799;2025-08-30;1;
+19338839;2025-08-25;1;
+19338845;2025-08-15;1;
+19340351;2025-08-15;1;
+19341494;2025-08-25;1;
+19341576;2025-08-13;1;
+19342146;2025-08-12;1;
+19342760;2025-08-18;1;
+19344697;2025-09-09;1;
+19344713;2025-09-08;1;
+19345340;2025-08-13;1;
+19345575;2025-08-16;1;
+19346678;2025-08-21;1;
+19347230;2025-09-09;1;
+19347659;2025-08-12;Оунер;
+19347783;2025-08-13;1;
+19348554;2025-08-28;comp;compensation type has been changed to bank transfer
+19348760;2025-08-18;1;
+19348973;2025-09-09;1;
+19348981;2025-08-11;1;
+19349473;2025-08-20;1;
+19350224;2025-09-08;1;
+19352070;2025-08-22;1;
+19352146;2025-08-20;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool 
+19352670;2025-08-16;1;
+19353163;2025-08-29;1;
+19353319;2025-08-11;1;
+19353646;2025-08-17;1;
+19353966;2025-08-13;1;
+19355279;2025-08-13;comp;compensation type has been changed to bank transfer
+19355310;2025-09-07;1;
+19355326;2025-09-10;1;
+19356764;2025-08-16;1;
+19357153;2025-08-28;1;
+19358903;2025-08-23;1;
+19359076;2025-09-12;proc;need dispute (owner has been informed)
+19359604;2025-08-24;1;
+19360260;2025-08-21;1;
+19360339;2025-09-09;log;source has been changed to Partner
+19360344;2025-09-09;log;source has been changed to Partner
+19361897;2025-08-21;1;
+19361940;2025-09-02;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19362757;2025-09-02;1;
+19364744;2025-08-11;1;
+19364767;2025-08-21;log;source has been changed to Workflow
+19365893;2025-08-11;1;
+19366268;2025-08-20;1;
+19366773;2025-08-23;1;
+19366865;2025-08-16;1;
+19367141;2025-08-13;1;
+19367930;2025-08-12;1;
+19367931;2025-09-12;1;
+19368045;2025-09-12;1;
+19368131;2025-08-12;1;
+19368560;2025-08-13;1;
+19369039;2025-08-12;1;
+19369042;2025-08-29;log;cause has been changed to No response/Not found
+19369760;2025-08-21;log;subtype has been changed to Payment discrepancy
+19369913;2025-08-13;1;
+19370376;2025-08-11;log;subtype has been changed to Unconfirmed booking
+19370447;2025-08-12;log;subtype has been changed to Unconfirmed booking
+19370467;2025-08-11;log;subtype has been changed to Unconfirmed booking
+19370521;2025-08-13;log, comp;source has been changed to Supply, missed compensation has been added
+19370740;2025-08-20;1;
+19371352;2025-08-25;1;
+19371510;2025-09-12;comp;compensation amount was changed from AB to AS
+19371604;2025-08-18;log, comp, proc;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19372656;2025-08-15;1;
+19372681;2025-08-12;log;subtype has been changed to Unconfirmed booking
+19372693;2025-08-13;log;subtype has been changed to Unconfirmed booking
+19372720;2025-08-13;log, proc;subtype has been changed to Unconfirmed booking, dispute wasn't activated
+19373397;2025-08-18;1;
+19373532;2025-08-16;1;
+19374174;2025-08-13;1;
+19374916;2025-09-02;1;
+19375971;2025-09-06;1;
+19376238;2025-08-13;comp, proc;compensation type has been changed to bank transfer, email to Reconciliation has been added
+19377002;2025-08-15;1;
+19377281;2025-09-06;1;
+19378464;2025-09-12;1;
+19378488;2025-09-01;1;
+19379216;2025-09-11;proc;need to change price by Order reconciliation amendment tool 
+19379279;2025-08-20;1;
+19379332;2025-08-31;1;
+19380766;2025-08-15;1;
+19381155;2025-09-04;1;
+19382797;2025-08-22;comp;missed compensation has been added
+19382809;2025-08-22;comp;compensation was split
+19382897;2025-08-22;log;subtype has been changed to Room/Hotel service discrepancy
+19383026;2025-08-18;1;
+19383985;2025-08-14;1;
+19385192;2025-08-20;1;
+19385730;2025-08-26;1;
+19387301;2025-08-17;1;
+19387303;2025-08-11;1;
+19387695;2025-08-13;1;
+19388141;2025-08-23;1;
+19389755;2025-08-25;log;cause has been changed to Maintenance work
+19390669;2025-08-28;1;
+19391192;2025-08-21;1;
+19391710;2025-08-13;1;
+19391891;2025-08-19;1;
+19392963;2025-09-02;log, comp;subtype has been changed toPayment discrepancy, extra compensation has been deleted
+19393785;2025-08-24;log;subtype has been changed to Room/Hotel service discrepancy
+19394029;2025-08-31;1;
+19394555;2025-08-24;proc;dispute wasn't activated
+19395117;2025-08-27;1;
+19396008;2025-08-12;log;subtype has been changed to Overbooking
+19396026;2025-08-20;log;subtype has been changed to Room/Hotel service discrepancy
+19396155;2025-08-28;1;
+19396271;2025-08-15;1;
+19396298;2025-08-15;comp;compensation amount was changed from AB to AS
+19396917;2025-08-26;log, comp;subtype has been changed to Category discrepancy, missed compensation has been added
+19397488;2025-08-23;1;
+19398042;2025-08-13;1;
+19399790;2025-09-09;1;
+19400038;2025-08-18;1;
+19400969;2025-08-21;1;
+19401597;2025-08-11;1;
+19402848;2025-08-24;1;
+19402916;2025-08-11;1;
+19403045;2025-08-16;1;
+19404628;2025-09-03;log;subtype has been changed to Room/Hotel service discrepancy
+19405060;2025-08-18;1;
+19405454;2025-08-11;1;
+19406097;2025-08-19;comp;no business decision mark
+19406104;2025-08-19;comp;no business decision mark
+19407027;2025-08-27;log;subtype has been changed to Room/Hotel service discrepancy
+19407157;2025-08-18;1;
+19409184;2025-09-01;1;
+19409205;2025-08-24;1;
+19412106;2025-08-23;1;
+19412247;2025-08-22;1;
+19412338;2025-08-21;proc;need dispute (owner has been informed)
+19413336;2025-08-14;1;
+19413607;2025-08-12;1;
+19414067;2025-08-23;proc;need to change price by Order reconciliation amendment tool 
+19414563;2025-08-15;comp;compensation was split
+19415075;2025-08-25;1;
+19415088;2025-08-24;1;
+19415890;2025-08-27;1;
+19416390;2025-08-16;1;
+19416437;2025-09-13;1;
+19417700;2025-08-17;1;
+19418963;2025-08-13;1;
+19421042;2025-08-13;1;
+19421264;2025-08-20;1;
+19421291;2025-08-20;1;
+19421292;2025-08-20;1;
+19421293;2025-08-20;1;
+19421397;2025-08-28;1;
+19423238;2025-08-12;1;
+19423940;2025-09-09;1;
+19424308;2025-09-04;1;
+19424615;2025-08-20;1;
+19424999;2025-08-12;1;
+19425594;2025-09-03;1;
+19425886;2025-08-11;comp;compensation type has been changed to bank transfer
+19427547;2025-08-24;Нуежн ММ;
+19428304;2025-08-11;log;subtype has been changed to Payment discrepancy
+19428343;2025-08-13;1;
+19429570;2025-08-15;1;
+19430927;2025-08-11;1;
+19431179;2025-09-02;comp;compensation type has been changed to bank transfer
+19431445;2025-08-12;1;
+19434122;2025-08-28;log;subtype has been changed to Overbooking
+19434273;2025-08-12;1;
+19434750;2025-08-13;1;
+19435160;2025-08-12;1;
+19435165;2025-08-24;1;
+19435650;2025-08-13;1;
+19435840;2025-09-12;log;subtype has been changed to Payment discrepancy
+19435975;2025-08-28;1;
+19436195;2025-08-13;log;subtype has been changed to Meal discrepancy
+19436593;2025-08-13;1;
+19437105;2025-09-14;log;subtype has been changed to Payment discrepancy
+19438154;2025-08-13;1;
+19438220;2025-09-08;log;source has been changed to Supply
+19438413;2025-08-11;1;
+19439272;2025-08-27;1;
+19439876;2025-08-12;log;subtype has been changed to Bedding discrepancy
+19440201;2025-08-29;1;
+19441735;2025-08-13;1;
+19442081;2025-08-15;1;
+19442577;2025-09-10;log;cause has been changed to Hotel permanently closed
+19442600;2025-08-21;log;subtype has been changed to Unconfirmed booking
+19442756;2025-08-13;1;
+19442757;2025-08-20;proc;need to change price by Order reconciliation amendment tool correctly
+19442931;2025-08-20;1;
+19443306;2025-08-28;log;subtype has been changed to Category discrepancy
+19443531;2025-08-20;1;
+19444718;2025-08-14;1;
+19445113;2025-08-24;proc;email to Reconciliation has been added
+19445396;2025-09-12;1;
+19445798;2025-09-07;1;
+19445895;2025-08-18;log;subtype has been changed to Room/Hotel service discrepancy
+19446833;2025-09-03;log;subtype has been changed to Bedding discrepancy
+19447093;2025-08-26;1;
+19447263;2025-08-22;comp;compensation amount was changed from AB to AS
+19447405;2025-08-28;1;
+19447417;2025-08-20;1;
+19447682;2025-08-12;1;
+19448830;2025-09-12;comp;compensation was split
+19449330;2025-09-09;1;
+19449377;2025-08-20;1;
+19450327;2025-08-27;1;
+19451512;2025-08-30;1;
+19451666;2025-08-11;log;cause has been changed to Hotel-TPP process problem
+19452099;2025-08-31;comp;currency of compensation has been changed
+19452225;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+19452311;2025-08-26;1;
+19452456;2025-08-27;log;subtype has been changed to Bedding discrepancy
+19452665;2025-09-03;1;
+19453005;2025-08-16;log;cause has been changed to Room description
+19453195;2025-09-03;comp;missed compensation has been added
+19453900;2025-08-15;1;
+19453949;2025-08-20;1;
+19454939;2025-09-12;1;
+19455021;2025-08-13;1;
+19455168;2025-08-13;1;
+19455348;2025-08-15;1;
+19455380;2025-08-13;1;
+19455424;2025-08-20;1;
+19455746;2025-08-17;1;
+19456157;2025-08-11;1;
+19456531;2025-09-01;1;
+19456700;2025-08-11;1;
+19456747;2025-08-23;1;
+19456758;2025-08-28;1;
+19457208;2025-08-13;1;
+19458194;2025-08-17;1;
+19458381;2025-08-28;1;
+19458389;2025-08-28;1;
+19458398;2025-08-24;1;
+19459964;2025-08-15;1;
+19460061;2025-08-15;log;subtype has been changed to Room/Hotel service discrepancy
+19460382;2025-08-13;Димас;
+19460620;2025-08-15;log;subtype has been changed to Hotel unavailable
+19460887;2025-08-15;1;
+19460918;2025-08-29;1;
+19460997;2025-08-12;1;
+19461084;2025-08-23;1;
+19461133;2025-08-13;log;subtype has been changed to Unconfirmed booking
+19461203;2025-08-24;1;
+19462433;2025-09-01;log;source has been changed to Hotel service
+19462685;2025-08-11;1;
+19462701;2025-09-05;1;
+19463957;2025-08-12;log, comp;source has been changed to TPP, missed compensation has been added
+19464295;2025-08-18;1;
+19465163;2025-09-10;log;subtype has been changed to Hotel unavailable
+19465170;2025-09-06;1;
+19465318;2025-08-19;1;
+19465773;2025-08-15;1;
+19466971;2025-08-29;1;
+19467249;2025-09-12;comp;compensation was split
+19467865;2025-09-07;1;
+19468000;2025-08-24;1;
+19468743;2025-08-31;1;
+19469003;2025-08-17;1;
+19469091;2025-08-21;1;
+19469270;2025-08-23;1;
+19469579;2025-08-11;1;
+19469739;2025-08-15;1;
+19470270;2025-08-19;log, comp;source has been changed to Content, compensation type has been changed to bank transfer
+19470383;2025-08-21;1;
+19471264;2025-08-17;1;
+19471314;2025-08-18;1;
+19471464;2025-08-13;comp;currency of compensation has been changed
+19471767;2025-08-19;log;subtype has been changed to Payment discrepancy
+19471781;2025-08-11;log;source has been changed to Hotel service
+19471931;2025-08-13;log;source has been changed to Hotel service
+19472003;2025-08-29;comp;missed compensation has been added
+19472105;2025-08-19;1;
+19473036;2025-08-14;1;
+19473690;2025-09-03;comp;missed compensation has been added
+19473831;2025-08-15;1;
+19474274;2025-08-15;1;
+19474885;2025-09-05;1;
+19475019;2025-08-11;1;
+19475020;2025-08-18;log;subtype has been changed to Category discrepancy
+19475168;2025-08-15;1;
+19475712;2025-08-13;1;
+19475849;2025-08-14;log;subtype has been changed to Category discrepancy
+19476006;2025-08-13;Оунер;
+19476233;2025-08-21;1;
+19476406;2025-08-29;log;subtype has been changed to Payment discrepancy
+19476411;2025-08-15;1;
+19476650;2025-08-14;1;
+19476750;2025-09-09;1;
+19477508;2025-09-06;1;
+19478014;2025-09-11;1;
+19478015;2025-09-11;1;
+19478680;2025-08-11;1;
+19478762;2025-09-13;1;
+19478780;2025-08-12;log, comp, proc;subtype has been changed to Unconfirmed booking, missed compensation has been added, email to Reconciliation has been added
+19478974;2025-09-03;1;
+19479003;2025-08-24;1;
+19479348;2025-08-24;1;
+19479870;2025-08-11;1;
+19479990;2025-08-12;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19480069;2025-08-13;1;
+19480232;2025-08-12;1;
+19480298;2025-08-24;1;
+19480513;2025-09-01;1;
+19480765;2025-08-21;1;
+19481028;2025-08-11;1;
+19481190;2025-08-11;log;source has been changed to Supply
+19481209;2025-08-14;1;
+19481551;2025-08-11;1;
+19482364;2025-09-12;1;
+19482736;2025-08-25;1;
+19482770;2025-08-17;log;subtype has been changed to Room/Hotel service discrepancy
+19482905;2025-08-13;1;
+19483406;2025-09-12;1;
+19483416;2025-09-12;1;
+19483718;2025-08-15;1;
+19484149;2025-08-12;log;subtype has been changed to Room/Hotel service discrepancy
+19484157;2025-08-15;log;subtype has been changed to Hotel unavailable
+19484309;2025-08-11;Диспут после выезда;
+19484750;2025-08-16;1;
+19484808;2025-08-20;1;
+19485001;2025-08-11;1;
+19485276;2025-08-19;1;
+19485437;2025-09-03;1;
+19485460;2025-08-13;log;cause has been changed to Hotel permanently closed
+19485461;2025-08-19;1;
+19485467;2025-08-21;log;source has been changed to Workflow
+19485482;2025-08-12;1;
+19485730;2025-09-04;1;
+19485747;2025-08-14;1;
+19485753;2025-08-14;1;
+19485889;2025-08-15;1;
+19486242;2025-08-20;1;
+19486330;2025-08-12;1;
+19486333;2025-08-12;1;
+19486676;2025-08-16;1;
+19486986;2025-08-13;1;
+19487362;2025-08-29;comp;compensation amount was changed from AB to AS
+19487514;2025-08-13;1;
+19487563;2025-08-28;comp;extra compensation has been deleted
+19487867;2025-08-17;1;
+19488337;2025-08-16;1;
+19489037;2025-08-11;1;
+19489209;2025-08-15;1;
+19489369;2025-08-14;1;
+19489589;2025-08-27;log;source has been changed to Hotel service
+19489794;2025-08-17;1;
+19490196;2025-08-11;1;
+19490584;2025-08-12;log;subtype has been changed to Overbooking
+19490617;2025-08-15;log, proc;subtype has been changed to Category discrepancy, need to change price by Order reconciliation amendment tool 
+19490836;2025-08-14;log;subtype has been changed to Room/Hotel service discrepancy
+19491073;2025-08-14;comp;currency of compensation has been changed
+19491375;2025-08-14;1;
+19492277;2025-08-20;1;
+19492388;2025-09-10;1;
+19492507;2025-08-31;1;
+19492666;2025-08-11;1;
+19493145;2025-08-11;log, comp;source has been changed to Hotel (Extr), compensation amount was changed from AB to AS
+19493188;2025-08-22;1;
+19493287;2025-08-13;log;subtype has been changed to Room/Hotel service discrepancy
+19493535;2025-08-19;1;
+19493616;2025-08-19;1;
+19494278;2025-08-19;1;
+19494358;2025-08-14;log;subtype has been changed to Payment discrepancy
+19495850;2025-08-11;1;
+19496299;2025-08-15;1;
+19496503;2025-08-27;1;
+19496532;2025-08-13;1;
+19496551;2025-09-09;1;
+19496651;2025-08-15;1;
+19496657;2025-08-18;1;
+19496736;2025-08-12;1;
+19496767;2025-09-07;1;
+19496789;2025-09-02;1;
+19496797;2025-09-03;1;
+19496807;2025-08-15;1;
+19496810;2025-08-12;1;
+19496817;2025-09-07;comp;compensation was split
+19496827;2025-08-30;1;
+19497253;2025-08-12;1;
+19497338;2025-08-22;1;
+19497623;2025-08-13;1;
+19497827;2025-09-05;1;
+19497849;2025-08-16;log;cause has been changed to TPP room description
+19497881;2025-08-22;1;
+19498119;2025-08-15;proc;email to Reconciliation has been added
+19498485;2025-08-15;1;
+19498534;2025-08-17;1;
+19498798;2025-08-18;1;
+19499066;2025-09-01;1;
+19499527;2025-08-21;1;
+19500382;2025-09-10;1;
+19500598;2025-08-11;proc;need dispute (owner has been informed)
+19500850;2025-08-12;1;
+19501347;2025-08-16;log;subtype has been changed to Payment discrepancy
+19501837;2025-08-17;comp;missed compensation has been added
+19502031;2025-08-15;1;
+19502534;2025-08-22;1;
+19502803;2025-08-18;log, comp, proc;source has been changed to TPP, missed compensation has been added, need dispute (owner has been informed)
+19502827;2025-08-29;1;
+19502894;2025-08-12;1;
+19503480;2025-08-13;proc;dispute wasn't activated
+19503542;2025-08-20;log;cause has been changed to TPP room description
+19503874;2025-08-11;1;
+19504007;2025-09-03;1;
+19504289;2025-08-11;comp;missed compensation has been added
+19504954;2025-08-15;log, comp;subtype has been changed to Payment discrepancy, compensation amount was changed from AS to AB
+19505161;2025-08-16;1;
+19505318;2025-08-23;log;subtype has been changed to Room/Hotel service discrepancy
+19505572;2025-08-15;log;source has been changed to TPP
+19506326;2025-08-11;proc;email to Reconciliation has been added
+19506552;2025-08-13;1;
+19506579;2025-08-12;1;
+19506592;2025-08-11;log;subtype has been changed to Room/Hotel service discrepancy
+19506633;2025-08-19;comp;missed compensation has been added
+19506923;2025-08-24;1;
+19507056;2025-08-11;log;subtype has been changed to Bedding discrepancy
+19507686;2025-08-16;1;
+19507908;2025-08-18;1;
+19508444;2025-08-11;1;
+19508952;2025-08-11;1;
+19509156;2025-08-14;1;
+19510086;2025-08-11;1;
+19510293;2025-08-11;log;subtype has been changed to Room/Hotel service discrepancy
+19510330;2025-08-14;1;
+19510582;2025-09-14;1;
+19511021;2025-09-08;comp;compensation was split
+19511158;2025-08-16;log;subtype has been changed to Unconfirmed booking
+19511281;2025-08-31;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool correctly
+19511529;2025-08-17;proc;dispute wasn't activated
+19511568;2025-08-14;log, proc;cause has been changed to Hotel-TPP process problem, dispute wasn't activated
+19511579;2025-08-13;log, comp, proc;source has been changed to Hotel service, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19511623;2025-08-14;1;
+19512040;2025-08-17;1;
+19512226;2025-08-19;1;
+19512572;2025-08-14;1;
+19512581;2025-08-26;log;cause has been changed to Hotel-TPP process problem
+19512641;2025-09-12;1;
+19513059;2025-08-29;1;
+19513106;2025-08-12;log;source has been changed to Hotel service
+19513153;2025-08-26;1;
+19513194;2025-08-11;1;
+19513865;2025-08-18;comp;missed compensation has been added
+19513975;2025-08-11;1;
+19514311;2025-08-12;1;
+19514499;2025-08-21;log, proc;subtype has been changed to Payment discrepancy, need to change price by Order reconciliation amendment tool 
+19514601;2025-08-12;1;
+19514976;2025-08-23;1;
+19515232;2025-08-14;1;
+19515713;2025-08-23;proc;need dispute (owner has been informed)
+19515839;2025-08-13;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19516114;2025-08-24;1;
+19516199;2025-08-25;log;source has been changed to Content
+19516203;2025-08-20;1;
+19516287;2025-08-22;1;
+19516364;2025-08-12;1;
+19517352;2025-08-14;proc;dispute wasn't activated
+19517491;2025-08-25;1;
+19517513;2025-09-14;1;
+19517794;2025-08-15;1;
+19517884;2025-08-11;1;
+19517885;2025-08-14;1;
+19518046;2025-08-14;1;
+19518325;2025-08-13;1;
+19518694;2025-08-26;1;
+19518704;2025-09-05;log;subtype has been changed to Payment discrepancy
+19518979;2025-08-17;proc;dispute wasn't activated
+19519076;2025-08-16;log;subtype has been changed to Unconfirmed booking
+19519287;2025-08-12;1;
+19519302;2025-08-18;1;
+19519411;2025-08-26;1;
+19519642;2025-08-11;proc;email to Reconciliation has been added
+19519671;2025-08-12;1;
+19519699;2025-09-06;1;
+19519805;2025-08-11;1;
+19519817;2025-08-11;log;source has been changed to Content
+19520007;2025-08-31;1;
+19520206;2025-08-16;1;
+19520422;2025-08-13;log;source has been changed to Supply
+19520671;2025-08-14;1;
+19521078;2025-08-21;1;
+19521091;2025-08-13;1;
+19521196;2025-08-16;1;
+19521235;2025-08-16;1;
+19521398;2025-08-20;1;
+19521589;2025-08-17;1;
+19521875;2025-08-26;1;
+19521899;2025-08-16;log;cause has been changed to Booking not found
+19521983;2025-08-12;log;subtype has been changed to Room/Hotel service discrepancy
+19522309;2025-08-12;1;
+19522453;2025-08-12;1;
+19522695;2025-08-29;1;
+19522723;2025-08-13;proc;email to Reconciliation has been added
+19522754;2025-08-29;1;
+19522843;2025-08-14;1;
+19522915;2025-08-25;proc;need dispute (owner has been informed)
+19522943;2025-08-11;log;subtype has been changed to Payment discrepancy
+19523536;2025-08-28;log;source has been changed to Content
+19523679;2025-08-22;1;
+19523710;2025-08-14;1;
+19523837;2025-08-12;1;
+19523891;2025-08-13;1;
+19523952;2025-08-17;1;
+19524789;2025-08-11;log, comp;subtype has been changed to Hotel unavailable, compensation amount has been changed
+19525258;2025-08-11;1;
+19525426;2025-08-11;1;
+19525489;2025-08-11;1;
+19525518;2025-08-11;proc;need to change price by Order reconciliation amendment tool 
+19525722;2025-09-12;1;
+19525924;2025-08-26;1;
+19526003;2025-09-11;1;
+19526115;2025-08-11;1;
+19526299;2025-08-12;1;
+19526387;2025-08-14;1;
+19526473;2025-08-16;1;
+19526579;2025-08-17;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19526910;2025-08-12;1;
+19527032;2025-08-26;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19527269;2025-09-10;log;subtype has been changed to Payment discrepancy
+19528701;2025-08-11;proc;need dispute (owner has been informed)
+19528706;2025-08-11;1;
+19528708;2025-08-11;proc;need dispute (owner has been informed)
+19528709;2025-08-11;proc;need dispute (owner has been informed)
+19528918;2025-08-15;proc;need dispute (owner has been informed)
+19528987;2025-09-09;1;
+19529267;2025-08-12;log, comp;source has been changed to Hotel service, compensation amount was changed from AB to AS
+19529382;2025-08-17;1;
+19530189;2025-08-12;comp;compensation amount was changed from AB to AS
+19530375;2025-08-18;1;
+19530482;2025-08-17;1;
+19530687;2025-08-12;1;
+19530702;2025-08-14;proc;email to Reconciliation has been added
+19530734;2025-08-15;1;
+19530926;2025-08-13;1;
+19531046;2025-08-11;1;
+19531124;2025-08-16;log;subtype has been changed to Payment discrepancy
+19532104;2025-08-11;1;
+19532131;2025-08-20;log;source has been changed to Content
+19532387;2025-08-12;1;
+19532740;2025-08-11;log;subtype has been changed to Bedding discrepancy
+19533024;2025-08-16;log;cause has been changed to Technical reasons
+19533038;2025-08-11;1;
+19533167;2025-09-10;1;
+19533172;2025-08-20;1;
+19533210;2025-09-07;1;
+19533561;2025-08-14;1;
+19533584;2025-08-21;1;
+19533594;2025-08-16;1;
+19533645;2025-08-14;1;
+19533753;2025-08-11;1;
+19534043;2025-08-28;log;source has been changed to Hotel service
+19534596;2025-08-14;1;
+19535111;2025-09-02;1;
+19535291;2025-08-13;log;subtype has been changed to Bedding discrepancy
+19535528;2025-08-28;1;
+19535869;2025-09-07;1;
+19536088;2025-08-23;proc;need dispute (owner has been informed)
+19536094;2025-08-19;1;
+19536299;2025-08-19;1;
+19536308;2025-08-11;1;
+19536353;2025-08-13;1;
+19536523;2025-08-20;1;
+19536681;2025-08-14;1;
+19537599;2025-08-14;1;
+19537662;2025-08-31;log;source has been changed to Hotel service
+19537721;2025-08-20;log, comp;subtype has been changed to Overbooking, extra compensation has been deleted
+19537769;2025-08-29;1;
+19537959;2025-08-11;log;subtype has been changed to Hotel unavailable
+19537983;2025-08-11;log, comp, proc;source has been changed to Hotel service, missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19538045;2025-09-14;1;
+19538255;2025-08-25;1;
+19538271;2025-08-11;1;
+19539240;2025-08-28;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19539280;2025-08-13;comp;missed compensation has been added
+19539286;2025-08-12;log;subtype has been changed to Category discrepancy
+19539430;2025-08-31;1;
+19539647;2025-08-17;1;
+19539744;2025-08-14;log;subtype has been changed to Overbooking
+19539876;2025-08-11;1;
+19539983;2025-08-14;1;
+19540079;2025-08-28;proc;need to change price by Order reconciliation amendment tool 
+19540212;2025-08-11;1;
+19540317;2025-08-11;proc;need to change price by Order reconciliation amendment tool 
+19540335;2025-08-11;comp;compensation amount has been changed
+19540730;2025-08-19;1;
+19540775;2025-08-13;1;
+19541117;2025-08-11;1;
+19541327;2025-08-17;1;
+19541740;2025-08-16;1;
+19541914;2025-09-08;1;
+19542167;2025-08-11;log;subtype has been changed to Room/Hotel service discrepancy
+19542259;2025-08-11;1;
+19542301;2025-08-23;1;
+19542330;2025-09-11;log;source has been changed to Hotel (Extr)
+19542332;2025-08-12;1;
+19542359;2025-08-13;log;source has been changed to Hotel service
+19542365;2025-08-15;1;
+19542450;2025-08-15;1;
+19542749;2025-08-11;1;
+19542750;2025-08-11;1;
+19542844;2025-08-11;1;
+19543091;2025-08-13;1;
+19543129;2025-08-11;1;
+19543131;2025-09-02;log;cause has been changed to oom size
+19543297;2025-08-30;1;
+19543341;2025-08-16;1;
+19543414;2025-08-11;1;
+19543569;2025-09-04;1;
+19543697;2025-08-12;comp;extra compensation has been deleted
+19544190;2025-08-22;1;
+19544374;2025-08-13;1;
+19544586;2025-08-12;1;
+19544756;2025-08-20;1;
+19544909;2025-08-16;1;
+19545163;2025-08-11;Димас;
+19545199;2025-08-11;1;
+19545268;2025-08-12;1;
+19545577;2025-09-01;1;
+19545836;2025-08-15;1;
+19546224;2025-08-11;comp, proc;compensation amount has been changed, need to change price by Order reconciliation amendment tool 
+19546579;2025-08-20;log;subtype has been changed to Payment discrepancy
+19546589;2025-08-11;1;
+19546725;2025-08-21;1;
+19546738;2025-08-11;1;
+19546882;2025-08-11;log;cause has been changed to Hotel-TPP process problem
+19546946;2025-08-27;1;
+19547119;2025-08-17;1;
+19547406;2025-08-15;1;
+19547436;2025-08-11;1;
+19547526;2025-08-12;log;subtype has been changed to Payment discrepancy
+19547690;2025-08-11;1;
+19548296;2025-08-11;1;
+19548439;2025-08-17;1;
+19548499;2025-08-11;1;
+19548693;2025-08-14;1;
+19548758;2025-08-11;1;
+19548819;2025-08-20;comp;compensation amount was changed from AB to AS
+19548836;2025-08-11;1;
+19548888;2025-08-14;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19548949;2025-08-11;log;subtype has been changed to Hotel unavailable
+19549395;2025-08-15;1;
+19549446;2025-08-12;1;
+19549464;2025-08-28;1;
+19549767;2025-08-24;comp;extra compensation has been deleted
+19549847;2025-08-13;1;
+19549909;2025-08-19;1;
+19550151;2025-08-11;1;
+19550185;2025-08-15;1;
+19550272;2025-08-11;1;
+19550384;2025-08-24;comp;compensation amount has been changed
+19551049;2025-09-11;1;
+19551420;2025-08-12;1;
+19551492;2025-08-16;1;
+19551641;2025-09-11;1;
+19551653;2025-08-21;1;
+19551725;2025-08-12;1;
+19552105;2025-08-11;1;
+19552111;2025-08-15;1;
+19552221;2025-08-20;1;
+19552309;2025-08-11;1;
+19552373;2025-08-11;log;cause has been changed to Availability
+19552418;2025-08-12;1;
+19552591;2025-08-20;1;
+19552737;2025-08-11;log;source has been changed to Hotel service
+19552773;2025-08-13;1;
+19552792;2025-08-12;1;
+19552833;2025-08-12;1;
+19552834;2025-08-11;log;source has been changed to Hotel service
+19552940;2025-08-24;1;
+19553420;2025-08-11;log;source has been changed to Hotel service
+19553735;2025-08-12;log;cause has been changed to Wrong rates in EXT
+19553782;2025-08-14;log;subtype has been changed to Payment discrepancy
+19554590;2025-09-04;1;
+19554666;2025-08-13;1;
+19554805;2025-08-11;1;
+19554849;2025-08-13;1;
+19554912;2025-08-12;1;
+19554915;2025-08-23;1;
+19554979;2025-08-29;comp, proc;compensation was split, need to change price by Order reconciliation amendment tool correctly
+19554988;2025-08-11;1;
+19555192;2025-08-11;1;
+19555277;2025-08-11;1;
+19555359;2025-08-11;1;
+19555374;2025-08-14;comp;compensation amount was changed from AB to AS
+19555857;2025-08-12;1;
+19555913;2025-08-24;1;
+19555993;2025-08-26;log;cause has been changed to TPP hotel description
+19555998;2025-09-02;1;
+19556003;2025-08-12;log, proc;source has been changed to Hotel service, dispute wasn't activated
+19556129;2025-08-12;1;
+19556191;2025-08-14;1;
+19556247;2025-09-05;1;
+19556447;2025-08-22;1;
+19556526;2025-08-15;1;
+19556533;2025-08-11;1;
+19556654;2025-08-12;log;subtype has been changed to Hotel unavailable
+19556877;2025-08-18;1;
+19557005;2025-08-27;1;
+19557117;2025-08-30;1;
+19557183;2025-08-16;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19557457;2025-08-12;1;
+19557520;2025-08-11;1;
+19557674;2025-08-14;1;
+19557691;2025-08-18;1;
+19558032;2025-08-29;1;
+19558100;2025-08-12;1;
+19558235;2025-08-16;log;cause has been changed to Booking not found
+19558239;2025-08-15;1;
+19558621;2025-09-02;1;
+19558656;2025-08-12;1;
+19558971;2025-08-17;proc;dispute wasn't activated
+19558988;2025-08-11;1;
+19559095;2025-08-28;log, comp;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS
+19559109;2025-08-25;1;
+19559250;2025-08-13;1;
+19559320;2025-08-24;1;
+19559442;2025-08-11;1;
+19559482;2025-08-11;1;
+19559680;2025-08-16;1;
+19560040;2025-08-16;1;
+19560287;2025-08-12;log, comp;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS
+19560437;2025-08-12;1;
+19560531;2025-08-11;1;
+19560884;2025-08-14;1;
+19560928;2025-09-03;1;
+19561189;2025-08-12;comp;compensation amount was changed from AB to AS
+19561208;2025-08-15;1;
+19561500;2025-08-14;comp;extra compensation has been deleted
+19561565;2025-08-22;1;
+19561575;2025-09-10;1;
+19561695;2025-08-15;1;
+19561746;2025-08-12;1;
+19561758;2025-08-14;1;
+19561779;2025-09-08;1;
+19561976;2025-08-11;1;
+19562152;2025-08-13;1;
+19562223;2025-08-13;1;
+19562310;2025-08-13;1;
+19562311;2025-08-11;1;
+19562553;2025-08-17;log;source has been changed to TPP
+19562599;2025-08-22;1;
+19562729;2025-08-11;1;
+19562748;2025-08-15;1;
+19562852;2025-08-23;1;
+19562906;2025-08-14;1;
+19562932;2025-08-19;1;
+19563020;2025-08-14;1;
+19563030;2025-08-12;1;
+19563062;2025-08-13;1;
+19563129;2025-08-12;1;
+19563138;2025-08-12;1;
+19563143;2025-08-12;1;
+19563268;2025-08-28;1;
+19563288;2025-08-21;log;subtype has been changed to Payment discrepancy
+19563320;2025-08-16;1;
+19563321;2025-08-24;log;cause has been changed to Hotel-TPP process problem
+19563480;2025-09-09;1;
+19563594;2025-08-13;1;
+19563670;2025-08-27;1;
+19563765;2025-08-23;1;
+19563857;2025-08-26;1;
+19563894;2025-08-14;comp;compensation amount was changed from AB to AS
+19563948;2025-08-24;1;
+19563969;2025-08-15;log;cause has been changed to Hotel-TPP process problem
+19564312;2025-08-15;comp;compensation amount was changed from AB to AS
+19564339;2025-08-12;1;
+19564563;2025-08-13;1;
+19564978;2025-08-12;log;cause has been changed to Hotel-TPP process problem
+19565227;2025-08-12;1;
+19565520;2025-08-12;1;
+19565849;2025-08-25;1;
+19566108;2025-08-31;1;
+19566310;2025-08-16;1;
+19566702;2025-08-12;1;
+19566720;2025-08-17;1;
+19566866;2025-08-15;1;
+19566955;2025-08-15;log;source has been changed to Content
+19566961;2025-08-16;log;cause has been changed to Hotel-TPP process problem
+19567061;2025-08-12;1;
+19567253;2025-08-14;1;
+19567419;2025-08-13;comp;missed compensation has been added
+19567649;2025-08-21;1;
+19567808;2025-08-14;1;
+19567879;2025-08-25;proc;dispute wasn't activated
+19567947;2025-08-30;1;
+19567949;2025-08-13;Оунер;
+19567969;2025-08-12;1;
+19568090;2025-08-12;1;
+19568100;2025-08-29;1;
+19568274;2025-08-13;1;
+19568317;2025-08-12;1;
+19568575;2025-08-13;1;
+19568750;2025-08-12;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19568859;2025-08-12;log, proc;subtype has been changed to Hotel unavailable, email to Reconciliation has been added
+19568952;2025-08-12;1;
+19569323;2025-08-16;1;
+19569615;2025-08-15;log, comp, proc;source has been changed to TPP, missed compensation has been added, need dispute (owner has been informed)
+19569690;2025-08-19;log, proc;subtype has been changed to Payment discrepancy, email to Reconciliation has been added
+19570037;2025-08-12;log, comp, proc;subtype has been changed to Hotel unavailable, extra compensation has been deleted, email to Reconciliation has been added
+19570114;2025-08-15;log;subtype has been changed to Hotel unavailable
+19570191;2025-08-13;1;
+19570427;2025-08-17;1;
+19570875;2025-08-20;log;source has been changed to Guest
+19571262;2025-08-21;1;
+19571336;2025-08-12;1;
+19571718;2025-09-12;1;
+19571737;2025-08-23;1;
+19571792;2025-08-15;1;
+19571979;2025-08-13;comp;missed compensation has been added
+19572191;2025-08-15;1;
+19572272;2025-09-04;1;
+19572462;2025-08-13;1;
+19572506;2025-08-13;log;subtype has been changed to Hotel unavailable
+19572553;2025-09-13;proc;need dispute (owner has been informed)
+19572656;2025-08-19;1;
+19572782;2025-08-13;1;
+19573359;2025-08-16;1;
+19573572;2025-08-13;1;
+19573802;2025-08-12;1;
+19573836;2025-08-12;log, comp;subtype has been changed to Hotel unavailable, compensation amount was changed from AB to AS
+19573939;2025-08-15;1;
+19573986;2025-08-12;1;
+19574431;2025-08-12;1;
+19574551;2025-08-15;1;
+19574596;2025-08-12;1;
+19574621;2025-08-12;1;
+19574944;2025-08-19;1;
+19575149;2025-08-27;1;
+19575153;2025-08-16;1;
+19575161;2025-08-23;1;
+19575332;2025-08-31;log, proc;subtype has been changed to Unconfirmed booking, need to change price by Order reconciliation amendment tool 
+19575430;2025-08-29;log;cause has been changed to TPP room description
+19575746;2025-08-13;1;
+19575771;2025-08-20;1;
+19575893;2025-08-12;1;
+19575940;2025-08-12;1;
+19575987;2025-08-16;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19576077;2025-08-15;1;
+19576197;2025-08-13;1;
+19576242;2025-08-20;log;subtype has been changed to Payment discrepancy
+19576332;2025-08-12;1;
+19576334;2025-08-15;1;
+19576374;2025-08-19;1;
+19576475;2025-08-16;1;
+19576693;2025-08-12;1;
+19576828;2025-08-13;1;
+19576951;2025-08-13;1;
+19577034;2025-08-14;1;
+19577279;2025-08-12;1;
+19577504;2025-08-14;1;
+19577587;2025-08-12;1;
+19577957;2025-08-24;log;subtype has been changed to Hotel unavailable
+19578032;2025-08-14;1;
+19578104;2025-08-13;Оунер;
+19578436;2025-08-12;1;
+19578446;2025-08-12;1;
+19578702;2025-08-13;1;
+19578950;2025-08-12;1;
+19578998;2025-08-13;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19579113;2025-08-13;1;
+19579203;2025-08-13;1;
+19579242;2025-08-13;1;
+19579277;2025-08-20;1;
+19579310;2025-08-12;1;
+19579408;2025-08-15;1;
+19579450;2025-08-19;1;
+19579458;2025-08-14;log;cause has been changed to Booking not found
+19579518;2025-08-26;log Оунер;cause has been changed to Hotel-TPP process problem
+19579550;2025-08-13;1;
+19579581;2025-08-13;1;
+19579659;2025-08-12;1;
+19579830;2025-08-26;1;
+19579841;2025-08-13;1;
+19579849;2025-08-16;comp;compensation amount was changed from AB to AS
+19579856;2025-08-19;1;
+19579903;2025-08-19;1;
+19579924;2025-08-19;1;
+19579931;2025-08-18;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+19579947;2025-08-19;1;
+19579967;2025-08-19;1;
+19579996;2025-08-19;1;
+19580015;2025-08-18;1;
+19580461;2025-08-21;1;
+19580819;2025-08-16;comp;compensation amount was changed from AB to AS
+19580822;2025-08-13;comp;compensation amount was changed from AB to AS
+19581042;2025-08-13;1;
+19581343;2025-08-13;1;
+19581361;2025-08-12;1;
+19581387;2025-08-17;log;subtype has been changed to Bedding discrepancy
+19581549;2025-08-13;1;
+19581940;2025-08-16;1;
+19582167;2025-08-17;1;
+19582277;2025-08-22;comp;compensation amount was changed from AB to AS
+19582336;2025-08-13;1;
+19582351;2025-08-21;proc;need to change price by Order reconciliation amendment tool correctly
+19582413;2025-08-15;comp;compensation was split
+19582508;2025-08-13;1;
+19582518;2025-08-13;1;
+19582695;2025-08-12;1;
+19582704;2025-08-12;1;
+19582707;2025-08-13;1;
+19582818;2025-08-13;1;
+19582961;2025-08-28;1;
+19583085;2025-08-21;1;
+19583118;2025-09-02;1;
+19583327;2025-08-20;log, proc;cause has been changed to Hotel-TPP process problem, need to change price by Order reconciliation amendment tool 
+19583374;2025-08-13;1;
+19583441;2025-08-24;1;
+19583468;2025-08-14;comp;compensation amount was changed from AB to AS
+19583521;2025-09-01;log;subtype has been changed to Payment discrepancy
+19583569;2025-08-29;1;
+19583753;2025-08-15;log;subtype has been changed to Hotel unavailable
+19583759;2025-08-15;log;subtype has been changed to Hotel unavailable
+19583838;2025-08-14;1;
+19583841;2025-08-15;1;
+19583890;2025-08-24;1;
+19584018;2025-08-14;1;
+19584024;2025-08-13;1;
+19584066;2025-08-17;1;
+19584069;2025-08-12;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19584217;2025-08-15;1;
+19584238;2025-08-14;1;
+19584281;2025-08-13;comp;missed compensation has been added
+19584576;2025-08-21;1;
+19584755;2025-08-13;comp;missed compensation has been added
+19585083;2025-08-20;1;
+19585151;2025-08-18;1;
+19585183;2025-08-13;1;
+19585198;2025-08-20;1;
+19585351;2025-08-14;1;
+19585394;2025-08-13;1;
+19585511;2025-08-13;1;
+19585514;2025-08-13;1;
+19585543;2025-08-14;log;source has been changed to Hotel service
+19585565;2025-08-13;log;source has been changed to Product
+19585627;2025-08-18;1;
+19585879;2025-09-03;log;subtype has been changed to Payment discrepancy
+19585909;2025-08-13;1;
+19586132;2025-08-14;1;
+19586297;2025-08-13;1;
+19586385;2025-08-27;log;subtype has been changed to Payment discrepancy
+19586463;2025-08-24;comp;missed compensation has been added
+19586474;2025-08-20;1;
+19586731;2025-08-13;log, comp;subtype has been changed to Overbooking, compensation type has been changed
+19587070;2025-08-31;1;
+19587586;2025-08-15;1;
+19587833;2025-08-13;1;
+19587840;2025-08-13;1;
+19588043;2025-08-27;1;
+19588080;2025-08-15;1;
+19588230;2025-08-17;1;
+19588275;2025-08-13;1;
+19588794;2025-08-21;1;
+19588808;2025-08-21;1;
+19588813;2025-08-21;1;
+19589118;2025-08-30;1;
+19589134;2025-08-13;comp;compensation amount was changed from AB to AS
+19589410;2025-08-13;log;subtype has been changed to Payment discrepancy
+19589598;2025-08-19;1;
+19589643;2025-08-13;1;
+19589833;2025-08-15;1;
+19589835;2025-08-17;1;
+19589933;2025-08-14;comp;compensation amount was changed from AB to AS
+19590052;2025-08-15;1;
+19590207;2025-08-16;1;
+19590309;2025-08-13;1;
+19590312;2025-09-12;1;
+19590387;2025-08-14;1;
+19590577;2025-08-15;1;
+19590867;2025-08-13;1;
+19590939;2025-08-13;1;
+19591177;2025-08-13;1;
+19591220;2025-08-14;1;
+19591559;2025-08-15;1;
+19591684;2025-08-13;log;subtype has been changed to Room/Hotel service discrepancy
+19591937;2025-08-16;1;
+19592142;2025-08-15;1;
+19592272;2025-08-21;1;
+19592384;2025-08-13;1;
+19592501;2025-09-10;1;
+19592561;2025-08-15;1;
+19592726;2025-08-15;1;
+19592734;2025-08-30;log;cause has been changed to Hotel-TPP process problem
+19592758;2025-08-18;1;
+19592984;2025-08-25;1;
+19593117;2025-08-15;1;
+19593150;2025-08-15;1;
+19593488;2025-08-21;comp;compensation amount was changed from AB to AS
+19593640;2025-08-13;1;
+19593850;2025-09-02;proc;dispute wasn't activated
+19594144;2025-08-14;log;subtype has been changed to Hotel unavailable
+19594216;2025-08-13;1;
+19594358;2025-08-27;1;
+19594641;2025-08-15;1;
+19594903;2025-08-13;1;
+19595207;2025-08-13;1;
+19595217;2025-08-27;1;
+19595395;2025-08-29;1;
+19595401;2025-08-13;1;
+19595420;2025-08-17;proc;need to change price by Order reconciliation amendment tool 
+19595726;2025-08-14;1;
+19595769;2025-08-20;1;
+19596032;2025-08-13;1;
+19596171;2025-08-19;1;
+19596234;2025-08-13;1;
+19596240;2025-08-17;1;
+19596309;2025-08-13;1;
+19596498;2025-08-14;1;
+19596622;2025-08-20;1;
+19597077;2025-09-04;proc;dispute wasn't activated
+19597279;2025-08-17;log, comp, proc;subtype has been changed to Room/Hotel service discrepancy, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19597388;2025-08-15;1;
+19597558;2025-08-16;1;
+19597601;2025-08-13;1;
+19597657;2025-08-28;comp;compensation type has been changed
+19597682;2025-08-22;1;
+19597803;2025-08-21;1;
+19597900;2025-08-23;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19598036;2025-08-15;1;
+19598062;2025-08-17;1;
+19598173;2025-08-21;1;
+19598253;2025-08-17;1;
+19598516;2025-08-25;comp;missed compensation has been added
+19598637;2025-08-28;1;
+19598670;2025-08-17;log;subtype has been changed to Category discrepancy
+19598729;2025-08-16;1;
+19598887;2025-08-13;1;
+19598949;2025-08-16;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19599145;2025-08-15;1;
+19599146;2025-08-15;1;
+19599148;2025-08-15;1;
+19599361;2025-08-16;log;subtype has been changed to Payment discrepancy
+19599382;2025-08-15;1;
+19599596;2025-08-20;proc;dispute wasn't activated
+19599597;2025-08-15;log, proc;source has been changed to Hotel (Extr), email to Reconciliation has been added
+19599726;2025-08-20;1;
+19599961;2025-08-16;1;
+19599972;2025-08-27;1;
+19599989;2025-08-21;1;
+19600211;2025-08-23;comp;compensation amount was changed from AB to AS
+19600230;2025-08-16;1;
+19600242;2025-08-22;1;
+19600506;2025-09-13;1;
+19600868;2025-08-14;log, comp, proc;source has been changed to Hotel (Extr), missed compensation has been added, email to Reconciliation has been added
+19601146;2025-08-19;1;
+19601165;2025-08-14;log;subtype has been changed to Bedding discrepancy
+19601557;2025-08-16;1;
+19601712;2025-08-23;1;
+19601791;2025-08-13;1;
+19601823;2025-08-20;1;
+19601853;2025-08-13;1;
+19601952;2025-08-13;1;
+19601986;2025-08-18;1;
+19602001;2025-08-14;log;cause has been changed to Category misreading
+19602389;2025-08-17;1;
+19602749;2025-08-26;1;
+19602782;2025-08-13;1;
+19603021;2025-08-17;comp;missed compensation has been added
+19603184;2025-08-14;1;
+19603200;2025-09-03;1;
+19603252;2025-08-14;1;
+19603324;2025-08-13;1;
+19603502;2025-08-13;1;
+19603579;2025-08-13;1;
+19603631;2025-08-15;log, comp;subtype has been changed to Overbooking, currency of compensation has been changed
+19603757;2025-08-23;proc;email to Reconciliation has been added
+19603769;2025-08-23;1;
+19603780;2025-08-23;log;subtype has been changed to Room/Hotel service discrepancy
+19604032;2025-08-18;1;
+19604109;2025-08-17;1;
+19604111;2025-08-14;1;
+19604195;2025-08-17;1;
+19604217;2025-08-18;1;
+19604276;2025-09-02;comp;currency of compensation has been changed
+19604404;2025-08-14;1;
+19604483;2025-08-15;1;
+19604599;2025-08-13;1;
+19604655;2025-08-15;1;
+19604885;2025-08-14;1;
+19604942;2025-08-15;1;
+19605143;2025-09-13;1;
+19605172;2025-08-15;1;
+19605227;2025-08-24;proc;need dispute (owner has been informed)
+19605350;2025-09-02;1;
+19605545;2025-08-17;1;
+19605547;2025-08-14;proc;dispute wasn't activated
+19605796;2025-08-17;proc;dispute wasn't activated
+19606742;2025-08-15;1;
+19607203;2025-08-14;1;
+19607246;2025-08-28;1;
+19607320;2025-08-18;log;cause has been changed to TPP room description
+19607339;2025-08-17;1;
+19607486;2025-08-14;1;
+19607550;2025-08-24;proc;need dispute (owner has been informed)
+19607638;2025-08-14;1;
+19607764;2025-09-08;1;
+19608041;2025-08-25;1;
+19608124;2025-08-14;proc;need to change price by Order reconciliation amendment tool correctly
+19608269;2025-08-23;1;
+19608323;2025-08-14;1;
+19608333;2025-08-15;1;
+19608347;2025-08-15;log;cause has been changed to Hotel description
+19608359;2025-08-20;proc;email to Reconciliation has been added
+19608368;2025-08-14;1;
+19608757;2025-08-19;log, comp, proc;source has been changed to Supply, missed compensation has been added, email to Reconciliation has been added
+19608882;2025-08-14;1;
+19608916;2025-08-30;1;
+19608937;2025-08-20;1;
+19608938;2025-08-14;1;
+19608939;2025-08-15;1;
+19608960;2025-08-18;1;
+19608992;2025-08-15;1;
+19609013;2025-09-06;log;subtype has been changed to Hotel unavailable
+19609055;2025-09-09;log;subtype has been changed to Hotel unavailable
+19609061;2025-08-15;1;
+19609326;2025-08-25;1;
+19609633;2025-08-14;1;
+19609947;2025-08-22;1;
+19610044;2025-08-15;log;cause has been changed to Hotel-TPP process problem
+19610111;2025-08-14;log, comp;cause has been changed to No documents, compensation amount was changed from AB to AS
+19610163;2025-08-23;1;
+19610252;2025-08-14;1;
+19610358;2025-08-18;1;
+19610392;2025-08-20;1;
+19610596;2025-08-14;1;
+19610730;2025-08-16;1;
+19610830;2025-08-23;1;
+19610949;2025-08-14;1;
+19611165;2025-09-07;1;
+19611209;2025-08-24;1;
+19611217;2025-08-14;1;
+19611311;2025-08-14;1;
+19611367;2025-08-19;1;
+19611508;2025-08-14;1;
+19611650;2025-08-15;1;
+19611651;2025-08-15;1;
+19611712;2025-08-20;log;subtype has been changed to Overbooking
+19611738;2025-08-16;1;
+19611756;2025-08-19;log;subtype has been changed to Payment discrepancy
+19611855;2025-08-25;1;
+19611966;2025-08-15;1;
+19612120;2025-08-15;1;
+19612417;2025-08-15;1;
+19612494;2025-08-21;log;subtype has been changed to Overbooking
+19612696;2025-08-18;1;
+19612717;2025-08-23;log;subtype has been changed to Payment discrepancy
+19612816;2025-08-17;1;
+19612866;2025-08-30;proc;dispute wasn't activated
+19612946;2025-08-14;log;subtype has been changed to Unconfirmed booking
+19613011;2025-08-19;1;
+19613063;2025-08-14;1;
+19613243;2025-08-15;log;cause has been changed to TPP room description
+19613605;2025-08-16;1;
+19614094;2025-08-19;1;
+19614351;2025-08-28;log;cause has been changed to Hotel permanently closed
+19614575;2025-08-14;proc;dispute wasn't activated
+19614587;2025-08-14;1;
+19614920;2025-08-15;1;
+19615062;2025-08-18;1;
+19615303;2025-08-16;1;
+19615674;2025-08-14;log;subtype has been changed to Payment discrepancy
+19615943;2025-08-15;log;subtype has been changed to Room/Hotel service discrepancy
+19615988;2025-08-30;proc;need dispute (owner has been informed)
+19616245;2025-08-24;1;
+19616260;2025-08-15;1;
+19616262;2025-08-15;1;
+19616554;2025-08-14;log;subtype has been changed to Category discrepancy
+19616599;2025-08-27;log;cause has been changed to TPP mismatch
+19616615;2025-08-18;1;
+19616643;2025-08-21;1;
+19616697;2025-08-19;1;
+19616861;2025-08-18;proc;need dispute (owner has been informed)
+19617080;2025-08-23;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+19617089;2025-08-21;comp;missed compensation has been added
+19617204;2025-08-14;1;
+19617293;2025-08-26;1;
+19617372;2025-08-14;1;
+19617381;2025-08-14;1;
+19617428;2025-08-16;1;
+19617458;2025-08-19;1;
+19617640;2025-08-15;1;
+19617661;2025-09-09;1;
+19617734;2025-08-14;1;
+19617756;2025-08-23;1;
+19617818;2025-08-14;comp;missed compensation has been added
+19617909;2025-08-31;1;
+19617985;2025-08-30;1;
+19618301;2025-08-19;1;
+19618388;2025-08-15;1;
+19618445;2025-08-19;1;
+19618465;2025-08-14;log;cause has been changed to Technical reasons
+19618477;2025-08-15;1;
+19618614;2025-08-14;proc;need to change price by Order reconciliation amendment tool 
+19618648;2025-09-08;1;
+19618779;2025-09-06;log;subtype has been changed to Payment discrepancy
+19618844;2025-08-22;1;
+19618920;2025-08-19;1;
+19618964;2025-08-15;1;
+19618979;2025-08-15;1;
+19619071;2025-08-19;1;
+19619124;2025-08-17;1;
+19619140;2025-08-17;1;
+19619226;2025-09-02;1;
+19619229;2025-08-20;proc;need to change price by Order reconciliation amendment tool 
+19619247;2025-08-18;1;
+19619250;2025-08-15;log;source has been changed to Content
+19619712;2025-08-16;1;
+19619713;2025-08-15;1;
+19619913;2025-08-16;1;
+19619936;2025-08-20;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool correctly
+19620031;2025-08-14;comp;missed compensation has been added
+19620036;2025-08-24;1;
+19620129;2025-08-16;1;
+19620172;2025-08-14;1;
+19620252;2025-08-16;1;
+19620288;2025-08-23;1;
+19620426;2025-08-14;1;
+19620738;2025-09-09;1;
+19620806;2025-08-14;1;
+19620871;2025-08-20;1;
+19620972;2025-08-23;1;
+19621206;2025-08-15;log;subtype has been changed to Category discrepancy
+19621507;2025-08-16;1;
+19621531;2025-08-14;1;
+19621723;2025-08-16;1;
+19621750;2025-08-14;log;subtype has been changed to Category discrepancy
+19621777;2025-08-16;1;
+19621916;2025-08-14;1;
+19622008;2025-08-23;1;
+19622133;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+19622233;2025-08-15;1;
+19622266;2025-08-15;1;
+19622459;2025-09-13;log;source has been changed to Product
+19622470;2025-08-17;1;
+19622595;2025-08-19;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19622798;2025-08-16;1;
+19622973;2025-08-15;1;
+19622989;2025-08-23;1;
+19623198;2025-08-17;log;subtype has been changed to Payment discrepancy
+19623222;2025-08-14;1;
+19623260;2025-08-15;1;
+19623285;2025-08-22;1;
+19623295;2025-08-16;1;
+19623324;2025-08-14;1;
+19623585;2025-08-15;1;
+19623831;2025-09-07;log, proc;cause has been changed to Hotel-TPP process problem, need dispute (owner has been informed)
+19623840;2025-09-04;1;
+19623940;2025-08-15;1;
+19624027;2025-08-28;1;
+19624096;2025-08-18;1;
+19624127;2025-08-24;1;
+19624192;2025-08-20;1;
+19624230;2025-08-15;1;
+19624231;2025-08-18;1;
+19624242;2025-08-17;1;
+19624247;2025-08-15;log;subtype has been changed to Room/Hotel service discrepancy
+19624357;2025-08-14;1;
+19624369;2025-08-29;1;
+19624419;2025-08-23;1;
+19624453;2025-08-15;log;subtype has been changed to Payment discrepancy
+19624462;2025-08-22;1;
+19624492;2025-08-17;log;subtype has been changed to Payment discrepancy
+19624668;2025-08-16;1;
+19624692;2025-09-12;1;
+19624782;2025-08-20;1;
+19624829;2025-08-16;1;
+19624874;2025-08-14;1;
+19624941;2025-08-20;log, comp;source has been changed to Content, compensation amount was changed from AB to AS
+19625161;2025-08-15;1;
+19625637;2025-08-16;proc;dispute wasn't activated
+19625916;2025-08-28;1;
+19626047;2025-09-02;log;subtype has been changed to Payment discrepancy
+19627126;2025-08-18;1;
+19627245;2025-08-15;1;
+19627349;2025-08-16;1;
+19627381;2025-08-15;1;
+19627429;2025-08-16;1;
+19627554;2025-08-29;1;
+19627721;2025-08-20;1;
+19627809;2025-08-16;1;
+19627855;2025-08-15;1;
+19627882;2025-08-15;1;
+19627888;2025-08-27;1;
+19628113;2025-08-18;1;
+19628234;2025-08-18;1;
+19628405;2025-08-15;1;
+19628551;2025-08-15;comp;compensation amount was changed from AB to AS
+19628726;2025-09-01;1;
+19628970;2025-08-15;1;
+19628972;2025-08-16;1;
+19629062;2025-08-15;1;
+19629242;2025-08-19;1;
+19629323;2025-08-15;proc;email to Reconciliation has been added
+19629418;2025-08-19;1;
+19629448;2025-08-16;1;
+19629504;2025-08-15;1;
+19629522;2025-08-31;log;subtype has been changed to Payment discrepancy
+19629552;2025-08-15;log;subtype has been changed to Room/Hotel service discrepancy
+19629740;2025-09-13;comp;missed compensation has been added
+19629885;2025-08-15;1;
+19630004;2025-09-03;proc;need to change price by Order reconciliation amendment tool 
+19630010;2025-08-17;Оунер;
+19630078;2025-08-16;proc;email to Reconciliation has been added
+19630277;2025-08-15;1;
+19630287;2025-08-29;proc;need dispute (owner has been informed)
+19630305;2025-08-15;1;
+19630313;2025-08-18;1;
+19630381;2025-08-15;1;
+19630439;2025-08-28;1;
+19630614;2025-08-15;1;
+19630828;2025-08-29;log;source has been changed to Guest
+19631151;2025-08-15;1;
+19631280;2025-08-15;1;
+19631588;2025-08-22;1;
+19631606;2025-08-29;1;
+19631798;2025-08-15;1;
+19631972;2025-08-15;1;
+19632109;2025-08-15;1;
+19632315;2025-08-16;log;source has been changed to Hotel service
+19632336;2025-08-15;1;
+19632339;2025-08-15;1;
+19632624;2025-08-15;1;
+19632882;2025-08-17;proc;email to Reconciliation has been added
+19632888;2025-08-16;1;
+19632931;2025-08-15;1;
+19633034;2025-08-15;1;
+19633165;2025-08-19;log;cause has been changed to TPP mismatch
+19633177;2025-08-15;1;
+19633626;2025-08-27;1;
+19633635;2025-08-15;1;
+19633652;2025-08-19;1;
+19633709;2025-09-14;log, proc;cause has been changed to TPP category misreading, dispute wasn't activated
+19633779;2025-08-15;1;
+19633780;2025-08-26;proc;need dispute (owner has been informed)
+19633875;2025-08-15;1;
+19634004;2025-08-15;1;
+19634011;2025-08-16;1;
+19634033;2025-08-16;log;subtype has been changed to Unconfirmed booking
+19634219;2025-08-25;log, comp, proc;cause has been changed to Early/Late check-in, missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19634230;2025-08-15;1;
+19634243;2025-08-15;1;
+19634313;2025-08-26;proc;need to change price by Order reconciliation amendment tool 
+19634397;2025-08-30;1;
+19634543;2025-08-15;comp;missed compensation has been added
+19634731;2025-08-24;1;
+19634811;2025-08-20;1;
+19634866;2025-08-22;1;
+19635180;2025-09-12;proc;need to change price by Order reconciliation amendment tool 
+19635312;2025-08-15;1;
+19635339;2025-08-15;1;
+19635420;2025-08-25;proc;dispute wasn't activated
+19635543;2025-08-17;comp;compensation amount was changed from AB to AS
+19635557;2025-09-06;1;
+19635621;2025-09-11;1;
+19635629;2025-08-17;log;subtype has been changed to Payment discrepancy
+19635871;2025-08-16;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19635875;2025-08-15;comp;compensation amount was changed from AB to AS
+19636438;2025-08-15;1;
+19636727;2025-08-17;1;
+19637427;2025-08-29;comp;missed compensation has been added
+19637603;2025-08-15;1;
+19637650;2025-08-19;1;
+19637770;2025-08-17;1;
+19638126;2025-08-19;log;subtype has been changed to Hotel unavailable
+19638180;2025-08-16;1;
+19638195;2025-08-26;1;
+19638319;2025-08-16;1;
+19638580;2025-08-19;log;subtype has been changed to Room/Hotel service discrepancy
+19638647;2025-08-16;log;cause has been changed to Wrong rates in EXT
+19638714;2025-08-19;1;
+19638802;2025-08-15;1;
+19638846;2025-08-15;log;cause has been changed to Hotel-TPP process problem
+19638851;2025-08-16;1;
+19638876;2025-08-20;1;
+19639075;2025-08-19;1;
+19639283;2025-08-20;1;
+19639308;2025-08-19;1;
+19639455;2025-08-19;log;cause has been changed to Hotel-TPP process problem
+19639463;2025-08-17;1;
+19639615;2025-08-18;1;
+19639816;2025-08-15;1;
+19639832;2025-09-14;1;
+19639893;2025-08-15;1;
+19639958;2025-08-24;1;
+19640078;2025-08-15;1;
+19640145;2025-08-15;log, comp, proc;subtype has been changed to Unconfirmed booking, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19640171;2025-08-18;1;
+19640193;2025-08-18;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19640286;2025-08-16;1;
+19640295;2025-08-15;1;
+19640356;2025-08-17;log, proc;subtype has been changed to Overbooking, email to Reconciliation has been added
+19640504;2025-08-17;1;
+19640844;2025-08-19;1;
+19640880;2025-09-07;1;
+19641052;2025-08-19;1;
+19641244;2025-08-16;1;
+19641295;2025-08-16;log;source has been changed to Workflow
+19641452;2025-08-19;comp;compensation was split
+19641482;2025-08-19;comp;compensation was split
+19641511;2025-08-19;comp;compensation was split
+19641666;2025-08-20;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19642033;2025-08-15;1;
+19642110;2025-08-27;1;
+19642289;2025-08-16;1;
+19642391;2025-08-27;log;source has been changed to Hotel service
+19642680;2025-08-16;log, comp, proc;subtype has been changed to Unconfirmed booking, missed compensation has been added, email to Reconciliation has been added
+19642685;2025-08-17;proc;need to change price by Order reconciliation amendment tool 
+19642851;2025-08-19;log;source has been changed to Hotel (Extr)
+19642896;2025-08-23;1;
+19643318;2025-08-21;comp;compensation amount was changed from AB to AS
+19643417;2025-09-09;1;
+19643793;2025-08-15;1;
+19643823;2025-08-15;1;
+19643874;2025-08-16;1;
+19643966;2025-08-16;1;
+19644194;2025-08-18;log;cause has been changed to Hotel-TPP process problem
+19644315;2025-08-21;1;
+19644367;2025-08-15;1;
+19644406;2025-08-18;1;
+19644457;2025-08-17;1;
+19644521;2025-08-16;1;
+19644564;2025-08-16;1;
+19644601;2025-08-20;1;
+19644704;2025-08-16;log;source has been changed to Hotel service
+19644713;2025-08-16;1;
+19644769;2025-08-31;1;
+19644890;2025-08-19;1;
+19644916;2025-08-19;log, comp;source has been changed to Supply, compensation amount was changed from AS to AB
+19644946;2025-08-16;log;subtype has been changed to Bedding discrepancy
+19645063;2025-09-12;1;
+19645097;2025-08-16;1;
+19645100;2025-08-27;log;subtype has been changed to Meal discrepancy
+19645111;2025-08-16;1;
+19645223;2025-08-20;1;
+19645864;2025-08-16;log;cause has been changed to Hotel-TPP process problem
+19645925;2025-08-16;1;
+19646136;2025-08-17;1;
+19646143;2025-08-17;1;
+19646242;2025-08-29;comp;compensation was split
+19646410;2025-09-12;1;
+19646433;2025-08-16;1;
+19646640;2025-08-16;1;
+19646854;2025-09-04;1;
+19646888;2025-08-29;1;
+19647299;2025-08-22;1;
+19647360;2025-08-16;1;
+19647367;2025-08-16;1;
+19647384;2025-08-23;1;
+19647436;2025-08-18;1;
+19647503;2025-08-16;1;
+19647605;2025-08-26;1;
+19647619;2025-08-17;1;
+19647731;2025-09-10;1;
+19647745;2025-08-30;proc;need to change price by Order reconciliation amendment tool 
+19647912;2025-08-18;1;
+19647923;2025-08-29;1;
+19648050;2025-08-17;1;
+19648239;2025-08-17;1;
+19648301;2025-08-17;1;
+19648492;2025-08-18;1;
+19648497;2025-08-17;1;
+19648498;2025-08-18;1;
+19648567;2025-08-16;1;
+19648806;2025-08-17;1;
+19648843;2025-08-22;1;
+19648876;2025-08-17;log;subtype has been changed to Payment discrepancy
+19648986;2025-08-16;comp;compensation amount was changed from AB to AS
+19649065;2025-08-19;1;
+19649081;2025-09-03;1;
+19649102;2025-08-16;1;
+19649137;2025-08-29;1;
+19649174;2025-08-17;1;
+19649306;2025-08-17;1;
+19649494;2025-08-16;1;
+19649663;2025-08-20;log;subtype has been changed to Hotel unavailable
+19649963;2025-09-02;1;
+19649995;2025-08-16;log, comp;source has been changed to Hotel (Extr), compensation amount was changed from AB to AS
+19650408;2025-09-01;1;
+19650457;2025-08-21;log;source has been changed to Hotel service
+19650481;2025-08-17;1;
+19650510;2025-08-25;1;
+19650535;2025-08-16;1;
+19650964;2025-08-17;1;
+19650973;2025-08-24;1;
+19651266;2025-09-13;log;source has been changed to Supply
+19651312;2025-08-16;1;
+19651371;2025-08-16;log;subtype has been changed to Unconfirmed booking
+19651405;2025-08-16;1;
+19651559;2025-08-17;1;
+19651728;2025-08-16;log, comp;source has been changed to Hotel service, compensation amount was changed from AB to AS
+19652122;2025-08-18;1;
+19652275;2025-08-20;1;
+19652324;2025-08-16;1;
+19652479;2025-08-24;1;
+19653016;2025-08-20;1;
+19653056;2025-08-17;1;
+19653264;2025-08-18;1;
+19653356;2025-08-19;log;source has been changed to Product
+19653468;2025-08-20;1;
+19653524;2025-08-17;1;
+19653547;2025-08-24;log;cause has been changed to Hotel-TPP process problem
+19653764;2025-08-17;1;
+19653805;2025-09-05;1;
+19654020;2025-08-24;1;
+19654088;2025-08-21;log;subtype has been changed to Payment discrepancy
+19654174;2025-08-22;log;cause has been changed to Wrong rates in EXT
+19654274;2025-08-16;log;subtype has been changed to Unconfirmed booking
+19654666;2025-08-16;1;
+19654775;2025-08-17;1;
+19654801;2025-08-16;1;
+19654819;2025-08-17;1;
+19654820;2025-08-31;1;
+19654912;2025-08-16;1;
+19655090;2025-08-18;log;source has been changed to Content
+19655166;2025-08-16;log;subtype has been changed to Meal discrepancy
+19655177;2025-08-25;1;
+19655412;2025-08-16;1;
+19655454;2025-09-05;log;cause has been changed to Hotel-TPP process problem
+19655508;2025-08-16;1;
+19656018;2025-09-02;1;
+19656252;2025-08-22;1;
+19656453;2025-09-02;1;
+19656751;2025-08-17;log;cause has been changed to TPP hotel description
+19657114;2025-08-18;1;
+19657222;2025-08-16;1;
+19657359;2025-08-20;1;
+19657548;2025-08-17;1;
+19657655;2025-08-17;comp;compensation amount was changed from AB to AS
+19657691;2025-08-28;1;
+19657722;2025-08-17;1;
+19657922;2025-08-17;1;
+19658098;2025-08-24;1;
+19658368;2025-08-16;1;
+19658387;2025-08-19;log;subtype has been changed to Payment discrepancy
+19658432;2025-08-21;1;
+19658702;2025-08-17;proc;need to change price by Order reconciliation amendment tool 
+19658734;2025-08-21;1;
+19659133;2025-08-17;1;
+19659169;2025-08-25;1;
+19659297;2025-08-24;1;
+19659313;2025-08-26;1;
+19659341;2025-08-24;1;
+19659405;2025-08-23;1;
+19659469;2025-08-17;1;
+19659512;2025-08-17;1;
+19659549;2025-09-13;log;subtype has been changed to Room/Hotel service discrepancy
+19659691;2025-08-30;1;
+19659717;2025-08-19;1;
+19659955;2025-08-22;proc;dispute wasn't activated
+19660498;2025-08-22;1;
+19660614;2025-08-17;1;
+19660631;2025-08-29;log;cause has been changed to Booking not found
+19660686;2025-08-28;1;
+19660695;2025-08-18;1;
+19660699;2025-08-19;1;
+19660932;2025-08-17;1;
+19661052;2025-08-17;1;
+19661091;2025-08-18;1;
+19661177;2025-08-20;1;
+19661234;2025-08-22;1;
+19661245;2025-08-18;1;
+19662538;2025-08-18;1;
+19662606;2025-08-17;log, proc;subtype has been changed to Category discrepancy, need dispute (owner has been informed)
+19663058;2025-08-19;1;
+19663288;2025-08-17;1;
+19663299;2025-08-22;1;
+19663474;2025-08-18;proc;email to Reconciliation has been added
+19663541;2025-08-18;1;
+19663710;2025-09-10;1;
+19663751;2025-08-17;1;
+19664035;2025-08-29;1;
+19664051;2025-08-17;1;
+19664211;2025-08-19;log, proc;cause has been changed to Hotel-TPP process problem, need dispute (owner has been informed)
+19664239;2025-08-19;1;
+19664303;2025-08-17;log;subtype has been changed to Meal discrepancy
+19664635;2025-08-20;1;
+19664652;2025-08-17;log, comp;source has been changed to Supply, compensation was split
+19664697;2025-08-17;1;
+19664829;2025-09-08;log;subtype has been changed to Meal discrepancy
+19664892;2025-08-18;1;
+19664919;2025-08-20;1;
+19665080;2025-08-22;1;
+19665136;2025-08-20;1;
+19665488;2025-08-17;1;
+19665508;2025-08-21;1;
+19665553;2025-08-17;1;
+19665727;2025-08-18;1;
+19665946;2025-08-17;1;
+19666069;2025-08-25;proc;need dispute (owner has been informed)
+19666269;2025-08-22;1;
+19666403;2025-08-17;1;
+19666428;2025-08-17;proc;need to change price by Order reconciliation amendment tool 
+19666868;2025-08-24;1;
+19666918;2025-08-27;log;source has been changed to Hotel service
+19667125;2025-08-18;log;subtype has been changed to Hotel unavailable
+19667196;2025-08-17;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19667286;2025-09-01;1;
+19667511;2025-08-17;1;
+19667568;2025-08-17;1;
+19667696;2025-08-17;1;
+19667699;2025-08-18;1;
+19667708;2025-08-22;log;subtype has been changed to Hotel unavailable
+19667815;2025-08-18;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19668073;2025-08-17;1;
+19668141;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+19668180;2025-08-17;1;
+19668285;2025-09-02;1;
+19668358;2025-08-19;1;
+19668401;2025-08-18;1;
+19668469;2025-08-28;1;
+19668549;2025-08-17;1;
+19668687;2025-08-17;1;
+19668722;2025-08-17;1;
+19668772;2025-08-17;1;
+19668817;2025-08-28;1;
+19668826;2025-08-17;log, comp, proc;source has been changed to TPP, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool correctly
+19668925;2025-08-18;1;
+19669060;2025-08-17;1;
+19669228;2025-08-17;1;
+19669381;2025-08-17;1;
+19669404;2025-08-17;1;
+19669496;2025-08-17;1;
+19669603;2025-08-17;1;
+19669982;2025-08-17;1;
+19670059;2025-08-17;1;
+19670085;2025-08-24;1;
+19670261;2025-08-17;1;
+19670323;2025-08-28;1;
+19670365;2025-08-18;log;subtype has been changed to Room/Hotel service discrepancy
+19670416;2025-08-24;1;
+19670584;2025-09-12;1;
+19670590;2025-09-13;1;
+19670857;2025-08-21;1;
+19670944;2025-08-18;log;source has been changed to Workflow
+19670998;2025-08-17;1;
+19671178;2025-08-17;1;
+19671209;2025-08-22;1;
+19671392;2025-08-17;1;
+19671521;2025-08-17;1;
+19671542;2025-08-30;1;
+19671928;2025-08-17;1;
+19672363;2025-09-12;1;
+19672536;2025-08-18;log;source has been changed to Product
+19672739;2025-08-19;1;
+19672911;2025-08-18;1;
+19672941;2025-08-18;1;
+19673022;2025-08-24;log;source has been changed to Hotel service
+19673196;2025-08-17;1;
+19673302;2025-08-27;1;
+19673303;2025-08-27;1;
+19673372;2025-08-23;1;
+19673412;2025-08-25;1;
+19673430;2025-08-17;comp;extra compensation has been deleted
+19673461;2025-08-17;1;
+19673465;2025-08-17;1;
+19673494;2025-08-23;1;
+19673554;2025-08-17;1;
+19674086;2025-08-23;1;
+19674503;2025-09-03;1;
+19674627;2025-08-23;1;
+19674976;2025-08-19;1;
+19675028;2025-08-19;log;subtype has been changed to Room/Hotel service discrepancy
+19675317;2025-09-01;1;
+19675378;2025-09-11;log;subtype has been changed to Room/Hotel service discrepancy
+19675578;2025-08-21;1;
+19675599;2025-08-18;log;cause has been changed to Hotel-TPP process problem
+19675651;2025-09-07;1;
+19675662;2025-09-04;1;
+19675764;2025-08-19;1;
+19675814;2025-08-19;1;
+19676067;2025-08-30;comp;compensation amount was changed from AB to AS
+19676148;2025-08-21;1;
+19676484;2025-08-21;1;
+19676620;2025-08-29;1;
+19676633;2025-08-30;log;cause has been changed to Reprice
+19677061;2025-08-30;comp;no business decision mark
+19677192;2025-08-29;1;
+19677643;2025-08-24;1;
+19677921;2025-08-18;1;
+19677957;2025-08-21;log;source has been changed to Product
+19678006;2025-08-18;1;
+19678237;2025-09-07;1;
+19678286;2025-08-18;1;
+19678488;2025-08-24;1;
+19678720;2025-08-28;1;
+19678950;2025-08-26;1;
+19679163;2025-08-19;1;
+19679184;2025-08-19;1;
+19679356;2025-08-22;1;
+19679753;2025-08-19;1;
+19680131;2025-08-19;1;
+19680306;2025-08-20;1;
+19680381;2025-08-23;1;
+19680693;2025-08-24;proc;need to change price by Order reconciliation amendment tool 
+19680771;2025-08-18;1;
+19680891;2025-09-04;proc;need dispute (owner has been informed)
+19681028;2025-08-31;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool 
+19681114;2025-08-22;1;
+19681118;2025-08-18;log;subtype has been changed to Category discrepancy
+19681437;2025-09-07;1;
+19681663;2025-09-07;comp;missed compensation has been added
+19681742;2025-08-22;1;
+19681978;2025-08-18;1;
+19682059;2025-08-31;1;
+19682344;2025-08-18;1;
+19682379;2025-09-03;1;
+19682434;2025-08-18;proc;email to Reconciliation has been added
+19682800;2025-08-20;1;
+19682847;2025-09-04;1;
+19682938;2025-08-18;1;
+19682984;2025-08-20;1;
+19683010;2025-08-21;proc;need dispute (owner has been informed)
+19683032;2025-08-19;1;
+19683052;2025-08-25;1;
+19683066;2025-08-19;1;
+19683154;2025-08-31;1;
+19683288;2025-08-24;1;
+19683298;2025-08-20;1;
+19683313;2025-08-20;proc;need to change price by Order reconciliation amendment tool 
+19683435;2025-08-18;1;
+19683533;2025-08-18;1;
+19683606;2025-08-19;1;
+19683765;2025-08-21;1;
+19683863;2025-08-21;1;
+19683990;2025-08-19;1;
+19684430;2025-09-04;1;
+19684495;2025-08-25;1;
+19684500;2025-08-18;1;
+19684629;2025-08-19;1;
+19684639;2025-08-23;1;
+19684702;2025-08-22;1;
+19684720;2025-08-19;log;subtype has been changed to Overbooking
+19684869;2025-08-18;1;
+19684987;2025-08-28;1;
+19685089;2025-08-21;1;
+19685151;2025-08-27;1;
+19685349;2025-08-28;1;
+19685360;2025-08-18;1;
+19685459;2025-08-30;1;
+19685580;2025-09-08;1;
+19685657;2025-08-19;log;subtype has been changed to Payment discrepancy
+19685695;2025-08-23;1;
+19685708;2025-08-18;comp, proc;compensation amount has been changed, email to Reconciliation has been added
+19686135;2025-08-19;1;
+19686240;2025-08-18;1;
+19686332;2025-08-19;1;
+19686340;2025-09-13;comp;compensation amount was changed from AB to AS
+19686530;2025-08-18;log;subtype has been changed to Unconfirmed booking
+19687166;2025-08-30;1;
+19687472;2025-08-18;1;
+19687592;2025-08-19;1;
+19687696;2025-08-20;log;cause has been changed to TPP room description
+19687834;2025-08-18;1;
+19687902;2025-08-21;log, comp;subtype has been changed to Payment discrepancy, compensation amount has been changed
+19687923;2025-08-20;log;subtype has been changed to Unconfirmed booking
+19688151;2025-08-18;1;
+19688244;2025-08-20;log;source has been changed to Hotel service
+19688250;2025-08-18;log;subtype has been changed to Room/Hotel service discrepancy
+19688314;2025-08-19;1;
+19688360;2025-08-23;1;
+19688731;2025-08-19;1;
+19688877;2025-08-19;log;cause has been changed to Booking not found
+19688964;2025-08-22;1;
+19689024;2025-08-20;log;subtype has been changed to Payment discrepancy
+19689085;2025-08-19;1;
+19689347;2025-08-30;1;
+19689456;2025-08-21;1;
+19689796;2025-08-19;log, proc;cause has been changed to Booking not found, dispute wasn't activated
+19689855;2025-08-18;log;source has been changed to Hotel service
+19689894;2025-08-26;1;
+19690070;2025-08-22;1;
+19690076;2025-08-18;1;
+19690141;2025-09-11;comp;compensation amount was changed from AB to AS
+19690329;2025-09-05;log;subtype has been changed to Payment discrepancy
+19690440;2025-08-21;1;
+19690442;2025-08-19;1;
+19690549;2025-08-24;comp;compensation amount has been changed
+19690603;2025-09-11;1;
+19690689;2025-09-10;1;
+19690693;2025-08-21;1;
+19690751;2025-08-18;1;
+19690765;2025-08-19;1;
+19690853;2025-08-21;log;subtype has been changed to Room/Hotel service discrepancy
+19690896;2025-08-18;1;
+19690986;2025-08-19;proc;need to change price by Order reconciliation amendment tool 
+19691110;2025-08-18;1;
+19691193;2025-08-20;1;
+19691220;2025-08-18;1;
+19691290;2025-08-28;1;
+19691382;2025-08-19;1;
+19691472;2025-08-18;log;source has been changed to Hotel service
+19691479;2025-08-20;1;
+19691496;2025-08-19;смотреть потом возврат на карту;
+19691570;2025-08-18;1;
+19691599;2025-08-27;1;
+19691885;2025-08-20;1;
+19691952;2025-08-24;1;
+19692036;2025-08-27;1;
+19692161;2025-08-19;1;
+19692490;2025-08-19;1;
+19692548;2025-08-18;log, proc;source has been changed to Hotel (Extr), need to change price by Order reconciliation amendment tool 
+19693077;2025-08-30;1;
+19693139;2025-08-22;1;
+19693298;2025-08-21;log;source has been changed to Supply
+19693301;2025-08-18;1;
+19693512;2025-08-27;1;
+19693603;2025-08-19;1;
+19693783;2025-08-27;1;
+19694028;2025-08-27;1;
+19694127;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+19694263;2025-08-25;log;cause has been changed to Hotel description
+19694365;2025-08-20;1;
+19694459;2025-08-19;1;
+19694678;2025-08-24;log;subtype has been changed to Payment discrepancy
+19694751;2025-08-22;1;
+19694817;2025-08-22;log;source has been changed to Content
+19694830;2025-08-21;1;
+19694991;2025-08-18;comp;source has been changed to Workflow
+19695103;2025-08-19;1;
+19695495;2025-08-24;1;
+19695607;2025-08-30;1;
+19695826;2025-08-22;1;
+19695834;2025-08-22;1;
+19695887;2025-09-08;log, proc;subtype has been changed to Unconfirmed booking, dispute wasn't activated
+19695922;2025-09-03;1;
+19696046;2025-08-21;log;subtype has been changed to Overbooking
+19696085;2025-08-20;log;subtype has been changed to Bedding discrepancy
+19696097;2025-08-19;log;subtype has been changed to Overbooking
+19696114;2025-08-22;1;
+19696206;2025-08-24;1;
+19696417;2025-08-21;1;
+19696659;2025-08-28;log;subtype has been changed to Unconfirmed booking
+19696785;2025-08-26;log;subtype has been changed to Room/Hotel service discrepancy
+19696989;2025-08-22;1;
+19697263;2025-08-19;1;
+19697445;2025-08-19;1;
+19697463;2025-08-31;1;
+19697764;2025-08-19;1;
+19697917;2025-08-19;1;
+19698115;2025-08-29;1;
+19698200;2025-08-19;comp;extra compensation has been deleted
+19698341;2025-08-21;log;cause has been changed to Room size
+19698350;2025-08-19;1;
+19698718;2025-08-23;1;
+19698720;2025-08-22;1;
+19698887;2025-08-19;1;
+19699032;2025-08-27;1;
+19699068;2025-09-03;1;
+19699090;2025-08-21;1;
+19699272;2025-08-23;log, proc;subtype has been changed to Category discrepancy, need dispute (owner has been informed)
+19699415;2025-08-26;log;subtype has been changed to Room/Hotel service discrepancy
+19699443;2025-08-19;1;
+19699489;2025-08-20;comp, proc;compensation amount has been changed, email to Reconciliation has been added
+19699491;2025-08-31;log;cause has been changed to TPP category misreading
+19699568;2025-08-24;log;source has been changed to Supply
+19699608;2025-09-05;1;
+19699771;2025-08-19;1;
+19699786;2025-08-19;comp;compensation amount was changed from AB to AS
+19699917;2025-08-22;1;
+19699960;2025-08-19;1;
+19700013;2025-08-22;1;
+19700092;2025-09-10;1;
+19700198;2025-08-24;log;cause has been changed to TPP mismatch
+19700218;2025-08-21;1;
+19700420;2025-08-25;log;subtype has been changed to Room/Hotel service discrepancy
+19700649;2025-08-21;1;
+19700667;2025-08-19;1;
+19700678;2025-09-12;1;
+19701142;2025-08-20;1;
+19701499;2025-08-23;1;
+19701566;2025-08-23;1;
+19701788;2025-08-19;1;
+19701835;2025-08-19;1;
+19701986;2025-08-20;1;
+19702060;2025-08-19;1;
+19702143;2025-08-19;1;
+19702265;2025-08-19;1;
+19702661;2025-08-20;1;
+19702720;2025-08-26;comp;compensation amount was changed from AB to AS
+19702929;2025-08-21;1;
+19703085;2025-08-22;1;
+19703381;2025-08-19;1;
+19703861;2025-08-29;1;
+19704105;2025-08-24;1;
+19704149;2025-08-19;КК;
+19704195;2025-08-20;1;
+19704472;2025-08-19;1;
+19704592;2025-08-24;1;
+19704669;2025-08-20;1;
+19704680;2025-08-19;1;
+19704692;2025-08-25;1;
+19704998;2025-08-20;log;cause has been changed to Hotel-TPP process problem
+19705026;2025-08-19;1;
+19705068;2025-08-19;1;
+19705196;2025-08-19;1;
+19705202;2025-08-30;1;
+19705285;2025-08-19;1;
+19705878;2025-08-20;1;
+19705897;2025-08-23;log;cause has been changed to TPP hotel description
+19705929;2025-08-20;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19706041;2025-08-19;1;
+19706060;2025-08-26;1;
+19706216;2025-08-24;1;
+19706288;2025-09-08;1;
+19706404;2025-08-23;1;
+19706590;2025-08-19;1;
+19706807;2025-08-27;log;source has been changed to TPP
+19706907;2025-08-29;1;
+19706997;2025-08-30;1;
+19707151;2025-08-19;1;
+19707365;2025-08-21;1;
+19707367;2025-08-22;1;
+19707436;2025-08-19;1;
+19707651;2025-08-19;1;
+19707807;2025-08-23;1;
+19707858;2025-08-21;1;
+19707978;2025-08-21;1;
+19708195;2025-08-19;comp;compensation type has been changed
+19708280;2025-08-23;proc;need to change price by Order reconciliation amendment tool 
+19708541;2025-08-23;1;
+19709043;2025-08-26;1;
+19709339;2025-08-21;1;
+19709423;2025-08-20;log;cause has been changed to Hotel-TPP process problem
+19709481;2025-08-24;1;
+19709503;2025-08-19;1;
+19709532;2025-08-21;1;
+19709823;2025-09-09;log;source has been changed to Hotel service
+19709972;2025-08-20;1;
+19710167;2025-09-03;1;
+19710240;2025-08-19;1;
+19710693;2025-08-21;comp;missed compensation has been added
+19710735;2025-08-27;1;
+19710940;2025-08-31;1;
+19710955;2025-08-19;1;
+19711079;2025-08-22;proc;need dispute (owner has been informed)
+19711295;2025-08-19;comp. proc;compensation amount has been changed, email to Reconciliation has been added
+19711381;2025-08-31;comp, proc;currency of compensation has been changed, need to change price by Order reconciliation amendment tool correctly
+19711427;2025-08-19;1;
+19711438;2025-08-19;1;
+19711608;2025-08-29;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19711841;2025-08-22;1;
+19711872;2025-08-20;proc;need to change price by Order reconciliation amendment tool 
+19711895;2025-08-22;log, comp;source has been changed to TPP, compensation amount has been changed
+19711971;2025-08-23;1;
+19712189;2025-08-21;log;subtype has been changed to Room/Hotel service discrepancy
+19712251;2025-09-08;1;
+19712347;2025-08-24;1;
+19712351;2025-08-20;1;
+19712444;2025-08-20;comp;compensation type has been changed
+19712712;2025-08-20;log;source has been changed to Hotel service
+19712779;2025-08-20;1;
+19712961;2025-08-31;1;
+19713151;2025-08-21;1;
+19713254;2025-08-29;proc;dispute wasn't activated
+19713502;2025-08-21;1;
+19713552;2025-08-20;1;
+19713634;2025-09-13;1;
+19713758;2025-08-20;log;subtype has been changed to Bedding discrepancy
+19713805;2025-08-21;log;source has been changed to Hotel service
+19714039;2025-08-21;1;
+19714214;2025-09-05;1;
+19714256;2025-08-22;log;source has been changed to Content
+19714377;2025-08-27;1;
+19714381;2025-09-11;1;
+19714475;2025-08-20;1;
+19714511;2025-08-21;1;
+19714512;2025-08-21;proc;dispute wasn't activated
+19714591;2025-08-28;log;cause has been changed to Taxes
+19714608;2025-09-02;1;
+19714718;2025-08-22;comp;compensation amount was changed from AB to AS
+19714801;2025-08-29;1;
+19714841;2025-08-21;1;
+19715281;2025-08-20;1;
+19715399;2025-08-24;1;
+19715483;2025-08-21;1;
+19715502;2025-08-28;1;
+19715833;2025-08-20;1;
+19715851;2025-08-20;1;
+19715897;2025-08-23;1;
+19715899;2025-08-20;1;
+19716199;2025-08-21;1;
+19716204;2025-08-21;1;
+19716206;2025-08-21;1;
+19716240;2025-08-24;1;
+19716264;2025-08-31;log;subtype has been changed to Payment discrepancy
+19716271;2025-08-22;1;
+19716418;2025-08-27;1;
+19717640;2025-08-24;1;
+19717790;2025-08-21;1;
+19717943;2025-09-02;1;
+19718146;2025-08-20;1;
+19718814;2025-08-20;1;
+19719263;2025-08-24;1;
+19719325;2025-08-20;1;
+19719387;2025-08-20;log;subtype has been changed to Category discrepancy
+19719419;2025-09-05;1;
+19719550;2025-08-22;1;
+19719555;2025-09-04;1;
+19719614;2025-08-31;1;
+19719671;2025-08-23;1;
+19719688;2025-09-02;1;
+19720013;2025-08-21;1;
+19720197;2025-08-20;log;cause has been changed to Availability
+19720241;2025-08-20;log;subtype has been changed to Category discrepancy
+19720353;2025-09-05;log, proc;subtype has been changed to Hotel unavailable, email to Reconciliation has been added
+19720442;2025-08-20;1;
+19720680;2025-09-02;Тут все странно- без ошьибков;
+19721120;2025-08-20;1;
+19721212;2025-08-20;1;
+19721315;2025-09-07;1;
+19721465;2025-08-24;1;
+19721534;2025-08-21;1;
+19721663;2025-08-20;comp;compensation amount was changed from AB to AS
+19721983;2025-08-27;1;
+19722004;2025-08-27;log;source has been changed to Hotel service
+19722008;2025-09-03;log;subtype has been changed to Payment discrepancy
+19722120;2025-08-24;1;
+19722152;2025-08-22;1;
+19722228;2025-08-20;1;
+19722283;2025-08-21;log;source has been changed to Product
+19722584;2025-08-20;1;
+19722589;2025-08-21;1;
+19722640;2025-08-22;log;subtype has been changed to Room/Hotel service discrepancy
+19722686;2025-08-25;1;
+19722695;2025-08-24;log, comp;cause has been changed to TPP category misreading, compensation amount has been changed
+19722786;2025-08-31;log;subtype has been changed to Room/Hotel service discrepancy
+19722800;2025-08-31;log;subtype has been changed to Room/Hotel service discrepancy
+19722872;2025-08-20;1;
+19722993;2025-09-12;1;
+19723237;2025-08-23;1;
+19723358;2025-09-05;1;
+19723538;2025-08-20;log;source has been changed to Hotel (Extr)
+19723698;2025-08-21;1;
+19723904;2025-09-12;1;
+19724000;2025-08-28;log;subtype has been changed to Category discrepancy
+19724062;2025-08-21;1;
+19724082;2025-08-24;1;
+19724134;2025-08-21;1;
+19724226;2025-08-21;1;
+19724227;2025-08-20;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19724298;2025-08-22;1;
+19724517;2025-08-20;1;
+19724540;2025-08-21;1;
+19724754;2025-08-20;comp;extra compensation has been deleted
+19724786;2025-08-20;log, comp;subtype has been changed to Unconfirmed booking, compensation type has been changed
+19725132;2025-08-26;1;
+19725260;2025-08-20;1;
+19725326;2025-08-20;1;
+19725546;2025-09-01;1;
+19725799;2025-08-28;1;
+19726122;2025-08-23;1;
+19726270;2025-09-02;1;
+19726561;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+19726580;2025-08-24;1;
+19726770;2025-08-21;1;
+19727068;2025-08-20;1;
+19727302;2025-08-28;comp, proc;compensation has been moved from terminated ticket, need to change price by Order reconciliation amendment tool correctly
+19727372;2025-08-25;1;
+19727419;2025-08-26;1;
+19727510;2025-08-25;1;
+19727578;2025-08-24;1;
+19727606;2025-08-21;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19727829;2025-08-20;1;
+19728088;2025-08-22;1;
+19728246;2025-08-21;1;
+19728681;2025-08-21;1;
+19728721;2025-08-26;1;
+19729015;2025-08-25;1;
+19729241;2025-09-10;1;
+19729484;2025-08-23;log;subtype has been changed to Bedding discrepancy
+19729995;2025-08-20;1;
+19730137;2025-08-27;log;subtype has been changed to Payment discrepancy
+19730153;2025-08-24;1;
+19730187;2025-08-20;1;
+19730368;2025-08-21;1;
+19730384;2025-08-21;1;
+19731034;2025-08-25;1;
+19731080;2025-09-08;log;subtype has been changed to Overbooking
+19731194;2025-08-21;1;
+19731368;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+19731427;2025-08-21;1;
+19731432;2025-08-29;1;
+19731477;2025-09-11;1;
+19731532;2025-08-21;1;
+19731607;2025-08-21;comp;compensation was split
+19731821;2025-08-23;1;
+19731954;2025-09-09;1;
+19732055;2025-08-21;1;
+19732132;2025-08-22;1;
+19732308;2025-08-20;1;
+19732906;2025-08-24;1;
+19732992;2025-08-20;1;
+19733026;2025-08-20;1;
+19733536;2025-08-22;1;
+19733714;2025-08-21;1;
+19733812;2025-08-22;proc;dispute wasn't activated
+19734540;2025-08-21;1;
+19734817;2025-09-07;1;
+19734828;2025-08-21;1;
+19734853;2025-08-23;1;
+19734970;2025-08-27;1;
+19735084;2025-09-10;1;
+19735167;2025-08-25;1;
+19735400;2025-08-26;1;
+19735405;2025-08-24;1;
+19735478;2025-08-23;log;subtype has been changed to Room/Hotel service discrepancy
+19735633;2025-08-21;log;subtype has been changed to Room/Hotel service discrepancy
+19735703;2025-08-21;proc;email to Reconciliation has been added
+19735715;2025-08-25;comp;missed compensation has been added
+19735739;2025-08-23;1;
+19735771;2025-08-21;1;
+19735781;2025-08-22;1;
+19735833;2025-08-21;1;
+19735944;2025-08-20;1;
+19735958;2025-08-25;1;
+19736057;2025-08-26;1;
+19736202;2025-09-05;1;
+19736272;2025-08-25;1;
+19736299;2025-08-24;1;
+19736328;2025-09-08;1;
+19736392;2025-08-26;log;subtype has been changed to Category discrepancy
+19736467;2025-08-22;1;
+19736514;2025-08-23;1;
+19736839;2025-08-21;1;
+19736975;2025-09-09;1;
+19737155;2025-08-24;1;
+19737221;2025-08-28;log;subtype has been changed to Room/Hotel service discrepancy
+19737426;2025-08-21;log, comp;subtype has been changed to Payment discrepancy, extra compensation has been deleted
+19737557;2025-08-23;1;
+19737805;2025-08-22;1;
+19737932;2025-08-28;proc;email to Reconciliation has been added
+19737951;2025-09-05;1;
+19738057;2025-08-21;1;
+19738082;2025-08-27;1;
+19738168;2025-08-21;1;
+19738417;2025-08-28;1;
+19738513;2025-08-21;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19738557;2025-08-21;1;
+19738779;2025-08-21;1;
+19738895;2025-08-21;comp;compensation amount was changed from AB to AS
+19738918;2025-08-23;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19739011;2025-08-21;1;
+19739030;2025-08-24;1;
+19739054;2025-08-25;1;
+19739111;2025-08-28;log;subtype has been changed to Payment discrepancy
+19739197;2025-09-02;1;
+19739559;2025-08-21;1;
+19739787;2025-09-12;comp;compensation amount was changed from AB to AS
+19740123;2025-08-24;1;
+19740153;2025-08-21;comp;extra compensation has been deleted
+19740301;2025-08-21;1;
+19740413;2025-08-28;1;
+19740451;2025-08-21;1;
+19740878;2025-08-30;1;
+19741061;2025-08-21;1;
+19741089;2025-08-21;1;
+19741168;2025-08-21;1;
+19741796;2025-08-31;1;
+19741969;2025-09-12;1;
+19742108;2025-09-14;log, proc;source has been changed to TPP, dispute wasn't activated
+19742482;2025-08-25;comp;compensation was split
+19742830;2025-08-27;proc;dispute wasn't activated
+19742894;2025-08-21;1;
+19742908;2025-08-24;log;subtype has been changed to Overbooking
+19743054;2025-08-21;1;
+19743126;2025-08-21;1;
+19743524;2025-09-01;1;
+19743536;2025-08-30;log;subtype has been changed to Payment discrepancy
+19743703;2025-08-26;1;
+19743735;2025-08-21;1;
+19743805;2025-08-21;1;
+19743879;2025-08-21;1;
+19744286;2025-08-21;comp, proc;compensation amount was changed from AB to AS, email to Reconciliation has been added
+19744345;2025-08-21;1;
+19744634;2025-08-22;log;subtype has been changed to Hotel unavailable
+19744742;2025-08-21;1;
+19745106;2025-08-21;1;
+19745109;2025-08-31;1;
+19745176;2025-08-21;comp;missed compensation has been added
+19745359;2025-08-21;1;
+19745412;2025-08-22;1;
+19745592;2025-08-22;1;
+19745649;2025-08-21;1;
+19745657;2025-08-31;1;
+19745776;2025-08-30;1;
+19746103;2025-08-26;1;
+19746421;2025-08-21;1;
+19746497;2025-08-24;1;
+19746757;2025-08-23;1;
+19746908;2025-08-24;proc;dispute wasn't activated
+19746994;2025-08-28;proc;dispute wasn't activated
+19747004;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+19747146;2025-08-21;1;
+19747331;2025-08-28;1;
+19748064;2025-08-21;1;
+19748213;2025-08-21;1;
+19748283;2025-08-21;1;
+19748340;2025-08-23;1;
+19748604;2025-08-25;1;
+19748678;2025-08-29;1;
+19748977;2025-08-22;1;
+19749168;2025-08-21;1;
+19749757;2025-08-24;1;
+19749770;2025-08-22;1;
+19749894;2025-08-21;comp;compensation type has been changed
+19750075;2025-08-21;1;
+19750225;2025-08-29;1;
+19750346;2025-08-22;1;
+19750504;2025-09-12;1;
+19750506;2025-09-04;1;
+19750859;2025-08-25;1;
+19750950;2025-08-21;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool correctly
+19751064;2025-08-22;1;
+19751080;2025-08-21;1;
+19751101;2025-08-28;comp;payment type has been changed to credit card
+19751154;2025-08-22;1;
+19751155;2025-08-28;1;
+19751189;2025-08-21;log;cause has been changed to Hotel-TPP process problem
+19751487;2025-08-22;1;
+19751696;2025-09-01;proc;need dispute (owner has been informed)
+19751741;2025-08-21;1;
+19751851;2025-09-10;1;
+19751908;2025-08-21;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19752080;2025-09-10;1;
+19752146;2025-08-26;1;
+19752285;2025-08-27;1;
+19752393;2025-09-01;1;
+19752507;2025-08-23;1;
+19752745;2025-08-22;log;cause has been changed to Hotel-TPP process problem
+19752764;2025-08-22;comp;extra compensation has been deleted
+19752806;2025-08-31;comp;compensation amount was changed from AB to AS
+19752808;2025-08-21;proc;need to change price by Order reconciliation amendment tool 
+19752913;2025-08-26;1;
+19753047;2025-08-22;1;
+19753244;2025-08-21;1;
+19754536;2025-08-22;log;source has been changed to Hotel service
+19754765;2025-08-22;1;
+19754808;2025-08-23;1;
+19754891;2025-08-23;1;
+19755007;2025-08-22;1;
+19755049;2025-08-25;log;cause has been changed to Category misreading
+19755108;2025-08-30;1;
+19755538;2025-08-22;1;
+19755699;2025-08-26;1;
+19755720;2025-08-21;1;
+19755780;2025-08-26;1;
+19755932;2025-08-23;1;
+19755954;2025-08-23;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19756156;2025-08-22;log, comp, proc;source has been changed to Hotel service, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19756168;2025-08-25;1;
+19756267;2025-08-28;log;cause has been changed to Hotel-TPP process problem
+19756341;2025-09-12;1;
+19756459;2025-08-22;1;
+19756545;2025-08-22;proc;need dispute (owner has been informed)
+19756598;2025-08-24;1;
+19756785;2025-08-24;log;cause has been changed to Room size
+19756932;2025-08-24;log;subtype has been changed to Unconfirmed booking
+19757075;2025-08-25;1;
+19757082;2025-08-29;1;
+19757289;2025-08-23;comp;compensation amount was changed from AB to AS
+19757641;2025-08-23;comp;payment type has been changed to credit card
+19757658;2025-08-22;log;cause has been changed to Booking not found
+19757856;2025-08-23;1;
+19757887;2025-08-22;1;
+19757891;2025-08-23;1;
+19757902;2025-09-05;1;
+19757919;2025-08-22;1;
+19757975;2025-08-25;log;subtype has been changed to Hotel unavailable
+19758015;2025-08-22;proc;email to Reconciliation has been added
+19758309;2025-08-22;1;
+19758328;2025-09-13;1;
+19758797;2025-09-03;1;
+19759132;2025-08-23;1;
+19759393;2025-08-22;1;
+19759424;2025-08-22;1;
+19759614;2025-09-03;log;subtype has been changed to Payment discrepancy
+19759637;2025-08-22;1;
+19759716;2025-09-03;log;source has been changed to Content
+19759740;2025-08-23;1;
+19760156;2025-08-26;log;cause has been changed to Hotel permanently closed
+19760675;2025-08-23;1;
+19760819;2025-08-31;1;
+19761148;2025-09-11;log;subtype has been changed to Payment discrepancy
+19761160;2025-08-22;1;
+19762081;2025-08-23;1;
+19762254;2025-08-23;1;
+19762270;2025-08-26;1;
+19762320;2025-08-23;1;
+19762339;2025-08-24;1;
+19762374;2025-08-29;Межуха;
+19762416;2025-08-23;1;
+19762466;2025-08-23;1;
+19762552;2025-08-22;1;
+19763564;2025-08-22;1;
+19763689;2025-08-29;log, comp;subtype has been changed to Overbooking, compensation type has been changed
+19763703;2025-08-22;1;
+19763714;2025-08-23;1;
+19763865;2025-08-22;log;subtype has been changed to Overbooking
+19763966;2025-08-23;1;
+19764533;2025-08-22;1;
+19764536;2025-08-22;log;source has been changed to Hotel (Extr)
+19764598;2025-08-24;1;
+19764830;2025-08-22;1;
+19764834;2025-09-09;1;
+19765034;2025-08-22;1;
+19765063;2025-08-22;1;
+19765223;2025-08-28;1;
+19765305;2025-08-26;1;
+19765336;2025-08-27;1;
+19765361;2025-08-26;log;subtype has been changed to Hotel unavailable
+19765394;2025-08-22;log;source has been changed to Workflow
+19765420;2025-08-22;1;
+19765435;2025-08-22;1;
+19765577;2025-08-23;1;
+19765658;2025-08-23;1;
+19766260;2025-08-22;log;subtype has been changed to Hotel unavailable
+19766434;2025-09-05;1;
+19766506;2025-08-22;1;
+19766553;2025-08-29;log;subtype has been changed to Payment discrepancy
+19766563;2025-08-28;log;subtype has been changed to Payment discrepancy
+19766586;2025-08-23;1;
+19766710;2025-08-27;1;
+19766814;2025-08-22;1;
+19766910;2025-08-28;1;
+19766999;2025-08-24;1;
+19767072;2025-09-01;1;
+19767101;2025-09-01;1;
+19767124;2025-09-01;1;
+19767148;2025-08-22;comp;extra compensation has been deleted
+19767192;2025-08-30;1;
+19767225;2025-08-22;1;
+19767251;2025-08-23;log;cause has been changed to Hotel-TPP process problem
+19767301;2025-09-12;log;subtype has been changed to Room/Hotel service discrepancy
+19767305;2025-09-11;1;
+19767512;2025-08-25;1;
+19767749;2025-08-30;1;
+19767928;2025-08-31;1;
+19767980;2025-09-10;log;subtype has been changed to Payment discrepancy
+19768010;2025-08-22;1;
+19768240;2025-08-23;1;
+19768264;2025-08-24;1;
+19768411;2025-08-23;1;
+19768544;2025-09-08;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19768814;2025-08-22;1;
+19769034;2025-08-22;1;
+19769258;2025-08-22;1;
+19769288;2025-08-23;1;
+19769326;2025-08-24;1;
+19769472;2025-08-22;1;
+19769504;2025-08-24;1;
+19769828;2025-08-22;1;
+19769868;2025-08-30;1;
+19769891;2025-09-08;1;
+19770005;2025-08-26;log;source has been changed to Product
+19770053;2025-08-30;1;
+19770106;2025-08-29;1;
+19770164;2025-08-22;1;
+19770239;2025-08-22;proc;email to Reconciliation has been added
+19770265;2025-08-22;1;
+19770293;2025-08-23;1;
+19770310;2025-08-25;1;
+19770406;2025-08-23;1;
+19770477;2025-09-03;1;
+19770505;2025-09-04;proc;need dispute (owner has been informed)
+19770511;2025-08-23;1;
+19770526;2025-09-03;1;
+19770796;2025-09-01;1;
+19770851;2025-08-27;log;source has been changed to Hotel service
+19771115;2025-08-23;log;cause has been changed to Hotel-TPP process problem
+19771128;2025-08-22;1;
+19771300;2025-08-26;1;
+19771423;2025-08-23;1;
+19771493;2025-08-26;1;
+19771584;2025-08-23;1;
+19772017;2025-08-23;1;
+19772144;2025-08-27;1;
+19772163;2025-08-27;1;
+19772172;2025-08-27;1;
+19772226;2025-08-23;1;
+19772273;2025-08-23;1;
+19772346;2025-08-22;1;
+19772384;2025-08-25;1;
+19772577;2025-09-07;1;
+19773160;2025-08-23;log;cause has been changed to Hotel-TPP process problem
+19773315;2025-08-24;1;
+19773352;2025-08-27;1;
+19773474;2025-09-10;log;subtype has been changed to Category discrepancy
+19773689;2025-08-25;1;
+19773800;2025-08-24;log;subtype has been changed to Overbooking
+19773815;2025-08-27;1;
+19773834;2025-08-25;1;
+19773836;2025-08-25;1;
+19773859;2025-08-28;1;
+19773868;2025-08-24;comp;compensation amount was changed from AB to AS
+19774083;2025-08-23;log;source has been changed to Hotel service
+19774085;2025-08-25;1;
+19774288;2025-08-26;1;
+19774309;2025-09-03;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19774322;2025-08-23;proc;dispute wasn't activated
+19774438;2025-08-23;1;
+19774590;2025-08-29;log;cause has been changed to Hotel-TPP process problem
+19774679;2025-09-01;1;
+19774731;2025-09-01;log;source has been changed to Hotel service
+19774891;2025-08-28;log, comp;cause has been changed to Hotel-TPP process problem, compensation was split
+19774946;2025-08-25;1;
+19774947;2025-09-03;proc;need to change price by Order reconciliation amendment tool 
+19774971;2025-08-28;1;
+19775004;2025-08-23;1;
+19775094;2025-08-23;1;
+19775140;2025-08-25;1;
+19775161;2025-08-23;1;
+19775308;2025-08-25;1;
+19775498;2025-08-26;1;
+19775786;2025-08-24;1;
+19776518;2025-08-25;1;
+19776539;2025-08-29;log;subtype has been changed to Room/Hotel service discrepancy
+19776699;2025-08-24;log;subtype has been changed to Room/Hotel service discrepancy
+19776889;2025-08-23;1;
+19778274;2025-08-23;1;
+19778505;2025-08-28;log;subtype has been changed to Room/Hotel service discrepancy
+19779175;2025-08-23;1;
+19779286;2025-08-23;1;
+19779356;2025-08-23;1;
+19779470;2025-08-23;1;
+19779723;2025-08-23;1;
+19779948;2025-08-26;1;
+19780126;2025-08-23;1;
+19780275;2025-08-29;log;subtype has been changed to Hotel unavailable
+19780350;2025-08-23;1;
+19780384;2025-09-06;1;
+19780732;2025-08-23;1;
+19780923;2025-08-29;1;
+19780971;2025-08-27;proc;dispute wasn't activated
+19780992;2025-08-28;1;
+19780993;2025-08-28;1;
+19780995;2025-08-28;1;
+19781175;2025-08-23;log;cause has been changed to Nationality
+19781407;2025-08-24;1;
+19782235;2025-08-23;1;
+19782310;2025-09-03;1;
+19782618;2025-08-23;1;
+19782699;2025-08-24;1;
+19782708;2025-09-04;1;
+19782757;2025-08-23;1;
+19782787;2025-08-23;proc;need to change price by Order reconciliation amendment tool 
+19782921;2025-08-23;Паша клеймс;
+19783004;2025-08-24;1;
+19783151;2025-08-23;1;
+19783331;2025-08-23;1;
+19783376;2025-08-24;1;
+19783421;2025-08-24;1;
+19783675;2025-08-28;1;
+19783721;2025-08-23;1;
+19783788;2025-09-01;1;
+19783836;2025-08-23;1;
+19783862;2025-08-23;1;
+19783896;2025-08-23;1;
+19784053;2025-08-23;1;
+19784075;2025-08-30;1;
+19784206;2025-08-25;1;
+19784213;2025-08-31;log;subtype has been changed to Unconfirmed booking
+19784266;2025-08-23;log;cause has been changed to No response/Not found
+19784493;2025-08-26;1;
+19784539;2025-08-23;1;
+19784837;2025-08-23;1;
+19785254;2025-08-26;1;
+19785270;2025-09-09;1;
+19785343;2025-08-24;1;
+19785486;2025-09-03;1;
+19785497;2025-08-28;1;
+19785647;2025-08-29;1;
+19785763;2025-09-01;1;
+19785821;2025-08-24;1;
+19785836;2025-09-02;1;
+19785978;2025-08-25;1;
+19786027;2025-08-29;comp;missed compensation has been added
+19786092;2025-08-27;proc;dispute wasn't activated
+19786171;2025-08-26;1;
+19786183;2025-08-25;1;
+19786492;2025-08-23;log;subtype has been changed to Payment discrepancy
+19786511;2025-08-23;1;
+19787295;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+19787703;2025-08-23;1;
+19787833;2025-08-27;log;subtype has been changed to Payment discrepancy
+19788182;2025-08-30;1;
+19788563;2025-08-27;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+19788682;2025-08-28;1;
+19788983;2025-08-23;1;
+19788986;2025-08-23;1;
+19788988;2025-08-27;1;
+19789082;2025-08-23;1;
+19789229;2025-08-27;1;
+19789486;2025-08-27;1;
+19789712;2025-09-13;log, comp, proc;subtype has been changed to Hotel unavailable, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19789733;2025-08-25;log;source has been changed to Hotel service
+19789779;2025-08-23;1;
+19790069;2025-08-24;1;
+19790487;2025-09-03;log;cause has been changed to Hotel-TPP process problem
+19790567;2025-08-30;1;
+19791430;2025-08-25;1;
+19792020;2025-08-24;1;
+19792173;2025-08-29;1;
+19792384;2025-08-24;1;
+19792432;2025-08-24;log;subtype has been changed to Unconfirmed booking
+19792756;2025-08-26;1;
+19792886;2025-08-24;log;subtype has been changed to Unconfirmed booking
+19792891;2025-08-25;1;
+19792993;2025-08-30;1;
+19793148;2025-08-24;1;
+19793260;2025-08-30;1;
+19793261;2025-09-14;1;
+19793474;2025-08-24;1;
+19793487;2025-08-24;1;
+19793623;2025-08-24;comp;compensation amount was changed from AB to AS
+19793657;2025-08-24;1;
+19793664;2025-08-24;log;subtype has been changed to Payment discrepancy
+19793695;2025-08-24;1;
+19793749;2025-09-01;1;
+19793850;2025-08-24;proc;need dispute (owner has been informed)
+19794192;2025-08-26;1;
+19794210;2025-08-27;1;
+19794212;2025-08-24;1;
+19795528;2025-08-27;1;
+19795651;2025-08-25;1;
+19795657;2025-08-29;1;
+19796053;2025-08-25;1;
+19796147;2025-08-28;1;
+19796372;2025-08-24;1;
+19796491;2025-09-01;1;
+19796808;2025-08-24;comp;compensation amount was changed from AB to AS
+19797302;2025-08-30;log;source has been changed to TPP
+19797356;2025-08-25;1;
+19797524;2025-09-01;1;
+19797545;2025-08-24;1;
+19797558;2025-08-28;comp;compensation amount was changed from AB to AS
+19797675;2025-08-24;1;
+19797706;2025-08-26;1;
+19797945;2025-08-24;1;
+19798121;2025-08-25;1;
+19798231;2025-09-14;1;
+19798354;2025-08-29;1;
+19798371;2025-08-26;1;
+19798407;2025-08-24;1;
+19798474;2025-08-28;log;subtype has been changed to Room/Hotel service discrepancy
+19798477;2025-08-28;1;
+19798875;2025-08-27;1;
+19799083;2025-09-03;1;
+19799123;2025-09-01;1;
+19799138;2025-09-01;1;
+19799186;2025-09-11;1;
+19799465;2025-08-28;1;
+19799646;2025-08-25;1;
+19799817;2025-09-12;1;
+19800103;2025-08-24;1;
+19800375;2025-08-25;1;
+19800402;2025-08-25;1;
+19800576;2025-08-28;1;
+19800591;2025-08-28;1;
+19801095;2025-08-26;1;
+19801198;2025-08-31;1;
+19801468;2025-08-28;1;
+19801681;2025-08-24;1;
+19801721;2025-08-25;1;
+19801769;2025-08-26;1;
+19801857;2025-08-25;log;subtype has been changed to Payment discrepancy
+19802115;2025-08-25;log;subtype has been changed to Room/Hotel service discrepancy
+19802164;2025-08-28;1;
+19802385;2025-09-05;1;
+19802393;2025-08-27;1;
+19802566;2025-08-30;1;
+19802606;2025-08-25;1;
+19802988;2025-08-25;1;
+19803319;2025-09-02;1;
+19803391;2025-08-28;1;
+19803445;2025-08-28;1;
+19803766;2025-08-25;1;
+19803819;2025-08-27;1;
+19804289;2025-08-25;1;
+19804294;2025-08-25;1;
+19804715;2025-09-02;1;
+19804790;2025-08-30;1;
+19804797;2025-09-14;1;
+19805008;2025-08-28;1;
+19805011;2025-08-28;1;
+19805216;2025-08-25;1;
+19805634;2025-08-25;1;
+19805724;2025-09-04;proc;need dispute (owner has been informed)
+19806081;2025-08-29;1;
+19806434;2025-08-28;1;
+19806435;2025-08-28;1;
+19806685;2025-08-25;log;subtype has been changed to Payment discrepancy
+19806695;2025-08-25;1;
+19806904;2025-09-03;1;
+19807097;2025-09-09;proc;dispute wasn't activated
+19807150;2025-08-31;1;
+19807283;2025-09-01;log;source has been changed to Product
+19807303;2025-08-26;log;subtype has been changed to Unconfirmed booking
+19807895;2025-08-28;1;
+19807993;2025-08-30;log;subtype has been changed to Unconfirmed booking
+19808119;2025-08-25;1;
+19808260;2025-08-25;1;
+19808497;2025-08-26;1;
+19808506;2025-08-25;comp;missed compensation has been added
+19808514;2025-09-10;1;
+19808517;2025-08-25;1;
+19808538;2025-08-31;1;
+19808712;2025-09-06;1;
+19808746;2025-08-31;1;
+19808882;2025-08-25;log;cause has been changed to Room description
+19809065;2025-08-29;1;
+19809241;2025-09-01;1;
+19809403;2025-09-02;1;
+19809462;2025-08-27;1;
+19809619;2025-08-26;log;subtype has been changed to Room/Hotel service discrepancy
+19809625;2025-08-28;1;
+19809793;2025-08-25;log;source has been changed to Product
+19809828;2025-09-05;1;
+19809938;2025-09-04;1;
+19810266;2025-08-28;1;
+19810419;2025-08-25;1;
+19810536;2025-09-02;1;
+19810571;2025-09-03;1;
+19810719;2025-08-25;1;
+19810820;2025-08-25;1;
+19810997;2025-08-26;comp;compensation amount was changed from AB to AS
+19811006;2025-08-29;log;subtype has been changed to Category discrepancy
+19811009;2025-08-28;proc;need to change price by Order reconciliation amendment tool correctly
+19811021;2025-08-26;1;
+19811136;2025-08-25;1;
+19811161;2025-08-25;1;
+19811172;2025-08-25;1;
+19811174;2025-09-06;log;cause has been changed to Hotel-TPP process problem
+19811301;2025-08-27;1;
+19811687;2025-08-31;1;
+19811734;2025-08-25;1;
+19811744;2025-08-27;log;source has been changed to Content
+19811788;2025-08-27;1;
+19812130;2025-08-28;1;
+19812167;2025-09-03;1;
+19812262;2025-08-25;1;
+19812306;2025-08-25;1;
+19812571;2025-08-25;1;
+19812758;2025-08-25;1;
+19812877;2025-09-10;log;subtype has been changed to Payment discrepancy
+19812899;2025-09-04;1;
+19813065;2025-09-01;Потом;
+19813385;2025-09-08;log;cause has been changed to Hotel-TPP process problem
+19813433;2025-08-26;1;
+19813471;2025-08-28;1;
+19813540;2025-08-28;log;source has been changed to Product
+19813920;2025-08-27;1;
+19814225;2025-08-28;log, proc;subtype has been changed to Hotel unavailable, email to Reconciliation has been added
+19814229;2025-08-28;1;
+19814296;2025-08-25;1;
+19814490;2025-08-28;1;
+19814576;2025-08-25;1;
+19814764;2025-08-26;1;
+19814910;2025-08-25;1;
+19815099;2025-08-26;comp;compensation amount was changed from AB to AS
+19815361;2025-08-28;1;
+19815363;2025-09-14;1;
+19815429;2025-08-27;1;
+19815600;2025-08-27;log;subtype has been changed to Category discrepancy
+19815649;2025-08-27;1;
+19815660;2025-08-25;1;
+19816339;2025-08-28;1;
+19816625;2025-09-02;log, proc;subtype has been changed to Payment discrepancy, need to change price by Order reconciliation amendment tool correctly
+19816836;2025-08-25;1;
+19817030;2025-08-25;1;
+19817248;2025-08-25;proc;need to change price by Order reconciliation amendment tool 
+19817473;2025-08-26;1;
+19817700;2025-08-28;1;
+19817797;2025-08-27;1;
+19817913;2025-08-25;1;
+19818029;2025-08-25;1;
+19818046;2025-08-28;1;
+19818746;2025-08-30;log;cause has been changed to TPP category misreading
+19819121;2025-08-30;comp;compensation amount was changed from AB to AS
+19819318;2025-09-10;1;
+19819601;2025-09-10;1;
+19819778;2025-08-26;1;
+19819878;2025-09-08;1;
+19819891;2025-09-08;log;source has been changed to TPP
+19820117;2025-08-29;1;
+19820268;2025-09-09;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19820293;2025-08-26;log;subtype has been changed to Category discrepancy
+19820522;2025-08-27;log;source has been changed to Product
+19821006;2025-08-28;1;
+19821192;2025-09-09;1;
+19821235;2025-09-09;1;
+19821301;2025-09-05;1;
+19821402;2025-08-27;1;
+19821431;2025-09-01;1;
+19821464;2025-08-29;1;
+19821505;2025-09-04;1;
+19821726;2025-08-26;1;
+19821753;2025-08-30;1;
+19822034;2025-08-27;1;
+19822071;2025-09-02;comp ;compensation amount was changed from AB to AS
+19822187;2025-09-09;1;
+19822251;2025-08-29;1;
+19822325;2025-09-02;1;
+19822434;2025-09-03;log;source has been changed to Hotel service
+19822504;2025-09-12;1;
+19823477;2025-08-31;log;cause has been changed to Hotel-TPP process problem
+19823767;2025-09-05;1;
+19824034;2025-08-29;1;
+19824166;2025-09-01;1;
+19824282;2025-08-27;1;
+19824369;2025-08-29;1;
+19825682;2025-08-28;log, comp, proc;source has been changed to Hotel service, missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19825789;2025-09-08;1;
+19826794;2025-08-29;1;
+19827052;2025-08-28;1;
+19827155;2025-09-02;1;
+19827161;2025-08-31;1;
+19828385;2025-08-26;log;subtype has been changed to Category discrepancy
+19828460;2025-08-26;1;
+19828711;2025-08-30;1;
+19828757;2025-08-26;1;
+19828969;2025-08-27;1;
+19829044;2025-08-29;1;
+19829090;2025-08-26;1;
+19829159;2025-08-29;1;
+19829257;2025-08-27;1;
+19829406;2025-08-31;1;
+19829464;2025-09-14;1;
+19829467;2025-08-27;log, comp, proc;subtype has been changed to Overbooking, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19829597;2025-08-26;1;
+19829662;2025-09-08;1;
+19829714;2025-08-26;1;
+19829865;2025-08-27;1;
+19830131;2025-09-04;1;
+19830538;2025-08-29;1;
+19830742;2025-09-01;1;
+19830837;2025-08-28;1;
+19831138;2025-08-29;comp;compensation amount was changed from AB to AS
+19831272;2025-08-30;log;source has been changed to Product	
+19831427;2025-08-27;1;
+19831731;2025-08-26;1;
+19831793;2025-08-27;1;
+19831922;2025-08-30;log;source has been changed to Guest
+19832070;2025-08-28;comp;compensation type has been changed to bank transfer
+19832343;2025-08-27;proc;email to Reconciliation has been added
+19832384;2025-09-12;1;
+19832669;2025-09-12;comp;payment type has been changed to credit card
+19832771;2025-09-02;1;
+19832836;2025-09-02;1;
+19833032;2025-08-27;log;source has been changed to Product
+19833276;2025-09-08;1;
+19833316;2025-09-03;proc;need dispute (owner has been informed)
+19834037;2025-08-26;1;
+19834186;2025-08-27;1;
+19834406;2025-08-29;log;subtype has been changed to Payment discrepancy
+19834430;2025-08-31;1;
+19834433;2025-08-26;log;subtype has been changed to Room/Hotel service discrepancy
+19834529;2025-09-08;1;
+19835190;2025-08-30;1;
+19835199;2025-08-30;1;
+19835427;2025-08-26;1;
+19835500;2025-08-27;1;
+19835772;2025-08-26;log;subtype has been changed to Hotel unavailable
+19835803;2025-08-27;1;
+19835886;2025-08-27;1;
+19835931;2025-08-28;1;
+19835936;2025-08-26;1;
+19836030;2025-08-26;1;
+19836122;2025-08-27;log;cause has been changed to Hotel-TPP process problem
+19836693;2025-09-04;1;
+19836804;2025-08-26;1;
+19836891;2025-08-26;1;
+19836963;2025-08-28;1;
+19837097;2025-08-27;1;
+19837692;2025-09-02;1;
+19837706;2025-08-28;1;
+19837843;2025-08-26;1;
+19837856;2025-08-31;log;subtype has been changed to Room/Hotel service discrepancy
+19837897;2025-08-28;1;
+19837931;2025-09-05;1;
+19837964;2025-08-27;1;
+19838010;2025-08-27;log;source has been changed to Hotel (Extr)
+19838136;2025-09-02;1;
+19838168;2025-08-27;log, comp;source has been changed to TPP, compensation amount was changed from AB to AS
+19838202;2025-08-29;1;
+19838413;2025-09-07;1;
+19838663;2025-08-26;1;
+19838682;2025-09-09;1;
+19839168;2025-08-28;log;source has been changed to Hotel service
+19840615;2025-09-06;1;
+19841077;2025-08-27;1;
+19841082;2025-08-28;1;
+19841498;2025-09-11;log;subtype has been changed to Room/Hotel service discrepancy
+19841812;2025-08-29;1;
+19841833;2025-08-28;proc;need to change price by Order reconciliation amendment tool correctly
+19841854;2025-08-30;proc;need to change price by Order reconciliation amendment tool 
+19841879;2025-08-29;1;
+19841885;2025-08-29;1;
+19842399;2025-08-30;1;
+19842687;2025-08-27;1;
+19843104;2025-08-28;log;cause has been changed to Hotel-TPP process problem
+19843413;2025-08-30;1;
+19844209;2025-09-01;1;
+19844254;2025-08-31;1;
+19844413;2025-08-30;proc;need to change price by Order reconciliation amendment tool correctly
+19844834;2025-08-28;1;
+19845016;2025-08-28;1;
+19845034;2025-09-04;proc;dispute wasn't activated
+19845484;2025-09-02;comp;compensation amount was changed from AB to AS
+19846355;2025-08-31;log;cause has been changed to Availability
+19846362;2025-09-08;1;
+19846419;2025-08-31;1;
+19846530;2025-09-08;1;
+19846693;2025-08-27;1;
+19847099;2025-08-27;1;
+19847155;2025-08-27;1;
+19847266;2025-08-27;log;cause has been changed to Reprice
+19847288;2025-08-27;1;
+19847406;2025-08-27;1;
+19848016;2025-08-28;1;
+19848030;2025-09-01;1;
+19848468;2025-09-12;log;subtype has been changed to Payment discrepancy
+19848790;2025-09-08;1;
+19848838;2025-09-08;log;cause has been changed to Contract problem
+19848855;2025-08-28;1;
+19848935;2025-08-27;1;
+19849119;2025-08-27;proc;need to change price by Order reconciliation amendment tool 
+19849231;2025-08-27;log;subtype has been changed to Hotel unavailable
+19849422;2025-08-29;1;
+19849453;2025-09-03;1;
+19849725;2025-08-28;1;
+19849767;2025-08-27;log;subtype has been changed to Hotel unavailable
+19850059;2025-09-07;1;
+19850108;2025-08-27;log;subtype has been changed to Payment discrepancy
+19850215;2025-08-29;log;cause has been changed to Hotel-TPP process problem
+19850240;2025-08-27;1;
+19850268;2025-08-27;1;
+19850366;2025-09-13;1;
+19850381;2025-09-03;log, proc;source has been changed to Hotel service, dispute wasn't activated
+19850620;2025-08-27;1;
+19850637;2025-08-27;log, proc;subtype has been changed to Category discrepancy, need to change price by Order reconciliation amendment tool 
+19850823;2025-09-03;1;
+19850916;2025-08-31;1;
+19851327;2025-08-30;1;
+19851328;2025-08-27;1;
+19851413;2025-08-27;1;
+19851415;2025-08-27;1;
+19851428;2025-08-27;1;
+19851440;2025-08-27;1;
+19851595;2025-09-11;1;
+19851616;2025-08-31;1;
+19851795;2025-08-28;1;
+19851821;2025-08-30;1;
+19851947;2025-08-30;1;
+19851968;2025-09-02;1;
+19852285;2025-08-28;1;
+19852336;2025-08-31;1;
+19852741;2025-09-04;1;
+19853069;2025-08-29;1;
+19853251;2025-08-29;1;
+19853546;2025-08-27;proc;email to Reconciliation has been added
+19853603;2025-09-03;log;subtype has been changed to Payment discrepancy
+19853727;2025-08-28;1;
+19853779;2025-09-10;1;
+19853819;2025-08-27;1;
+19853879;2025-08-27;1;
+19853967;2025-08-27;1;
+19854111;2025-08-28;1;
+19854211;2025-09-07;1;
+19854483;2025-08-31;1;
+19854492;2025-08-28;proc;dispute wasn't activated
+19854755;2025-08-27;1;
+19854800;2025-08-28;1;
+19854989;2025-09-02;1;
+19855043;2025-09-03;log;cause has been changed to Incorrect booking data
+19855081;2025-08-29;1;
+19855247;2025-08-30;1;
+19855371;2025-09-11;1;
+19855557;2025-09-11;log;subtype has been changed to Overbooking
+19855765;2025-08-28;proc;need to change price by Order reconciliation amendment tool 
+19855792;2025-08-28;log;subtype has been changed to Unconfirmed booking
+19855804;2025-08-31;log;cause has been changed to TPP category misreading
+19855991;2025-08-27;1;
+19856008;2025-08-27;1;
+19856544;2025-09-01;1;
+19856736;2025-08-28;1;
+19856756;2025-08-28;1;
+19856836;2025-09-05;1;
+19856921;2025-08-30;1;
+19857098;2025-08-27;1;
+19857209;2025-08-29;1;
+19857222;2025-08-28;1;
+19857466;2025-08-29;log;source has been changed to Product
+19857472;2025-08-31;1;
+19857629;2025-09-03;log;subtype has been changed to Payment discrepancy
+19857642;2025-09-03;log;subtype has been changed to Payment discrepancy
+19857651;2025-09-03;log;subtype has been changed to Payment discrepancy
+19857780;2025-08-28;1;
+19857822;2025-08-28;1;
+19858097;2025-09-04;1;
+19858419;2025-08-29;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool 
+19858733;2025-08-28;log;cause has been changed to Room size
+19858848;2025-09-03;1;
+19859043;2025-08-28;log;source has been changed to Hotel service
+19859316;2025-09-07;1;
+19859382;2025-09-12;log;subtype has been changed to Unconfirmed booking
+19860016;2025-08-28;1;
+19860317;2025-09-12;1;
+19860415;2025-08-31;comp;compensation amount was changed from AB to AS
+19860698;2025-08-31;1;
+19860705;2025-08-27;1;
+19860941;2025-09-02;1;
+19861027;2025-09-03;1;
+19861363;2025-08-28;log, comp, proc;subtype has been changed to Unconfirmed booking, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19861472;2025-09-09;1;
+19861545;2025-09-04;comp;compensation was split
+19861585;2025-09-10;1;
+19861765;2025-09-05;1;
+19861935;2025-08-30;1;
+19862060;2025-09-03;1;
+19862451;2025-09-09;1;
+19862872;2025-08-31;1;
+19863117;2025-09-07;;
+19863202;2025-08-29;comp;compensation type has been changed
+19863255;2025-08-28;1;
+19863498;2025-08-28;1;
+19863635;2025-09-04;1;
+19863985;2025-09-06;1;
+19864196;2025-08-28;1;
+19864507;2025-09-03;1;
+19864713;2025-09-02;comp;compensation was split
+19864865;2025-08-28;1;
+19865032;2025-08-28;1;
+19865067;2025-09-07;1;
+19865470;2025-08-29;log;subtype has been changed to Hotel unavailable
+19865553;2025-09-04;1;
+19865567;2025-09-02;log;subtype has been changed to Hotel unavailable
+19865831;2025-09-02;log;subtype has been changed to Payment discrepancy
+19866150;2025-09-04;log;subtype has been changed to Room/Hotel service discrepancy
+19866316;2025-08-29;1;
+19866420;2025-09-06;1;
+19866819;2025-08-28;1;
+19866823;2025-08-31;1;
+19867252;2025-08-31;1;
+19867304;2025-08-28;1;
+19867687;2025-08-29;1;
+19867797;2025-08-29;1;
+19867923;2025-09-02;1;
+19867925;2025-08-28;1;
+19867948;2025-08-29;1;
+19868127;2025-08-30;1;
+19868185;2025-08-29;1;
+19868426;2025-09-01;1;
+19868558;2025-08-30;1;
+19868573;2025-08-28;proc;dispute wasn't activated
+19868643;2025-08-28;1;
+19868678;2025-08-28;1;
+19868884;2025-09-04;log;subtype has been changed to Hotel unavailable
+19869001;2025-08-31;1;
+19869171;2025-08-29;log;subtype has been changed to Room/Hotel service discrepancy
+19869256;2025-08-29;1;
+19869306;2025-09-05;1;
+19869407;2025-09-04;proc;need dispute (owner has been informed)
+19869626;2025-08-31;1;
+19869671;2025-08-31;1;
+19869680;2025-08-28;1;
+19869721;2025-08-31;1;
+19869773;2025-08-30;1;
+19870044;2025-09-05;1;
+19870423;2025-08-29;1;
+19870498;2025-08-28;1;
+19870632;2025-08-28;1;
+19871419;2025-08-28;1;
+19871761;2025-09-03;1;
+19871830;2025-09-03;1;
+19871833;2025-09-03;1;
+19871931;2025-08-29;1;
+19872320;2025-09-02;1;
+19872641;2025-09-03;1;
+19872759;2025-08-28;1;
+19872859;2025-09-14;1;
+19873354;2025-08-28;1;
+19873450;2025-08-29;1;
+19873907;2025-08-28;1;
+19873985;2025-08-28;1;
+19874056;2025-08-28;1;
+19874186;2025-08-28;1;
+19874192;2025-09-07;1;
+19874319;2025-08-28;1;
+19874361;2025-09-12;1;
+19874452;2025-08-28;1;
+19874824;2025-08-29;comp;extra compensation has been deleted
+19874842;2025-08-29;log;subtype has been changed to Hotel unavailable
+19874889;2025-09-03;1;
+19874979;2025-09-06;1;
+19875021;2025-08-29;1;
+19875038;2025-09-05;log, comp;subtype has been changed to Category discrepancy, missed compensation has been added
+19875135;2025-08-29;1;
+19875519;2025-08-31;1;
+19875823;2025-08-28;1;
+19875931;2025-09-01;1;
+19876202;2025-08-29;1;
+19876238;2025-09-14;1;
+19876486;2025-08-29;1;
+19876715;2025-08-29;log;source has been changed to Hotel service
+19876738;2025-09-14;1;
+19876745;2025-08-28;1;
+19876783;2025-09-02;1;
+19876948;2025-08-28;1;
+19876965;2025-08-31;1;
+19877036;2025-09-05;1;
+19877054;2025-09-02;1;
+19877077;2025-08-30;1;
+19877092;2025-09-06;log;subtype has been changed to Unconfirmed booking
+19877113;2025-09-06;log;cause has been changed to TPP contract problem
+19877139;2025-09-14;1;
+19877212;2025-09-12;1;
+19877221;2025-09-11;log, comp, proc;subtype has been changed to Payment discrepancy, compensation amount has been changed, need to change price by Order reconciliation amendment tool 
+19877223;2025-09-03;1;
+19877340;2025-08-30;log;subtype has been changed to Category discrepancy
+19877650;2025-09-05;1;
+19877834;2025-08-28;proc;need to change price by Order reconciliation amendment tool 
+19878130;2025-09-11;1;
+19878297;2025-08-29;log;subtype has been changed to Payment discrepancy
+19878519;2025-08-28;1;
+19878831;2025-09-13;log;subtype has been changed to Overbooking
+19879502;2025-09-12;log;subtype has been changed to Unconfirmed booking
+19879672;2025-09-14;1;
+19879747;2025-08-28;1;
+19879781;2025-08-29;1;
+19879838;2025-08-30;log;subtype has been changed to Unconfirmed booking
+19879916;2025-08-31;log;subtype has been changed to Payment discrepancy
+19880229;2025-08-30;log;source has been changed to Hotel service
+19880631;2025-08-29;1;
+19880774;2025-08-29;1;
+19880806;2025-09-02;Оунер Пачка;
+19880809;2025-08-30;1;
+19880833;2025-09-03;1;
+19880864;2025-08-29;1;
+19881315;2025-09-03;1;
+19881344;2025-08-29;log;cause has been changed to TPP hotel description
+19881780;2025-08-31;1;
+19881933;2025-09-06;1;
+19881935;2025-09-11;1;
+19882230;2025-08-29;1;
+19883136;2025-08-29;1;
+19884106;2025-08-29;comp;compensation amount has been changed
+19884127;2025-08-29;1;
+19884184;2025-08-31;1;
+19884334;2025-09-14;1;
+19884370;2025-08-29;1;
+19884397;2025-08-29;1;
+19884410;2025-08-29;proc;need dispute (owner has been informed)
+19884452;2025-09-01;Оунер ;
+19884477;2025-08-29;comp;compensation type has been changed
+19884503;2025-08-29;log;subtype has been changed to Room/Hotel service discrepancy
+19884649;2025-08-29;1;
+19884739;2025-09-07;1;
+19885140;2025-08-29;1;
+19885390;2025-09-06;1;
+19885867;2025-09-10;1;
+19885961;2025-08-29;1;
+19886054;2025-09-05;1;
+19886083;2025-08-30;log;subtype has been changed to Unconfirmed booking
+19886329;2025-08-30;log;cause has been changed to Hotel-TPP process problem
+19886373;2025-08-29;1;
+19886552;2025-08-30;1;
+19886814;2025-09-04;1;
+19886907;2025-08-29;1;
+19887442;2025-08-29;log;source has been changed to Hotel service
+19887664;2025-09-01;1;
+19887800;2025-08-29;log, comp;subtype has been changed to Overbooking, compensation type has been changed
+19888192;2025-08-29;log;subtype has been changed to Hotel unavailable
+19888217;2025-08-29;log;subtype has been changed to Room/Hotel service discrepancy
+19888232;2025-08-29;1;
+19888327;2025-09-08;1;
+19888584;2025-08-29;1;
+19888751;2025-08-29;log;cause has been changed to Technical reasons
+19888834;2025-08-29;1;
+19889057;2025-08-30;1;
+19889062;2025-09-03;log, proc;subtype has been changed to Category discrepancy, need dispute (owner has been informed)
+19889067;2025-08-31;proc;need dispute (owner has been informed)
+19889092;2025-09-10;comp;missed compensation has been added
+19889181;2025-09-09;1;
+19889340;2025-08-29;1;
+19889427;2025-08-31;1;
+19889554;2025-08-29;log;subtype has been changed to Hotel unavailable
+19889706;2025-09-09;1;
+19889769;2025-09-01;1;
+19889910;2025-09-14;1;
+19890132;2025-08-29;1;
+19890525;2025-08-29;1;
+19890560;2025-09-02;1;
+19890563;2025-09-03;1;
+19890571;2025-08-29;1;
+19890574;2025-09-09;1;
+19890610;2025-09-02;1;
+19890644;2025-09-02;1;
+19890648;2025-08-30;1;
+19890691;2025-08-31;1;
+19890955;2025-09-01;1;
+19891031;2025-09-06;1;
+19891091;2025-08-29;1;
+19891198;2025-09-01;1;
+19891237;2025-08-30;1;
+19891326;2025-08-31;log;subtype has been changed to Payment discrepancy
+19891394;2025-09-01;1;
+19891672;2025-08-30;1;
+19891729;2025-09-04;1;
+19891998;2025-09-03;1;
+19892071;2025-09-02;1;
+19892287;2025-09-03;1;
+19892694;2025-08-29;1;
+19892703;2025-09-01;1;
+19892823;2025-08-30;1;
+19892892;2025-08-29;1;
+19893070;2025-09-01;1;
+19893099;2025-08-30;comp;missed compensation has been added
+19893135;2025-09-08;1;
+19893154;2025-09-07;1;
+19893293;2025-08-31;1;
+19893379;2025-08-31;1;
+19893729;2025-09-10;1;
+19893840;2025-08-30;1;
+19894099;2025-09-12;1;
+19894208;2025-09-05;1;
+19894401;2025-09-01;1;
+19894479;2025-09-06;1;
+19894724;2025-08-29;1;
+19894813;2025-08-29;1;
+19895332;2025-09-01;1;
+19895667;2025-08-30;1;
+19896162;2025-08-29;1;
+19896408;2025-08-29;1;
+19896688;2025-09-01;1;
+19896925;2025-09-01;1;
+19897166;2025-09-06;log;subtype has been changed to Room/Hotel service discrepancy
+19897301;2025-09-02;1;
+19897749;2025-08-30;1;
+19898009;2025-09-03;comp;compensation amount has been changed
+19898299;2025-08-31;1;
+19898393;2025-09-04;comp;compensation was split
+19898500;2025-09-03;1;
+19898673;2025-08-31;log;subtype has been changed to Bedding discrepancy
+19898674;2025-09-03;1;
+19898682;2025-08-30;1;
+19898705;2025-09-03;comp, proc;compensation was split, dispute wasn't activated
+19898983;2025-08-30;1;
+19899083;2025-09-12;1;
+19899124;2025-09-05;1;
+19899214;2025-08-30;log;subtype has been changed to Hotel unavailable
+19899466;2025-09-07;1;
+19899482;2025-08-31;1;
+19899651;2025-08-30;log, comp, proc;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19899787;2025-09-05;comp;compensation was split
+19899791;2025-08-30;1;
+19900060;2025-09-05;log;subtype has been changed to Payment discrepancy
+19900370;2025-09-07;1;
+19900477;2025-08-31;comp;compensation was split
+19900569;2025-09-02;1;
+19900570;2025-09-12;1;
+19900680;2025-08-31;log;cause has been changed to Booking not found
+19900877;2025-08-31;1;
+19900988;2025-08-30;1;
+19901302;2025-09-05;1;
+19901714;2025-09-05;comp;extra compensation has been deleted
+19901847;2025-09-14;log;subtype has been changed to Payment discrepancy
+19901854;2025-09-01;1;
+19901879;2025-09-02;1;
+19902136;2025-09-02;1;
+19902198;2025-09-09;log, proc;subtype has been changed to Meal discrepancy, need dispute (owner has been informed)
+19902246;2025-09-06;1;
+19902390;2025-09-07;1;
+19902548;2025-09-06;1;
+19902671;2025-08-30;log;subtype has been changed to Overbooking
+19902816;2025-08-30;1;
+19902829;2025-09-01;1;
+19903109;2025-09-02;1;
+19903119;2025-09-03;1;
+19903137;2025-09-05;1;
+19903225;2025-09-02;1;
+19903328;2025-08-30;1;
+19903385;2025-08-30;log;cause has been changed to Hotel-TPP process problem
+19903484;2025-08-30;1;
+19903593;2025-09-07;log;subtype has been changed to Overbooking
+19903605;2025-09-02;1;
+19903976;2025-08-30;log;cause has been changed to Hotel description
+19904036;2025-09-03;log;subtype has been changed to Bedding discrepancy
+19904129;2025-09-04;1;
+19904358;2025-08-31;1;
+19904460;2025-08-30;1;
+19904461;2025-09-04;1;
+19904541;2025-09-04;1;
+19904668;2025-08-30;1;
+19904754;2025-08-30;log;subtype has been changed to Bedding discrepancy
+19904859;2025-09-03;1;
+19905096;2025-09-03;1;
+19905107;2025-08-30;log, proc;cause has been changed to Wrong rates in EXT, need to change price by Order reconciliation amendment tool 
+19905273;2025-09-01;1;
+19905280;2025-09-01;1;
+19905282;2025-08-30;1;
+19905438;2025-08-31;1;
+19905514;2025-09-08;log;subtype has been changed to Payment discrepancy
+19905744;2025-08-30;1;
+19905975;2025-08-30;1;
+19906258;2025-09-02;1;
+19906333;2025-08-31;comp;extra compensation has been deleted
+19906377;2025-09-01;1;
+19906401;2025-09-03;comp;compensation amount was changed from AB to AS
+19906423;2025-08-30;1;
+19906517;2025-08-31;1;
+19907010;2025-08-31;1;
+19907284;2025-08-30;1;
+19907472;2025-09-04;1;
+19907667;2025-09-01;log;subtype has been changed to Hotel unavailable
+19907719;2025-08-30;1;
+19907892;2025-09-02;proc;need to change price by Order reconciliation amendment tool 
+19907926;2025-08-30;log;subtype has been changed to Payment discrepancy
+19908257;2025-08-31;1;
+19908332;2025-09-03;1;
+19908511;2025-09-06;1;
+19908804;2025-09-12;log;subtype has been changed to Payment discrepancy
+19909106;2025-08-30;1;
+19909203;2025-08-30;1;
+19909211;2025-09-03;Оунер;
+19909269;2025-08-31;1;
+19909275;2025-09-04;log;cause has been changed to Hotel-TPP process problem
+19909488;2025-08-30;1;
+19909639;2025-09-04;1;
+19909692;2025-08-31;1;
+19909891;2025-09-03;1;
+19910248;2025-08-30;1;
+19910253;2025-08-31;1;
+19910406;2025-09-08;1;
+19910461;2025-09-13;1;
+19910512;2025-09-08;1;
+19910581;2025-09-03;1;
+19910962;2025-09-02;1;
+19911048;2025-09-05;1;
+19911050;2025-09-11;1;
+19911125;2025-08-30;1;
+19911242;2025-09-04;1;
+19911360;2025-08-30;1;
+19912033;2025-09-01;1;
+19912037;2025-08-30;1;
+19912138;2025-08-31;1;
+19912223;2025-09-01;comp;compensation amount was changed from AB to AS
+19912337;2025-09-02;1;
+19912642;2025-08-30;1;
+19912969;2025-09-01;1;
+19912974;2025-09-06;1;
+19913020;2025-08-30;1;
+19913039;2025-09-13;comp;compensation was split
+19913053;2025-09-13;comp;compensation was split
+19913067;2025-09-13;comp;compensation was split
+19913277;2025-08-31;1;
+19913551;2025-09-02;1;
+19913716;2025-09-04;1;
+19913790;2025-09-12;1;
+19913825;2025-09-11;1;
+19913866;2025-08-31;log, comp;source has been changed to Supply, missed compensation has been added
+19914044;2025-09-04;1;
+19914239;2025-09-13;log;subtype has been changed to Room/Hotel service discrepancy
+19914274;2025-08-31;1;
+19914574;2025-09-05;1;
+19914666;2025-09-14;log;subtype has been changed to Overbooking
+19914896;2025-09-03;1;
+19916128;2025-09-07;comp, proc;compensation amount has been changed, need dispute (owner has been informed)
+19916417;2025-08-31;proc;dispute wasn't activated
+19916844;2025-09-02;1;
+19916918;2025-09-01;1;
+19917728;2025-09-01;1;
+19917916;2025-09-01;log;subtype has been changed to Overbooking
+19918122;2025-08-31;1;
+19918630;2025-09-11;1;
+19918722;2025-08-31;log, comp;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS
+19918833;2025-09-07;1;
+19918904;2025-09-10;1;
+19919214;2025-09-03;1;
+19919487;2025-08-31;1;
+19919731;2025-09-11;1;
+19919769;2025-08-31;1;
+19919966;2025-08-31;1;
+19920067;2025-08-31;1;
+19920665;2025-08-31;1;
+19920675;2025-09-14;1;
+19920787;2025-08-31;1;
+19920817;2025-09-01;1;
+19921167;2025-09-11;proc;need dispute (owner has been informed)
+19921185;2025-09-07;log;subtype has been changed to Payment discrepancy
+19921372;2025-09-07;log;source has been changed to Workflow
+19921407;2025-08-31;1;
+19921742;2025-09-05;1;
+19921944;2025-08-31;comp;extra compensation has been deleted
+19922059;2025-09-03;log, comp, proc;subtype has been changed to Hotel unavailable, missed compensation has been added, email to Reconciliation has been added
+19922375;2025-09-05;1;
+19922386;2025-09-05;1;
+19922724;2025-08-31;1;
+19922991;2025-09-04;1;
+19923008;2025-08-31;1;
+19923137;2025-09-03;1;
+19923322;2025-09-01;1;
+19923341;2025-09-09;log;subtype has been changed to Payment discrepancy
+19923545;2025-09-02;1;
+19924053;2025-09-03;1;
+19924167;2025-09-01;1;
+19924279;2025-09-05;1;
+19924367;2025-08-31;1;
+19924605;2025-09-03;1;
+19924691;2025-09-06;1;
+19924694;2025-09-02;Оунер Пачка;
+19924715;2025-09-02;Оунер Пачка;
+19924840;2025-09-02;1;
+19924847;2025-09-01;1;
+19925081;2025-09-07;1;
+19925213;2025-09-10;1;
+19925520;2025-09-04;1;
+19925657;2025-09-01;1;
+19925993;2025-08-31;1;
+19926273;2025-08-31;log;cause has been changed to Hotel-TPP process problem
+19926317;2025-09-04;log;subtype has been changed to Room/Hotel service discrepancy
+19926439;2025-09-01;1;
+19926450;2025-09-05;proc;need dispute (owner has been informed)
+19926621;2025-09-05;1;
+19926793;2025-09-07;1;
+19926868;2025-09-03;1;
+19926923;2025-09-03;1;
+19926966;2025-09-02;1;
+19926971;2025-09-14;1;
+19927190;2025-09-14;1;
+19927192;2025-09-14;1;
+19927357;2025-09-01;1;
+19927406;2025-09-02;1;
+19927433;2025-09-01;comp, proc;missed compensation has been added, email to Reconciliation has been added
+19927600;2025-09-03;log;subtype has been changed to Hotel unavailable
+19927824;2025-09-02;1;
+19928130;2025-09-10;comp;compensation was split
+19928651;2025-09-02;1;
+19929457;2025-09-01;1;
+19929557;2025-09-10;log;cause has been changed to Room description
+19929600;2025-09-06;1;
+19929656;2025-09-02;1;
+19930176;2025-09-01;log;source has been changed to Supply
+19930475;2025-09-01;Потом смотреть по курсу;
+19930522;2025-09-01;потом;
+19930588;2025-09-01;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool 
+19930720;2025-09-04;1;
+19930895;2025-09-06;1;
+19930945;2025-09-10;1;
+19931108;2025-09-03;1;
+19931462;2025-09-02;log;source has been changed to Content
+19931486;2025-09-02;log;subtype has been changed to Hotel unavailable
+19931558;2025-09-03;1;
+19931760;2025-09-03;log;source has been changed to TPP
+19932020;2025-09-02;1;
+19932121;2025-09-02;Оунер Пачка;
+19932286;2025-09-04;1;
+19932289;2025-09-05;1;
+19932449;2025-09-01;1;
+19932626;2025-09-02;1;
+19932734;2025-09-02;proc;need to change price by Order reconciliation amendment tool 
+19932822;2025-09-05;1;
+19932911;2025-09-01;log;cause has been changed to Taxes
+19932957;2025-09-01;1;
+19933143;2025-09-01;1;
+19933343;2025-09-05;1;
+19933433;2025-09-01;1;
+19933483;2025-09-08;1;
+19933490;2025-09-01;1;
+19933534;2025-09-01;1;
+19933662;2025-09-02;1;
+19933700;2025-09-02;1;
+19933875;2025-09-03;1;
+19934180;2025-09-02;1;
+19935046;2025-09-01;1;
+19935621;2025-09-07;log;subtype has been changed to Category discrepancy
+19935770;2025-09-01;1;
+19935984;2025-09-01;1;
+19936191;2025-09-07;1;
+19936284;2025-09-01;1;
+19936727;2025-09-01;log;cause has been changed to TPP hotel description
+19936844;2025-09-01;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool 
+19936906;2025-09-01;1;
+19936909;2025-09-08;log;subtype has been changed to Payment discrepancy
+19936987;2025-09-06;1;
+19937108;2025-09-13;log;subtype has been changed to Payment discrepancy
+19937127;2025-09-01;1;
+19937167;2025-09-01;log;subtype has been changed to Payment discrepancy
+19937414;2025-09-01;1;
+19937503;2025-09-01;log;subtype has been changed to Payment discrepancy
+19937651;2025-09-01;Оунер;
+19937708;2025-09-01;1;
+19937930;2025-09-02;1;
+19937977;2025-09-03;log;subtype has been changed to Room/Hotel service discrepancy
+19938172;2025-09-01;proc;need to change price by Order reconciliation amendment tool 
+19938341;2025-09-06;1;
+19938372;2025-09-11;1;
+19938384;2025-09-02;1;
+19938596;2025-09-01;1;
+19938883;2025-09-06;1;
+19938884;2025-09-07;1;
+19939009;2025-09-03;log, comp;subtype has been changed to Payment discrepancy, missed compensation has been added
+19939042;2025-09-09;log, comp;subtype has been changed to Unconfirmed booking, compensation type has been changed
+19939333;2025-09-02;1;
+19939495;2025-09-11;1;
+19939565;2025-09-05;1;
+19939611;2025-09-01;1;
+19939749;2025-09-01;1;
+19939844;2025-09-01;1;
+19940030;2025-09-01;1;
+19940368;2025-09-02;1;
+19940399;2025-09-07;log;source has been changed to Product
+19940707;2025-09-06;1;
+19940801;2025-09-05;1;
+19940960;2025-09-01;log;cause has been changed to TPP room description
+19941357;2025-09-04;1;
+19941479;2025-09-06;log;source has been changed to Hotel service
+19941644;2025-09-02;1;
+19941981;2025-09-07;1;
+19942009;2025-09-06;proc;need to change price by Order reconciliation amendment tool 
+19942080;2025-09-02;proc;dispute wasn't activated
+19942207;2025-09-02;1;
+19942246;2025-09-02;1;
+19942425;2025-09-10;1;
+19942604;2025-09-02;1;
+19942631;2025-09-12;1;
+19942950;2025-09-03;1;
+19942993;2025-09-06;log;subtype has been changed to Payment discrepancy
+19943250;2025-09-01;1;
+19943257;2025-09-07;1;
+19943396;2025-09-04;proc;need dispute (owner has been informed)
+19943626;2025-09-02;log;subtype has been changed to Payment discrepancy
+19943682;2025-09-01;1;
+19943782;2025-09-03;1;
+19943867;2025-09-09;log;subtype has been changed to Hotel unavailable
+19944241;2025-09-09;1;
+19944529;2025-09-09;1;
+19944648;2025-09-06;log;subtype has been changed to Payment discrepancy
+19944694;2025-09-02;1;
+19944994;2025-09-10;1;
+19945090;2025-09-02;1;
+19945139;2025-09-11;log;source has been changed to Hotel service
+19945341;2025-09-11;1;
+19945828;2025-09-02;1;
+19946114;2025-09-03;1;
+19946180;2025-09-07;log;cause has been changed to Hotel-TPP process problem
+19946441;2025-09-02;1;
+19946537;2025-09-03;proc;email to Reconciliation has been added
+19946705;2025-09-07;1;
+19946713;2025-09-05;1;
+19946781;2025-09-05;1;
+19947248;2025-09-06;1;
+19947645;2025-09-02;1;
+19947820;2025-09-08;1;
+19948095;2025-09-02;1;
+19948410;2025-09-07;log;subtype has been changed to Room/Hotel service discrepancy
+19948740;2025-09-13;1;
+19948769;2025-09-10;log;subtype has been changed to Overbooking
+19949327;2025-09-09;1;
+19949529;2025-09-02;1;
+19949638;2025-09-06;1;
+19949689;2025-09-03;1;
+19949866;2025-09-05;1;
+19949992;2025-09-04;1;
+19949994;2025-09-02;1;
+19950259;2025-09-05;1;
+19950556;2025-09-05;1;
+19950557;2025-09-02;1;
+19950559;2025-09-02;1;
+19950623;2025-09-07;1;
+19950717;2025-09-03;1;
+19950791;2025-09-02;log;subtype has been changed to Room/Hotel service discrepancy
+19950939;2025-09-04;1;
+19951058;2025-09-02;1;
+19951371;2025-09-02;1;
+19951539;2025-09-03;1;
+19951810;2025-09-05;comp;currency of compensation has been changed
+19951831;2025-09-04;1;
+19952166;2025-09-09;1;
+19952339;2025-09-04;1;
+19952383;2025-09-10;1;
+19952401;2025-09-04;log, proc;subtype has been changed to Category discrepancy, dispute wasn't activated
+19952766;2025-09-02;1;
+19952771;2025-09-05;1;
+19952962;2025-09-03;1;
+19953015;2025-09-06;1;
+19953186;2025-09-04;1;
+19953199;2025-09-09;proc;need dispute (owner has been informed)
+19953297;2025-09-02;1;
+19953413;2025-09-02;1;
+19953586;2025-09-03;1;
+19953755;2025-09-02;1;
+19954086;2025-09-04;proc;dispute wasn't activated
+19954270;2025-09-02;1;
+19954402;2025-09-06;1;
+19954751;2025-09-05;1;
+19954781;2025-09-02;1;
+19954809;2025-09-02;1;
+19954997;2025-09-02;1;
+19955057;2025-09-13;1;
+19955212;2025-09-04;log;cause has been changed to TPP room description
+19955263;2025-09-05;1;
+19955282;2025-09-03;log;source has been changed to TPP
+19956426;2025-09-03;1;
+19956604;2025-09-03;1;
+19956661;2025-09-05;1;
+19956810;2025-09-04;1;
+19956817;2025-09-05;proc;email to Reconciliation has been added
+19957586;2025-09-04;1;
+19958092;2025-09-03;1;
+19958144;2025-09-10;1;
+19958355;2025-09-09;1;
+19958459;2025-09-02;1;
+19958729;2025-09-02;1;
+19958988;2025-09-02;1;
+19959013;2025-09-04;1;
+19959018;2025-09-03;1;
+19959226;2025-09-09;1;
+19959303;2025-09-06;log;source has been changed to Supply
+19959422;2025-09-02;1;
+19959466;2025-09-06;1;
+19959509;2025-09-02;1;
+19959615;2025-09-07;1;
+19959873;2025-09-02;1;
+19960031;2025-09-02;1;
+19960262;2025-09-06;1;
+19960305;2025-09-02;1;
+19960435;2025-09-03;1;
+19960499;2025-09-02;1;
+19960505;2025-09-03;proc;dispute wasn't activated
+19960712;2025-09-02;1;
+19960794;2025-09-05;proc;cause has been changed to Hotel-TPP process problem
+19960983;2025-09-04;1;
+19961081;2025-09-03;1;
+19961355;2025-09-05;1;
+19961427;2025-09-07;1;
+19961469;2025-09-08;1;
+19961749;2025-09-05;1;
+19962009;2025-09-04;1;
+19962212;2025-09-05;1;
+19962476;2025-09-13;1;
+19962604;2025-09-07;1;
+19962699;2025-09-03;1;
+19962703;2025-09-04;log;cause has been changed to Technical reasons
+19962706;2025-09-04;log;subtype has been changed to Room/Hotel service discrepancy
+19962723;2025-09-10;comp;missed compensation has been added
+19962736;2025-09-11;comp;compensation amount was changed from AB to AS
+19962928;2025-09-11;1;
+19962996;2025-09-08;1;
+19963446;2025-09-05;1;
+19963869;2025-09-04;1;
+19964086;2025-09-03;1;
+19964292;2025-09-06;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+19964662;2025-09-11;1;
+19964936;2025-09-03;1;
+19965594;2025-09-03;1;
+19965645;2025-09-03;1;
+19965905;2025-09-10;1;
+19966132;2025-09-10;log;source has been changed to Supply
+19966215;2025-09-05;1;
+19966436;2025-09-03;proc;need to change price by Order reconciliation amendment tool 
+19966544;2025-09-08;1;
+19966607;2025-09-04;1;
+19966821;2025-09-14;1;
+19967381;2025-09-03;1;
+19967419;2025-09-05;1;
+19967707;2025-09-13;comp;no business decision mark
+19967826;2025-09-07;log;subtype has been changed to Room/Hotel service discrepancy
+19967842;2025-09-07;потом;
+19968062;2025-09-08;log;subtype has been changed to Category discrepancy
+19968128;2025-09-03;1;
+19968146;2025-09-04;1;
+19968180;2025-09-04;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+19968217;2025-09-06;1;
+19968536;2025-09-05;comp;currency of compensation has been changed
+19968707;2025-09-07;1;
+19968814;2025-09-04;1;
+19969490;2025-09-04;1;
+19969527;2025-09-03;1;
+19969528;2025-09-08;1;
+19969775;2025-09-06;1;
+19970071;2025-09-04;1;
+19970221;2025-09-13;1;
+19970370;2025-09-04;1;
+19970398;2025-09-09;1;
+19970536;2025-09-03;1;
+19970731;2025-09-04;1;
+19970983;2025-09-07;1;
+19971111;2025-09-14;log;subtype has been changed to Category discrepancy
+19971129;2025-09-03;1;
+19971208;2025-09-04;1;
+19971239;2025-09-03;1;
+19971412;2025-09-03;1;
+19971492;2025-09-03;1;
+19971763;2025-09-11;1;
+19971786;2025-09-03;1;
+19972051;2025-09-10;log;subtype has been changed to Room/Hotel service discrepancy
+19972138;2025-09-07;1;
+19972334;2025-09-08;1;
+19972393;2025-09-03;1;
+19972686;2025-09-09;log;subtype has been changed to Payment discrepancy
+19972692;2025-09-03;1;
+19973008;2025-09-04;comp;compensation has been moved from terminated ticket
+19973396;2025-09-03;1;
+19974176;2025-09-10;1;
+19974505;2025-09-03;1;
+19974690;2025-09-05;log;cause has been changed to Hotel-TPP process problem
+19974781;2025-09-08;1;
+19974860;2025-09-03;log;source has been changed to TPP
+19974879;2025-09-04;1;
+19974888;2025-09-08;1;
+19975037;2025-09-04;1;
+19976129;2025-09-14;1;
+19976315;2025-09-03;1;
+19976388;2025-09-03;1;
+19976502;2025-09-08;1;
+19976632;2025-09-03;1;
+19976827;2025-09-11;1;
+19977051;2025-09-09;1;
+19977093;2025-09-04;1;
+19977148;2025-09-04;1;
+19977539;2025-09-08;log;cause has been changed to Hotel permanently closed
+19977754;2025-09-04;1;
+19978206;2025-09-12;1;
+19978210;2025-09-03;1;
+19978356;2025-09-12;1;
+19978390;2025-09-03;1;
+19978418;2025-09-05;1;
+19978838;2025-09-03;1;
+19978861;2025-09-03;1;
+19979164;2025-09-04;comp;compensation was split
+19979178;2025-09-04;1;
+19979419;2025-09-12;1;
+19979529;2025-09-05;comp;compensation type has been changed
+19979677;2025-09-06;comp;compensation amount has been changed
+19979916;2025-09-05;log;subtype has been changed to Unconfirmed booking
+19981087;2025-09-08;log;subtype has been changed to Payment discrepancy
+19981214;2025-09-04;log;cause has been changed to Hotel-TPP process problem
+19981216;2025-09-13;1;
+19981240;2025-09-11;1;
+19981509;2025-09-07;log;cause has been changed to Hotel-TPP process problem
+19981543;2025-09-07;1;
+19981744;2025-09-07;1;
+19981820;2025-09-05;1;
+19981835;2025-09-06;1;
+19981954;2025-09-08;comp;extra compensation has been deleted
+19982114;2025-09-05;1;
+19982399;2025-09-04;1;
+19982621;2025-09-07;1;
+19982823;2025-09-03;1;
+19983259;2025-09-11;log;cause has been changed to Taxes
+19983280;2025-09-09;1;
+19983290;2025-09-05;1;
+19983391;2025-09-07;log;subtype has been changed to Hotel unavailable
+19983557;2025-09-04;1;
+19984102;2025-09-05;1;
+19984807;2025-09-06;1;
+19984888;2025-09-05;1;
+19985149;2025-09-13;proc;dispute wasn't activated
+19985903;2025-09-06;1;
+19986219;2025-09-04;1;
+19986671;2025-09-05;1;
+19986745;2025-09-04;1;
+19987011;2025-09-08;1;
+19987490;2025-09-04;1;
+19987518;2025-09-10;1;
+19987547;2025-09-05;1;
+19987554;2025-09-05;1;
+19987814;2025-09-07;1;
+19987854;2025-09-04;1;
+19987901;2025-09-07;1;
+19987923;2025-09-06;1;
+19988042;2025-09-05;1;
+19988150;2025-09-04;proc;email to Reconciliation has been added
+19988212;2025-09-10;1;
+19988266;2025-09-11;1;
+19988333;2025-09-04;1;
+19988800;2025-09-08;log;source has been changed to Hotel service
+19988979;2025-09-06;1;
+19989132;2025-09-04;proc;dispute wasn't activated
+19989237;2025-09-11;1;
+19989539;2025-09-07;1;
+19989838;2025-09-11;log;cause has been changed to Booking not found
+19989843;2025-09-05;1;
+19990722;2025-09-04;1;
+19990904;2025-09-05;1;
+19990990;2025-09-04;1;
+19991088;2025-09-08;1;
+19991096;2025-09-08;1;
+19991882;2025-09-05;1;
+19991949;2025-09-04;1;
+19991994;2025-09-06;1;
+19992105;2025-09-07;log;subtype has been changed to Payment discrepancy
+19992219;2025-09-04;1;
+19992224;2025-09-04;1;
+19992413;2025-09-04;1;
+19992799;2025-09-07;1;
+19992805;2025-09-04;1;
+19992894;2025-09-11;1;
+19992952;2025-09-04;1;
+19993080;2025-09-07;1;
+19993315;2025-09-10;1;
+19993360;2025-09-10;1;
+19993553;2025-09-04;1;
+19993623;2025-09-08;1;
+19993982;2025-09-05;1;
+19994040;2025-09-13;1;
+19994087;2025-09-08;1;
+19994230;2025-09-05;1;
+19994324;2025-09-11;log;source has been changed to Hotel service
+19994520;2025-09-06;1;
+19994900;2025-09-07;1;
+19994956;2025-09-04;1;
+19994982;2025-09-07;1;
+19995620;2025-09-05;1;
+19995681;2025-09-08;comp;compensation was split
+19995735;2025-09-05;log;source has been changed to Content
+19995747;2025-09-05;comp;compensation type has been changed
+19995852;2025-09-12;1;
+19996292;2025-09-11;log;cause has been changed to Hotel-TPP process problem
+19996297;2025-09-04;1;
+19996666;2025-09-06;1;
+19996686;2025-09-06;1;
+19996745;2025-09-04;1;
+19996860;2025-09-05;1;
+19996928;2025-09-04;proc;need to change price by Order reconciliation amendment tool 
+19997047;2025-09-11;log;cause has been changed to Hotel-TPP process problem
+19997363;2025-09-11;1;
+19997377;2025-09-05;1;
+19997439;2025-09-05;1;
+19997463;2025-09-07;1;
+19997673;2025-09-05;1;
+19997692;2025-09-06;1;
+19997973;2025-09-05;1;
+19998345;2025-09-04;1;
+19998358;2025-09-06;1;
+19998422;2025-09-07;proc;need to change price by Order reconciliation amendment tool 
+19998702;2025-09-07;1;
+19998809;2025-09-07;1;
+19998837;2025-09-14;comp;compensation amount was changed from AB to AS
+19999245;2025-09-05;1;
+19999269;2025-09-08;1;
+19999418;2025-09-07;1;
+19999444;2025-09-05;1;
+19999631;2025-09-05;log;source has been changed to Product
+19999748;2025-09-08;1;
+19999814;2025-09-05;proc;email to Reconciliation has been added
+19999903;2025-09-14;log;subtype has been changed to Bedding discrepancy
+19999945;2025-09-07;1;
+20000037;2025-09-12;proc;need dispute (owner has been informed)
+20000289;2025-09-08;comp;compensation amount has been changed
+20000320;2025-09-06;1;
+20000588;2025-09-06;1;
+20000805;2025-09-05;1;
+20000868;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+20000994;2025-09-11;1;
+20001471;2025-09-05;1;
+20001581;2025-09-13;comp;compensation amount was changed from AB to AS
+20001853;2025-09-07;1;
+20001885;2025-09-07;1;
+20001952;2025-09-08;1;
+20002166;2025-09-05;log;source has been changed to Content
+20002288;2025-09-05;log;source has been changed to Hotel service
+20002418;2025-09-07;1;
+20002503;2025-09-13;proc;need dispute (owner has been informed)
+20002971;2025-09-08;1;
+20003159;2025-09-07;1;
+20003652;2025-09-06;1;
+20003696;2025-09-10;1;
+20003734;2025-09-09;1;
+20003894;2025-09-11;1;
+20004314;2025-09-06;1;
+20004430;2025-09-05;1;
+20004439;2025-09-06;1;
+20004772;2025-09-06;1;
+20004917;2025-09-10;1;
+20004995;2025-09-06;log;source has been changed to Product
+20005137;2025-09-06;Полная дичь, посмоотреть вместе;
+20005144;2025-09-05;1;
+20005233;2025-09-05;1;
+20005633;2025-09-05;1;
+20005827;2025-09-11;1;
+20006257;2025-09-06;Дима;
+20006343;2025-09-09;1;
+20006445;2025-09-05;1;
+20006489;2025-09-12;1;
+20006537;2025-09-05;1;
+20006634;2025-09-08;1;
+20006869;2025-09-05;1;
+20007169;2025-09-05;1;
+20007472;2025-09-05;1;
+20007539;2025-09-06;1;
+20007742;2025-09-07;log;subtype has been changed to Overbooking
+20008357;2025-09-10;1;
+20008820;2025-09-11;1;
+20008858;2025-09-05;proc;need to change price by Order reconciliation amendment tool 
+20008882;2025-09-05;1;
+20008946;2025-09-05;1;
+20009063;2025-09-06;log;subtype has been changed to Unconfirmed booking
+20009148;2025-09-09;1;
+20009417;2025-09-05;1;
+20009419;2025-09-06;log;source has been changed to Hotel service
+20009574;2025-09-08;1;
+20009589;2025-09-05;1;
+20009692;2025-09-10;log;cause has been changed to Hotel-TPP process problem
+20009754;2025-09-08;1;
+20010780;2025-09-06;1;
+20010882;2025-09-08;1;
+20011035;2025-09-12;1;
+20011161;2025-09-13;1;
+20011336;2025-09-05;1;
+20011606;2025-09-05;1;
+20011645;2025-09-05;1;
+20011738;2025-09-09;1;
+20011764;2025-09-05;1;
+20011833;2025-09-08;log;subtype has been changed to Payment discrepancy
+20011890;2025-09-05;1;
+20011907;2025-09-11;1;
+20011911;2025-09-09;log;subtype has been changed to Payment discrepancy
+20012089;2025-09-06;1;
+20012224;2025-09-14;1;
+20012319;2025-09-06;log;subtype has been changed to Room/Hotel service discrepancy
+20012499;2025-09-08;log;cause has been changed to Booking not found
+20012921;2025-09-05;1;
+20013013;2025-09-05;1;
+20013073;2025-09-05;log;subtype has been changed to Room/Hotel service discrepancy
+20013079;2025-09-05;1;
+20013165;2025-09-05;1;
+20013416;2025-09-06;1;
+20013580;2025-09-13;1;
+20013685;2025-09-06;1;
+20013769;2025-09-07;1;
+20013962;2025-09-06;log;cause has been changed to Nationality
+20014020;2025-09-05;log;subtype has been changed to Unconfirmed booking
+20014208;2025-09-11;1;
+20014382;2025-09-05;1;
+20014424;2025-09-06;1;
+20014470;2025-09-05;1;
+20014665;2025-09-07;1;
+20014727;2025-09-14;log;subtype has been changed to Payment discrepancy
+20014764;2025-09-09;1;
+20014791;2025-09-07;1;
+20014827;2025-09-11;log;subtype has been changed to Payment discrepancy
+20014835;2025-09-05;1;
+20015280;2025-09-05;1;
+20015826;2025-09-05;1;
+20015958;2025-09-05;1;
+20016109;2025-09-07;1;
+20016450;2025-09-13;1;
+20016686;2025-09-10;1;
+20016798;2025-09-13;proc;need to change price by Order reconciliation amendment tool 
+20017248;2025-09-06;1;
+20017440;2025-09-09;1;
+20017769;2025-09-08;1;
+20017771;2025-09-06;log;subtype has been changed to Payment discrepancy
+20017990;2025-09-05;1;
+20018296;2025-09-05;1;
+20018337;2025-09-06;log;subtype has been changed to Room/Hotel service discrepancy
+20018433;2025-09-06;1;
+20018480;2025-09-06;1;
+20018736;2025-09-06;comp;compensation amount was changed from AB to AS
+20018766;2025-09-09;1;
+20019270;2025-09-07;log;source has been changed to Content
+20019280;2025-09-06;log;source has been changed to Product
+20019539;2025-09-06;1;
+20019619;2025-09-11;proc;need to change price by Order reconciliation amendment tool 
+20019767;2025-09-08;1;
+20019851;2025-09-05;1;
+20019862;2025-09-05;1;
+20020023;2025-09-06;log;subtype has been changed to Payment discrepancy
+20020221;2025-09-06;1;
+20020324;2025-09-10;1;
+20020902;2025-09-09;1;
+20021215;2025-09-12;1;
+20021252;2025-09-07;1;
+20021254;2025-09-06;comp;compensation amount was changed from AB to AS
+20021265;2025-09-06;log;subtype has been changed to Unconfirmed booking
+20021708;2025-09-07;log;cause has been changed to Hotel-TPP process problem
+20022086;2025-09-08;log;subtype has been changed to Payment discrepancy
+20022107;2025-09-06;comp;extra compensation has been deleted
+20022126;2025-09-06;1;
+20022160;2025-09-06;1;
+20022357;2025-09-07;1;
+20022361;2025-09-06;1;
+20022476;2025-09-07;1;
+20022481;2025-09-08;1;
+20022489;2025-09-06;1;
+20022668;2025-09-07;1;
+20022712;2025-09-07;comp;compensation amount was changed from AB to AS
+20022713;2025-09-09;1;
+20022757;2025-09-07;1;
+20022877;2025-09-07;log;source has been changed to TPP
+20022879;2025-09-14;1;
+20023070;2025-09-11;1;
+20023077;2025-09-06;proc;email to Reconciliation has been added
+20023134;2025-09-06;1;
+20023231;2025-09-06;1;
+20023282;2025-09-06;1;
+20023365;2025-09-06;1;
+20023573;2025-09-06;1;
+20023667;2025-09-06;1;
+20023787;2025-09-10;1;
+20024366;2025-09-14;1;
+20024412;2025-09-06;1;
+20024475;2025-09-06;1;
+20024657;2025-09-06;1;
+20024663;2025-09-06;1;
+20024744;2025-09-06;1;
+20025095;2025-09-11;1;
+20025239;2025-09-12;1;
+20025246;2025-09-06;log;subtype has been changed to Room/Hotel service discrepancy
+20025389;2025-09-07;1;
+20025463;2025-09-07;log;subtype has been changed to Payment discrepancy
+20025508;2025-09-07;1;
+20025541;2025-09-06;1;
+20025597;2025-09-14;1;
+20025877;2025-09-06;1;
+20026193;2025-09-06;1;
+20026210;2025-09-07;1;
+20026411;2025-09-10;1;
+20026425;2025-09-07;1;
+20026453;2025-09-08;proc;need to change price by Order reconciliation amendment tool 
+20026572;2025-09-06;1;
+20026712;2025-09-14;log, proc;subtype has been changed to Category discrepancy, need dispute (owner has been informed)
+20026743;2025-09-13;1;
+20026833;2025-09-06;1;
+20027075;2025-09-10;1;
+20027088;2025-09-06;1;
+20027090;2025-09-09;log;subtype has been changed to Payment discrepancy
+20027356;2025-09-06;1;
+20027427;2025-09-11;proc;dispute wasn't activated
+20027515;2025-09-07;1;
+20027600;2025-09-07;1;
+20027604;2025-09-07;1;
+20027810;2025-09-11;1;
+20027825;2025-09-08;comp;missed compensation has been added
+20027828;2025-09-13;1;
+20027966;2025-09-09;1;
+20028018;2025-09-10;1;
+20028141;2025-09-06;1;
+20028461;2025-09-09;1;
+20028604;2025-09-06;1;
+20028652;2025-09-06;1;
+20028805;2025-09-08;1;
+20028985;2025-09-08;1;
+20029006;2025-09-11;1;
+20029109;2025-09-10;1;
+20029278;2025-09-06;1;
+20029303;2025-09-06;1;
+20029321;2025-09-06;1;
+20029394;2025-09-06;1;
+20029461;2025-09-09;1;
+20029466;2025-09-14;1;
+20029599;2025-09-08;1;
+20030030;2025-09-10;1;
+20030064;2025-09-07;1;
+20030133;2025-09-06;1;
+20030423;2025-09-08;1;
+20030564;2025-09-07;1;
+20031061;2025-09-06;1;
+20031069;2025-09-09;1;
+20031099;2025-09-06;1;
+20031128;2025-09-11;comp;missed compensation has been added
+20031221;2025-09-06;1;
+20031233;2025-09-07;1;
+20031397;2025-09-07;1;
+20031460;2025-09-08;log;source has been changed to Content
+20031947;2025-09-07;1;
+20031952;2025-09-07;1;
+20031987;2025-09-10;comp, proc;compensation type has been changed, email to Reconciliation has been added
+20032158;2025-09-06;comp;missed compensation has been added
+20032323;2025-09-09;log;source has been changed to Supply
+20032668;2025-09-13;log;subtype has been changed to Unconfirmed booking
+20032747;2025-09-06;log;subtype has been changed to Unconfirmed booking
+20032902;2025-09-06;1;
+20033077;2025-09-07;1;
+20033295;2025-09-07;proc;need to change price by Order reconciliation amendment tool 
+20033311;2025-09-10;log;subtype has been changed to Payment discrepancy
+20033394;2025-09-09;1;
+20033511;2025-09-08;1;
+20033662;2025-09-07;1;
+20033842;2025-09-07;1;
+20033875;2025-09-07;1;
+20034052;2025-09-07;1;
+20034105;2025-09-07;1;
+20034126;2025-09-08;1;
+20034378;2025-09-07;1;
+20035012;2025-09-12;1;
+20035222;2025-09-07;1;
+20035240;2025-09-07;1;
+20035616;2025-09-11;proc;need dispute (owner has been informed)
+20035751;2025-09-07;1;
+20036804;2025-09-08;1;
+20037010;2025-09-08;1;
+20037131;2025-09-11;1;
+20037165;2025-09-11;1;
+20037351;2025-09-09;log;subtype has been changed to Payment discrepancy
+20037439;2025-09-08;1;
+20037770;2025-09-13;log;source has been changed to Supply
+20037969;2025-09-09;log, proc;cause has been changed to Nationality, need dispute (owner has been informed)
+20038366;2025-09-08;1;
+20038437;2025-09-14;1;
+20039011;2025-09-13;log;cause has been changed to Hotel-TPP process problem
+20039085;2025-09-08;1;
+20039316;2025-09-07;1;
+20039499;2025-09-07;1;
+20039641;2025-09-11;1;
+20039728;2025-09-07;1;
+20039910;2025-09-09;1;
+20039949;2025-09-13;log, proc;cause has been changed to Nationality, need dispute (owner has been informed)
+20040023;2025-09-10;1;
+20040723;2025-09-09;1;
+20040876;2025-09-07;1;
+20041182;2025-09-07;1;
+20041272;2025-09-09;log;subtype has been changed to Unconfirmed booking
+20041408;2025-09-08;log;subtype has been changed to Room/Hotel service discrepancy
+20041575;2025-09-07;1;
+20041606;2025-09-07;log, proc;subtype has been changed to Payment discrepancy, need to change price by Order reconciliation amendment tool 
+20041608;2025-09-10;1;
+20041842;2025-09-07;1;
+20042331;2025-09-09;log;subtype has been changed to Room/Hotel service discrepancy
+20042348;2025-09-08;1;
+20042566;2025-09-10;1;
+20042764;2025-09-12;1;
+20043089;2025-09-11;1;
+20043431;2025-09-10;proc;need dispute (owner has been informed)
+20043454;2025-09-13;1;
+20043684;2025-09-07;1;
+20043812;2025-09-10;1;
+20044185;2025-09-08;1;
+20044240;2025-09-11;1;
+20044356;2025-09-07;1;
+20044537;2025-09-08;1;
+20044558;2025-09-07;1;
+20044589;2025-09-11;1;
+20044642;2025-09-11;1;
+20044695;2025-09-07;1;
+20044787;2025-09-09;proc;dispute wasn't activated
+20044882;2025-09-12;proc;dispute wasn't activated
+20045125;2025-09-08;1;
+20045355;2025-09-07;1;
+20045358;2025-09-08;1;
+20045683;2025-09-07;1;
+20046111;2025-09-07;1;
+20046130;2025-09-11;1;
+20046654;2025-09-09;1;
+20047046;2025-09-08;1;
+20047094;2025-09-13;1;
+20047104;2025-09-12;1;
+20047311;2025-09-12;log, proc;source has been changed to Hotel service, need dispute (owner has been informed)
+20047317;2025-09-11;1;
+20047566;2025-09-10;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+20047963;2025-09-08;1;
+20048978;2025-09-08;1;
+20049323;2025-09-09;1;
+20049573;2025-09-08;1;
+20049921;2025-09-08;log, comp;subtype has been changed to Hotel unavailable, compensation amount was changed from AB to AS
+20050531;2025-09-09;log, proc;subtype has been changed to Hotel unavailable, email to Reconciliation has been added
+20050559;2025-09-09;1;
+20050567;2025-09-09;1;
+20050626;2025-09-11;1;
+20050642;2025-09-08;1;
+20051223;2025-09-08;1;
+20051824;2025-09-12;1;
+20052112;2025-09-12;1;
+20052173;2025-09-08;1;
+20052272;2025-09-14;1;
+20052443;2025-09-08;1;
+20052576;2025-09-10;1;
+20052607;2025-09-08;1;
+20053490;2025-09-09;1;
+20053816;2025-09-08;log;cause has been changed to Hotel-TPP process problem
+20053818;2025-09-10;log, comp;cause has been changed to Hotel-TPP process problem, missed compensation has been added
+20053948;2025-09-10;1;
+20053981;2025-09-08;comp;missed compensation has been added
+20054074;2025-09-11;1;
+20054352;2025-09-08;1;
+20054584;2025-09-13;1;
+20054725;2025-09-08;1;
+20054878;2025-09-09;log;cause has been changed to TPP room description
+20055031;2025-09-12;1;
+20055515;2025-09-12;1;
+20055607;2025-09-09;1;
+20055813;2025-09-09;comp;missed compensation has been added
+20056161;2025-09-12;1;
+20056367;2025-09-08;1;
+20056630;2025-09-10;log;source has been changed to Hotel service
+20056913;2025-09-08;comp;missed compensation has been added
+20056926;2025-09-13;1;
+20057747;2025-09-11;1;
+20058211;2025-09-12;1;
+20058369;2025-09-08;1;
+20058384;2025-09-08;1;
+20058386;2025-09-09;proc;email to Reconciliation has been added
+20058395;2025-09-12;1;
+20058744;2025-09-09;1;
+20058871;2025-09-08;1;
+20058910;2025-09-12;1;
+20059416;2025-09-13;1;
+20059547;2025-09-08;log;subtype has been changed to Category discrepancy
+20059625;2025-09-12;log;subtype has been changed to Unconfirmed booking
+20059668;2025-09-09;1;
+20059676;2025-09-09;1;
+20059782;2025-09-10;1;
+20059803;2025-09-11;1;
+20059906;2025-09-08;1;
+20060091;2025-09-09;1;
+20060292;2025-09-08;1;
+20060297;2025-09-09;1;
+20060536;2025-09-14;log;subtype has been changed to Payment discrepancy
+20060633;2025-09-10;1;
+20060730;2025-09-09;1;
+20060767;2025-09-11;1;
+20060980;2025-09-14;log;subtype has been changed to Unconfirmed booking
+20061071;2025-09-10;log;subtype has been changed to Hotel unavailable
+20061665;2025-09-14;1;
+20061711;2025-09-10;proc;need dispute (owner has been informed)
+20061997;2025-09-13;log;subtype has been changed to Room/Hotel service discrepancy
+20062026;2025-09-09;1;
+20062298;2025-09-12;log;subtype has been changed to Overbooking
+20062338;2025-09-08;1;
+20062678;2025-09-14;comp;compensation was split
+20062741;2025-09-09;log;subtype has been changed to Unconfirmed booking
+20062782;2025-09-09;log;subtype has been changed to Unconfirmed booking
+20062836;2025-09-08;comp;compensation amount has been changed
+20062863;2025-09-12;1;
+20062914;2025-09-08;1;
+20062929;2025-09-10;1;
+20062972;2025-09-11;1;
+20063110;2025-09-13;1;
+20063485;2025-09-12;1;
+20063500;2025-09-12;1;
+20063608;2025-09-09;1;
+20064002;2025-09-11;1;
+20064251;2025-09-08;1;
+20064395;2025-09-10;1;
+20064428;2025-09-08;1;
+20064449;2025-09-08;1;
+20064494;2025-09-08;1;
+20064627;2025-09-13;comp;compensation was split
+20064635;2025-09-13;comp;compensation was split
+20064646;2025-09-13;comp;compensation was split
+20064764;2025-09-14;1;
+20064879;2025-09-09;1;
+20064942;2025-09-09;1;
+20065125;2025-09-10;1;
+20065450;2025-09-10;log;subtype has been changed to Hotel unavailable
+20065465;2025-09-14;log;subtype has been changed to Room/Hotel service discrepancy
+20065629;2025-09-11;1;
+20065696;2025-09-09;1;
+20065849;2025-09-12;1;
+20065939;2025-09-12;proc;dispute wasn't activated
+20066069;2025-09-11;proc;dispute wasn't activated
+20066495;2025-09-10;1;
+20066500;2025-09-14;1;
+20066539;2025-09-08;1;
+20066864;2025-09-09;1;
+20067399;2025-09-11;1;
+20067446;2025-09-11;1;
+20068166;2025-09-09;proc;dispute wasn't activated
+20068257;2025-09-13;1;
+20068350;2025-09-12;1;
+20068442;2025-09-11;1;
+20068448;2025-09-09;log;subtype has been changed to Room/Hotel service discrepancy
+20069899;2025-09-09;1;
+20070399;2025-09-12;1;
+20070656;2025-09-09;1;
+20070727;2025-09-10;1;
+20070899;2025-09-12;log;subtype has been changed to Room/Hotel service discrepancy
+20070954;2025-09-11;1;
+20071053;2025-09-12;1;
+20071364;2025-09-11;log, proc;subtype has been changed to Payment discrepancy, dispute wasn't activated
+20071433;2025-09-09;1;
+20071450;2025-09-11;proc;dispute wasn't activated
+20071535;2025-09-14;proc;dispute wasn't activated
+20071794;2025-09-09;log;subtype has been changed to Payment discrepancy
+20071876;2025-09-09;1;
+20071939;2025-09-12;comp;compensation amount was changed from AB to AS
+20071941;2025-09-09;1;
+20072193;2025-09-14;1;
+20072222;2025-09-09;1;
+20072286;2025-09-10;1;
+20072380;2025-09-09;1;
+20072533;2025-09-09;1;
+20072916;2025-09-09;1;
+20073197;2025-09-12;1;
+20073603;2025-09-14;1;
+20073937;2025-09-09;1;
+20074200;2025-09-10;1;
+20074442;2025-09-12;comp;compensation amount has been changed
+20074962;2025-09-13;log;subtype has been changed to Payment discrepancy
+20075009;2025-09-11;1;
+20075093;2025-09-10;1;
+20075146;2025-09-11;1;
+20075377;2025-09-10;1;
+20075637;2025-09-14;proc;need to change price by Order reconciliation amendment tool 
+20075690;2025-09-09;1;
+20076029;2025-09-09;1;
+20076511;2025-09-10;1;
+20076597;2025-09-09;1;
+20076660;2025-09-09;1;
+20076891;2025-09-09;1;
+20076896;2025-09-12;1;
+20077082;2025-09-13;1;
+20077105;2025-09-10;proc;need dispute (owner has been informed)
+20077393;2025-09-09;1;
+20077671;2025-09-09;1;
+20077864;2025-09-09;1;
+20077966;2025-09-10;log;subtype has been changed to Hotel unavailable
+20078175;2025-09-12;log;subtype has been changed to Category discrepancy
+20078332;2025-09-13;1;
+20078392;2025-09-10;1;
+20078981;2025-09-13;1;
+20078999;2025-09-11;1;
+20079023;2025-09-09;1;
+20079142;2025-09-10;1;
+20079175;2025-09-09;1;
+20079272;2025-09-13;1;
+20079292;2025-09-09;1;
+20079502;2025-09-09;comp;compensation has been moved from terminated ticket
+20079715;2025-09-10;1;
+20079806;2025-09-09;1;
+20079835;2025-09-09;1;
+20080087;2025-09-10;proc;dispute wasn't activated
+20080409;2025-09-10;1;
+20080670;2025-09-14;1;
+20080785;2025-09-11;1;
+20081180;2025-09-10;1;
+20081261;2025-09-10;1;
+20081346;2025-09-09;comp;extra compensation has been deleted
+20081347;2025-09-09;1;
+20081451;2025-09-12;1;
+20081754;2025-09-09;1;
+20081867;2025-09-09;1;
+20081897;2025-09-09;1;
+20081952;2025-09-10;1;
+20082086;2025-09-14;1;
+20082301;2025-09-12;1;
+20082916;2025-09-10;log;source has been changed to Content
+20083136;2025-09-10;log;cause has been changed to TPP room description
+20083318;2025-09-10;log;source has been changed to Hotel service
+20083657;2025-09-12;1;
+20084483;2025-09-13;1;
+20084539;2025-09-09;1;
+20084631;2025-09-09;log;subtype has been changed to Room/Hotel service discrepancy
+20084818;2025-09-10;1;
+20084943;2025-09-10;log;cause has been changed to TPP hotel description
+20085901;2025-09-10;1;
+20086221;2025-09-14;1;
+20086347;2025-09-10;1;
+20086769;2025-09-09;1;
+20086831;2025-09-10;1;
+20087039;2025-09-09;log;subtype has been changed to Hotel unavailable
+20087250;2025-09-10;1;
+20087437;2025-09-11;1;
+20087670;2025-09-09;1;
+20087736;2025-09-13;1;
+20087889;2025-09-10;1;
+20088202;2025-09-13;1;
+20088428;2025-09-10;1;
+20088531;2025-09-09;log;cause has been changed to Booking not found
+20089277;2025-09-10;1;
+20089523;2025-09-10;log, comp, proc;subtype has been changed to Overbooking, compensation amount was changed from AB to AS, dispute wasn't activated
+20089550;2025-09-13;log;subtype has been changed to Overbooking
+20090146;2025-09-14;1;
+20090178;2025-09-11;1;
+20090287;2025-09-11;1;
+20090424;2025-09-11;1;
+20090487;2025-09-13;1;
+20090578;2025-09-10;1;
+20091421;2025-09-11;proc;dispute wasn't activated
+20091548;2025-09-11;1;
+20091552;2025-09-10;log;subtype has been changed to Category discrepancy
+20092099;2025-09-10;1;
+20092237;2025-09-12;1;
+20092715;2025-09-10;1;
+20092970;2025-09-12;1;
+20093073;2025-09-10;1;
+20093101;2025-09-13;1;
+20093258;2025-09-11;log, proc;subtype has been changed to Category discrepancy, need to change price by Order reconciliation amendment tool 
+20093395;2025-09-12;log, proc;source has been changed to Supply, need to change price by Order reconciliation amendment tool 
+20093427;2025-09-11;1;
+20093614;2025-09-10;1;
+20093762;2025-09-10;1;
+20094059;2025-09-10;1;
+20094215;2025-09-12;1;
+20094289;2025-09-12;1;
+20094349;2025-09-13;comp;compensation amount was changed from AB to AS
+20094670;2025-09-10;1;
+20095252;2025-09-12;1;
+20095364;2025-09-11;proc;dispute wasn't activated
+20095524;2025-09-10;1;
+20095715;2025-09-11;comp;compensation amount was changed from AB to AS
+20095742;2025-09-14;1;
+20096041;2025-09-10;1;
+20096437;2025-09-10;1;
+20096882;2025-09-14;1;
+20097108;2025-09-10;1;
+20097467;2025-09-10;1;
+20097555;2025-09-10;1;
+20097572;2025-09-11;1;
+20097921;2025-09-13;log, comp;cause has been changed to Booking not found, compensation amount was changed from AB to AS
+20097975;2025-09-10;1;
+20098991;2025-09-10;1;
+20099150;2025-09-11;log;source has been changed to Product
+20099364;2025-09-13;1;
+20099378;2025-09-10;1;
+20099442;2025-09-11;1;
+20099458;2025-09-12;1;
+20099500;2025-09-13;comp;compensation amount was changed from AB to AS
+20099768;2025-09-13;1;
+20099905;2025-09-11;log;cause has been changed to Contract problem
+20099932;2025-09-11;1;
+20099960;2025-09-13;1;
+20099965;2025-09-10;1;
+20100045;2025-09-10;1;
+20100046;2025-09-11;1;
+20100050;2025-09-13;1;
+20100161;2025-09-11;1;
+20100654;2025-09-11;proc;need to change price by Order reconciliation amendment tool 
+20100664;2025-09-11;1;
+20100730;2025-09-14;1;
+20100854;2025-09-11;1;
+20101305;2025-09-10;Оунер;
+20101502;2025-09-11;comp;compensation was split
+20101644;2025-09-12;1;
+20102009;2025-09-10;1;
+20102321;2025-09-11;1;
+20102375;2025-09-11;1;
+20102437;2025-09-10;1;
+20102489;2025-09-10;1;
+20102827;2025-09-12;1;
+20102845;2025-09-14;1;
+20102965;2025-09-10;comp;missed compensation has been added
+20103033;2025-09-12;1;
+20103165;2025-09-13;1;
+20103257;2025-09-10;proc;need dispute (owner has been informed)
+20103550;2025-09-14;1;
+20104066;2025-09-10;1;
+20104081;2025-09-13;1;
+20104270;2025-09-10;1;
+20104461;2025-09-11;log;source has been changed to Hotel service
+20104521;2025-09-11;1;
+20104764;2025-09-11;1;
+20105088;2025-09-11;log;subtype has been changed to Payment discrepancy
+20105104;2025-09-11;log, comp, proc;cause has been changed to Hotel-TPP process problem, compensation amount was changed from AB to AS, compensation amount was changed from AB to AS
+20106548;2025-09-12;log;cause has been changed to Hotel-TPP process problem
+20106641;2025-09-12;1;
+20106824;2025-09-10;1;
+20107634;2025-09-12;1;
+20107750;2025-09-13;1;
+20107800;2025-09-11;1;
+20107806;2025-09-11;1;
+20107808;2025-09-11;1;
+20107810;2025-09-12;1;
+20107815;2025-09-13;1;
+20108474;2025-09-11;1;
+20108559;2025-09-14;1;
+20108614;2025-09-12;log;subtype has been changed to Hotel unavailable
+20108721;2025-09-12;1;
+20109111;2025-09-13;1;
+20109127;2025-09-13;log;source has been changed to Hotel service
+20109457;2025-09-14;comp;currency of compensation has been changed
+20110237;2025-09-11;log;subtype has been changed to Overbooking
+20110772;2025-09-14;1;
+20110799;2025-09-11;1;
+20111424;2025-09-11;1;
+20111463;2025-09-11;log;subtype has been changed to Bedding discrepancy
+20111722;2025-09-14;proc;dispute wasn't activated
+20112167;2025-09-11;proc;need to change price by Order reconciliation amendment tool 
+20112205;2025-09-11;1;
+20112278;2025-09-13;1;
+20112458;2025-09-12;1;
+20112901;2025-09-11;comp;missed compensation has been added
+20113359;2025-09-11;1;
+20113450;2025-09-11;1;
+20113551;2025-09-12;1;
+20114170;2025-09-14;1;
+20114469;2025-09-11;1;
+20114482;2025-09-12;1;
+20114498;2025-09-11;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+20114816;2025-09-11;1;
+20114869;2025-09-11;log;cause has been changed to Technical reasons
+20115316;2025-09-12;1;
+20115409;2025-09-11;1;
+20115442;2025-09-12;1;
+20115680;2025-09-11;1;
+20115681;2025-09-11;1;
+20115881;2025-09-11;1;
+20116125;2025-09-11;1;
+20116287;2025-09-12;proc;email to Reconciliation has been added
+20116445;2025-09-11;1;
+20117118;2025-09-11;proc;email to Reconciliation has been added
+20117456;2025-09-11;1;
+20117525;2025-09-12;log;cause has been changed to Booking not found
+20118055;2025-09-12;1;
+20118147;2025-09-13;1;
+20118551;2025-09-14;log;cause has been changed to Booking not found
+20118836;2025-09-13;1;
+20118848;2025-09-14;1;
+20119477;2025-09-11;log;subtype has been changed to Hotel unavailable
+20120218;2025-09-12;comp;missed compensation has been added
+20120725;2025-09-12;1;
+20121155;2025-09-11;1;
+20121481;2025-09-11;1;
+20121577;2025-09-12;1;
+20121670;2025-09-11;1;
+20121711;2025-09-12;1;
+20121770;2025-09-12;1;
+20122339;2025-09-11;1;
+20122502;2025-09-11;1;
+20122927;2025-09-12;1;
+20123106;2025-09-11;proc;need to change price by Order reconciliation amendment tool 
+20123227;2025-09-12;1;
+20123413;2025-09-14;1;
+20123580;2025-09-11;1;
+20123621;2025-09-11;1;
+20124257;2025-09-13;1;
+20124521;2025-09-11;1;
+20124534;2025-09-11;1;
+20124557;2025-09-11;1;
+20124576;2025-09-11;1;
+20124967;2025-09-13;log, proc;source has been changed to TPP, need dispute (owner has been informed)	
+20125471;2025-09-11;1;
+20125567;2025-09-12;1;
+20125875;2025-09-14;1;
+20125981;2025-09-12;1;
+20125992;2025-09-11;log, comp;cause has been changed to Hotel-TPP process problem, missed compensation has been added
+20126008;2025-09-12;log, comp;subtype has been changed to Category discrepancy, compensation amount was changed from AB to AS
+20126379;2025-09-11;1;
+20126659;2025-09-13;1;
+20126787;2025-09-12;1;
+20126957;2025-09-13;comp, proc;compensation type has been changed, email to Reconciliation has been added
+20127148;2025-09-11;1;
+20127159;2025-09-12;1;
+20127201;2025-09-12;1;
+20127379;2025-09-12;comp, proc;compensation amount was changed from AB to AS, need to change price by Order reconciliation amendment tool 
+20127860;2025-09-12;1;
+20128575;2025-09-11;1;
+20128699;2025-09-12;1;
+20128768;2025-09-12;1;
+20129612;2025-09-14;1;
+20130133;2025-09-13;1;
+20130558;2025-09-13;1;
+20130991;2025-09-12;1;
+20131311;2025-09-13;1;
+20132182;2025-09-12;1;
+20132298;2025-09-12;1;
+20132461;2025-09-13;1;
+20132584;2025-09-14;log, proc;subtype has been changed to Room/Hotel service discrepancy, dispute wasn't activated
+20132599;2025-09-13;1;
+20132912;2025-09-14;comp;compensation type has been changed
+20133522;2025-09-12;1;
+20133645;2025-09-12;log;source has been changed to Content
+20133841;2025-09-12;1;
+20134222;2025-09-12;1;
+20134937;2025-09-13;1;
+20135111;2025-09-12;1;
+20135455;2025-09-12;log;subtype has been changed to Category discrepancy
+20135603;2025-09-13;proc;need to change price by Order reconciliation amendment tool 
+20136241;2025-09-12;1;
+20136296;2025-09-12;1;
+20136324;2025-09-12;1;
+20136544;2025-09-12;1;
+20136712;2025-09-12;1;
+20137048;2025-09-12;1;
+20137049;2025-09-12;1;
+20137174;2025-09-12;1;
+20137597;2025-09-12;log, proc;source has been changed to TPP, need dispute (owner has been informed)
+20137607;2025-09-12;1;
+20137766;2025-09-14;1;
+20137798;2025-09-12;1;
+20137819;2025-09-13;log;subtype has been changed to Hotel unavailable
+20138249;2025-09-13;log;cause has been changed to Nationality
+20138429;2025-09-12;1;
+20138485;2025-09-12;1;
+20138721;2025-09-13;log;cause has been changed to TPP room description
+20139097;2025-09-12;1;
+20139915;2025-09-12;1;
+20140571;2025-09-12;log;subtype has been changed to Room/Hotel service discrepancy
+20140649;2025-09-13;1;
+20140671;2025-09-13;log;source has been changed to Hotel service
+20141121;2025-09-13;1;
+20141163;2025-09-12;1;
+20141511;2025-09-13;1;
+20141535;2025-09-12;log;subtype has been changed to Payment discrepancy
+20141997;2025-09-13;1;
+20142032;2025-09-12;1;
+20142110;2025-09-13;1;
+20142336;2025-09-13;1;
+20142337;2025-09-12;proc;email to Reconciliation has been added
+20142348;2025-09-13;1;
+20142636;2025-09-13;1;
+20142873;2025-09-12;1;
+20142887;2025-09-13;1;
+20143100;2025-09-14;1;
+20143590;2025-09-13;1;
+20143658;2025-09-13;1;
+20143804;2025-09-13;1;
+20143867;2025-09-13;1;
+20144135;2025-09-13;1;
+20144238;2025-09-13;1;
+20144247;2025-09-14;1;
+20144671;2025-09-12;1;
+20144832;2025-09-12;1;
+20145036;2025-09-13;1;
+20145060;2025-09-13;1;
+20145203;2025-09-14;proc;dispute wasn't activated
+20145253;2025-09-13;log;cause has been changed to TPP mismatch
+20145267;2025-09-12;1;
+20145609;2025-09-13;1;
+20146752;2025-09-14;1;
+20146965;2025-09-14;log;subtype has been changed to Room/Hotel service discrepancy
+20147001;2025-09-13;1;
+20147041;2025-09-13;log;source has been changed to Hotel service
+20147085;2025-09-13;1;
+20148104;2025-09-13;1;
+20148185;2025-09-13;1;
+20148205;2025-09-13;1;
+20148263;2025-09-14;1;
+20148452;2025-09-13;comp, proc;missed compensation has been added, need to change price by Order reconciliation amendment tool 
+20148552;2025-09-14;1;
+20148709;2025-09-14;1;
+20148786;2025-09-13;1;
+20148808;2025-09-13;1;
+20149149;2025-09-13;1;
+20149237;2025-09-13;1;
+20150386;2025-09-13;1;
+20150902;2025-09-13;1;
+20150927;2025-09-13;1;
+20150988;2025-09-13;1;
+20151189;2025-09-13;1;
+20151207;2025-09-13;1;
+20151676;2025-09-13;1;
+20151730;2025-09-13;log;subtype has been changed to Category discrepancy
+20152225;2025-09-14;1;
+20152226;2025-09-13;1;
+20152227;2025-09-13;1;
+20152299;2025-09-14;1;
+20152644;2025-09-13;log;subtype has been changed to Room/Hotel service discrepancy
+20152705;2025-09-14;1;
+20152926;2025-09-13;1;
+20153189;2025-09-13;1;
+20153631;2025-09-13;1;
+20153802;2025-09-13;1;
+20153851;2025-09-13;1;
+20154005;2025-09-13;1;
+20154022;2025-09-13;log;subtype has been changed to Payment discrepancy
+20154224;2025-09-13;1;
+20154310;2025-09-13;1;
+20154772;2025-09-13;log;cause has been changed to Taxes
+20155098;2025-09-13;1;
+20155235;2025-09-13;1;
+20155530;2025-09-14;1;
+20155969;2025-09-13;log;subtype has been changed to Hotel unavailable
+20156319;2025-09-13;log;subtype has been changed to Room/Hotel service discrepancy
+20156706;2025-09-13;1;
+20156752;2025-09-13;1;
+20157426;2025-09-13;1;
+20157440;2025-09-14;1;
+20157519;2025-09-14;1;
+20157604;2025-09-13;1;
+20157609;2025-09-13;1;
+20157825;2025-09-13;1;
+20158157;2025-09-13;1;
+20158296;2025-09-13;1;
+20158406;2025-09-14;log;subtype has been changed to Room/Hotel service discrepancy
+20159334;2025-09-13;1;
+20159631;2025-09-14;log;cause has been changed to Hotel-TPP process problem
+20159924;2025-09-14;1;
+20160202;2025-09-13;1;
+20160371;2025-09-14;1;
+20160673;2025-09-13;1;
+20160731;2025-09-13;1;
+20160884;2025-09-14;1;
+20161047;2025-09-14;log;cause has been changed to Hotel-TPP process problem
+20161493;2025-09-14;log;subtype has been changed to Room/Hotel service discrepancy
+20162204;2025-09-14;1;
+20162424;2025-09-13;1;
+20162483;2025-09-14;1;
+20162678;2025-09-14;1;
+20162735;2025-09-13;log, comp, proc;subtype has been changed to Room/Hotel service discrepancy, compensation amount has been changed, need to change price by Order reconciliation amendment tool 
+20164217;2025-09-14;1;
+20164228;2025-09-14;1;
+20164398;2025-09-14;1;
+20164599;2025-09-14;1;
+20164914;2025-09-14;1;
+20165735;2025-09-14;log;subtype has been changed to Hotel unavailable
+20165738;2025-09-14;1;
+20166546;2025-09-14;1;
+20166911;2025-09-14;1;
+20167057;2025-09-14;1;
+20167099;2025-09-14;1;
+20167636;2025-09-14;1;
+20167821;2025-09-14;1;
+20168118;2025-09-14;1;
+20168209;2025-09-14;1;
+20168262;2025-09-14;comp;compensation amount was changed from AB to AS
+20168486;2025-09-14;1;
+20169054;2025-09-14;1;
+20169918;2025-09-14;1;
+20169944;2025-09-14;1;
+20170175;2025-09-14;1;
+20170278;2025-09-14;1;
+20171297;2025-09-14;1;
+20171771;2025-09-14;log;source has been changed to Hotel service
+20172021;2025-09-14;1;
+20172073;2025-09-14;1;
+20172320;2025-09-14;1;
+20173189;2025-09-14;1;
+20173194;2025-09-14;1;
+20173647;2025-09-14;1;
+20174412;2025-09-14;1;
+20175261;2025-09-14;1;
+20176735;2025-09-14;1;
+20176844;2025-09-14;1;
